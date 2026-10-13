@@ -1,0 +1,3 @@
+order_id,customer,amount,order_date
+1004,Alice,1800.00,2026-02-02
+1005,David,950.00,2026-02-05
