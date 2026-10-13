@@ -1,0 +1,6 @@
+{
+  "project": "Python Data Engineering",
+  "environment": "development",
+  "batch_size": 1000,
+  "enabled": true
+}
