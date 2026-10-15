@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data
+data/processed/
+data/*.npy
+data/*.npz
+data/*.csv
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
