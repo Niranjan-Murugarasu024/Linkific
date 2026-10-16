@@ -1,0 +1,13 @@
+,missing_values,unique_values,dtype
+order_id,0,2000,str
+order_date,0,364,datetime64[us]
+customer_id,0,491,str
+region,0,4,str
+product,0,5,str
+category,0,2,str
+unit_price,0,5,int64
+quantity,0,7,int64
+discount,0,4,float64
+status,0,3,str
+gross_revenue,0,35,int64
+net_revenue,0,139,float64

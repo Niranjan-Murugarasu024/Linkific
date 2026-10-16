@@ -1,0 +1,7 @@
+employee_id,name,department,salary,experience,city
+101,Alice,It,75000.0,4.0,Chennai
+104,,Finance,61000.0,3.0,
+105,Eva,Hr,58000.0,,Madurai
+105,Eva,Hr,58000.0,,Madurai
+102,Bob,Hr,52000.0,2.0,Coimbatore
+103,Charlie,It,,6.0,Chennai
