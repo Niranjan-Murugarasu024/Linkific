@@ -1,0 +1,9 @@
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+statsmodels>=0.14
+ydata-profiling>=4.8
+jupyter>=1.0
+ipykernel>=6.29

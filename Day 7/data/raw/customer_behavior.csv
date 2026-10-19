@@ -1,0 +1,1501 @@
+customer_id,age,sessions_last_30d,avg_order_value,days_since_last_purchase,support_tickets,device,acquisition_channel,converted
+C00001,20.0,3,85.36,65,0,Mobile,Paid Search,1
+C00002,59.0,9,106.24,53,2,Desktop,Organic,1
+C00003,67.0,12,34.23,56,1,Tablet,Organic,0
+C00004,27.0,10,92.59,153,0,Tablet,Organic,0
+C00005,36.0,3,99.73,116,1,Desktop,Social,0
+C00006,67.0,4,98.4,58,1,Mobile,Organic,1
+C00007,20.0,12,64.83,129,2,Mobile,Email,0
+C00008,73.0,7,87.97,42,1,Mobile,Social,0
+C00009,69.0,9,55.61,47,0,Tablet,Referral,0
+C00010,26.0,9,67.68,0,0,Desktop,Organic,0
+C00011,,14,48.93,173,1,Mobile,Organic,0
+C00012,58.0,7,56.03,42,2,Mobile,Organic,0
+C00013,18.0,5,68.98,135,1,Desktop,Organic,0
+C00014,47.0,8,62.73,21,1,Mobile,Paid Search,0
+C00015,21.0,7,56.03,6,1,Desktop,Paid Search,1
+C00016,48.0,9,42.51,121,2,Desktop,Referral,0
+C00017,38.0,7,124.03,17,1,Desktop,Email,0
+C00018,58.0,9,62.49,26,1,Desktop,Paid Search,0
+C00019,69.0,5,83.25,59,1,Desktop,Email,0
+C00020,46.0,6,31.03,105,0,Mobile,Social,0
+C00021,55.0,13,108.94,3,0,Desktop,Paid Search,0
+C00022,52.0,11,79.18,22,0,Desktop,Organic,1
+C00023,75.0,5,63.9,60,2,Desktop,Email,0
+C00024,31.0,7,64.12,126,1,Mobile,Social,0
+C00025,31.0,9,96.74,17,4,Desktop,Paid Search,0
+C00026,39.0,9,8.0,51,2,Mobile,Email,1
+C00027,60.0,12,54.4,34,1,Desktop,Paid Search,0
+C00028,68.0,7,72.02,55,2,Desktop,Referral,0
+C00029,34.0,6,71.73,46,0,Mobile,Referral,0
+C00030,24.0,10,137.63,115,1,Mobile,Social,1
+C00031,53.0,10,66.56,12,1,Mobile,Referral,0
+C00032,52.0,6,99.76,169,1,Mobile,Organic,0
+C00033,39.0,8,120.29,44,0,Desktop,Social,0
+C00034,28.0,10,91.77,178,1,Desktop,Email,0
+C00035,67.0,9,58.15,131,1,Mobile,Social,0
+C00036,67.0,6,42.89,64,0,Desktop,Organic,0
+C00037,61.0,3,93.64,54,2,Mobile,Organic,0
+C00038,51.0,11,116.13,170,1,Mobile,Paid Search,0
+C00039,33.0,7,88.65,179,0,Desktop,Email,0
+C00040,41.0,7,105.84,110,3,Desktop,Referral,0
+C00041,21.0,7,139.8,8,2,Mobile,Referral,1
+C00042,32.0,6,95.93,163,0,Mobile,Email,0
+C00043,44.0,8,47.48,85,1,Tablet,Organic,0
+C00044,43.0,7,76.28,5,1,Desktop,Referral,0
+C00045,22.0,10,109.26,144,1,Tablet,Email,0
+C00046,73.0,4,68.78,5,2,Desktop,Organic,0
+C00047,33.0,9,112.64,66,2,Desktop,Social,0
+C00048,47.0,9,73.33,13,1,Mobile,Referral,0
+C00049,44.0,5,83.36,78,0,Tablet,Referral,0
+C00050,45.0,8,66.23,144,0,Mobile,Referral,0
+C00051,67.0,12,78.99,23,0,Mobile,Referral,0
+C00052,61.0,4,80.31,24,2,Mobile,Social,0
+C00053,68.0,7,34.79,172,2,Mobile,Social,0
+C00054,39.0,4,63.96,31,0,Mobile,Organic,0
+C00055,33.0,11,44.17,20,2,Mobile,Social,0
+C00056,42.0,3,64.82,105,1,Mobile,Referral,0
+C00057,50.0,12,55.12,49,2,Mobile,Referral,0
+C00058,37.0,9,100.3,172,2,Tablet,Referral,0
+C00059,44.0,4,100.58,29,1,Mobile,Organic,1
+C00060,26.0,4,89.01,102,0,Desktop,Paid Search,0
+C00061,51.0,13,43.31,165,0,Mobile,Referral,0
+C00062,59.0,15,72.55,131,2,Mobile,Referral,0
+C00063,48.0,10,41.32,5,2,Mobile,Email,1
+C00064,68.0,7,71.32,33,0,Mobile,Referral,0
+C00065,75.0,3,91.19,22,1,Desktop,Social,0
+C00066,70.0,9,99.8,164,2,Mobile,Paid Search,0
+C00067,23.0,7,86.82,36,1,Desktop,Email,1
+C00068,69.0,10,106.46,10,1,Mobile,Paid Search,0
+C00069,37.0,11,81.49,68,3,Mobile,Social,0
+C00070,44.0,12,69.16,50,2,Mobile,Paid Search,0
+C00071,41.0,4,96.84,29,2,Desktop,Organic,0
+C00072,34.0,8,97.66,81,2,Tablet,Email,0
+C00073,68.0,9,61.9,162,1,Mobile,Email,0
+C00074,54.0,7,84.47,40,0,Mobile,Referral,0
+C00075,74.0,5,67.64,176,2,Tablet,Organic,0
+C00076,73.0,9,24.79,119,2,Mobile,Referral,1
+C00077,42.0,10,86.0,68,2,Tablet,Paid Search,0
+C00078,60.0,8,42.64,122,0,Mobile,Organic,0
+C00079,47.0,7,83.21,62,3,Desktop,Email,0
+C00080,46.0,6,36.62,38,1,Mobile,Email,0
+C00081,60.0,10,57.01,42,4,Mobile,Referral,0
+C00082,57.0,12,64.16,1,1,Mobile,Email,1
+C00083,70.0,9,105.04,116,1,Mobile,Organic,0
+C00084,62.0,6,61.66,13,0,Desktop,Email,1
+C00085,54.0,11,48.13,35,2,Mobile,Referral,0
+C00086,71.0,9,84.11,0,1,Mobile,Social,1
+C00087,23.0,8,69.58,11,1,Tablet,Paid Search,0
+C00088,62.0,9,94.76,162,0,Desktop,Social,0
+C00089,40.0,7,49.7,4,1,Desktop,Social,1
+C00090,43.0,5,80.27,111,2,Desktop,Paid Search,0
+C00091,,3,136.74,58,1,Desktop,Email,0
+C00092,33.0,8,69.02,24,0,Mobile,Paid Search,1
+C00093,69.0,5,79.67,53,3,Mobile,Organic,0
+C00094,46.0,9,33.47,16,1,Desktop,Referral,0
+C00095,38.0,13,53.68,56,0,Mobile,Paid Search,0
+C00096,37.0,13,86.49,147,0,Mobile,Paid Search,0
+C00097,42.0,3,66.75,111,0,Mobile,Organic,0
+C00098,72.0,6,90.36,145,1,Tablet,Email,0
+C00099,23.0,8,85.62,125,1,Mobile,Social,1
+C00100,47.0,11,42.05,166,0,Desktop,Referral,0
+C00101,66.0,6,100.38,19,2,Mobile,Social,1
+C00102,45.0,6,43.93,28,1,Desktop,Referral,0
+C00103,50.0,13,55.88,74,2,Tablet,Referral,0
+C00104,38.0,10,80.74,94,2,Mobile,Social,0
+C00105,25.0,7,114.18,141,1,Tablet,Referral,0
+C00106,55.0,9,49.9,21,0,Desktop,Paid Search,1
+C00107,71.0,9,78.69,19,0,Mobile,Social,0
+C00108,48.0,9,78.9,143,3,Mobile,Social,0
+C00109,43.0,9,91.43,98,1,Mobile,Email,0
+C00110,25.0,16,104.6,74,1,Mobile,Social,1
+C00111,72.0,8,64.9,39,0,Desktop,Social,0
+C00112,68.0,5,100.3,125,0,Mobile,Email,0
+C00113,70.0,7,108.26,144,2,Mobile,Referral,0
+C00114,38.0,6,119.6,5,2,Desktop,Organic,1
+C00115,54.0,6,87.55,9,1,Mobile,Paid Search,0
+C00116,43.0,6,78.94,140,1,Mobile,Paid Search,0
+C00117,31.0,10,63.14,159,0,Mobile,Referral,0
+C00118,29.0,10,38.53,41,3,Desktop,Email,0
+C00119,40.0,9,68.05,127,1,Mobile,Referral,0
+C00120,50.0,8,77.81,151,1,Tablet,Referral,0
+C00121,25.0,10,9999.0,20,0,Mobile,Email,0
+C00122,58.0,7,89.94,33,0,Mobile,Social,1
+C00123,44.0,11,38.65,23,1,Mobile,Paid Search,0
+C00124,69.0,6,70.45,142,1,Desktop,Organic,0
+C00125,34.0,12,124.87,138,0,Mobile,Email,0
+C00126,20.0,5,99.89,24,1,Tablet,Paid Search,0
+C00127,36.0,11,90.4,31,0,Mobile,Social,1
+C00128,74.0,10,84.77,119,1,Desktop,Email,1
+C00129,36.0,8,65.86,161,2,Mobile,Organic,1
+C00130,58.0,10,31.15,140,2,Mobile,Email,0
+C00131,66.0,4,86.43,30,2,Mobile,Email,0
+C00132,34.0,9,13.79,69,1,Desktop,Organic,0
+C00133,55.0,12,66.86,11,1,Desktop,Email,0
+C00134,29.0,9,74.91,43,1,Mobile,Referral,0
+C00135,39.0,8,63.82,101,0,Mobile,Referral,0
+C00136,35.0,4,129.28,62,3,Tablet,Referral,1
+C00137,56.0,9,120.61,109,1,Mobile,Referral,0
+C00138,68.0,6,100.82,53,1,Mobile,Referral,0
+C00139,32.0,6,51.87,101,0,Desktop,Organic,0
+C00140,34.0,9,123.04,113,1,Mobile,Email,0
+C00141,65.0,8,90.47,35,1,Mobile,Email,0
+C00142,44.0,6,51.45,8,2,Mobile,Referral,0
+C00143,47.0,8,75.82,60,2,Desktop,Paid Search,1
+C00144,58.0,8,98.96,7,4,Tablet,Social,0
+C00145,25.0,8,60.03,28,2,Mobile,Social,0
+C00146,68.0,8,78.51,51,2,Mobile,Email,0
+C00147,39.0,9,82.91,60,2,Mobile,Paid Search,0
+C00148,56.0,15,47.48,49,0,Tablet,Organic,0
+C00149,43.0,8,68.25,9,1,Mobile,Email,0
+C00150,61.0,10,49.36,31,1,Mobile,Organic,0
+C00151,53.0,10,96.72,158,0,Mobile,Social,1
+C00152,28.0,6,52.3,129,0,Desktop,Paid Search,0
+C00153,28.0,6,82.3,79,0,Mobile,Referral,0
+C00154,68.0,16,40.25,4,1,Mobile,Referral,1
+C00155,48.0,5,46.66,64,0,Mobile,Referral,0
+C00156,33.0,8,45.45,166,2,Desktop,Social,0
+C00157,26.0,11,67.76,145,1,Desktop,Organic,0
+C00158,25.0,5,79.51,136,5,Desktop,Referral,0
+C00159,71.0,11,84.12,44,2,Tablet,Organic,0
+C00160,74.0,10,30.69,72,3,Mobile,Email,0
+C00161,40.0,6,70.78,5,1,Mobile,Referral,0
+C00162,29.0,5,56.24,154,1,Desktop,Organic,0
+C00163,42.0,13,88.35,20,1,Desktop,Email,0
+C00164,25.0,9,68.31,111,1,Mobile,Email,0
+C00165,49.0,11,72.98,50,2,Desktop,Organic,0
+C00166,54.0,5,56.38,102,2,Desktop,Organic,0
+C00167,75.0,7,118.12,148,1,Tablet,Referral,0
+C00168,36.0,9,42.91,56,0,Mobile,Referral,1
+C00169,29.0,8,65.01,3,1,Mobile,Organic,0
+C00170,25.0,7,77.69,119,2,Desktop,Paid Search,0
+C00171,39.0,7,68.72,95,3,Desktop,Paid Search,0
+C00172,52.0,6,55.9,25,0,Mobile,Organic,0
+C00173,21.0,5,29.71,8,3,Mobile,Organic,0
+C00174,62.0,7,57.71,94,1,Mobile,Email,0
+C00175,44.0,8,51.02,110,2,Mobile,Email,1
+C00176,64.0,9,116.98,20,0,Desktop,Referral,1
+C00177,44.0,7,131.62,107,0,Mobile,Paid Search,0
+C00178,27.0,11,73.73,80,0,Desktop,Email,1
+C00179,19.0,5,39.88,24,0,Desktop,Paid Search,0
+C00180,50.0,5,93.45,110,0,Mobile,Organic,0
+C00181,49.0,6,50.47,116,1,Desktop,Social,0
+C00182,65.0,2,61.27,27,1,Desktop,Social,0
+C00183,68.0,5,59.28,121,0,Desktop,Social,1
+C00184,27.0,2,62.49,39,1,Desktop,Organic,1
+C00185,36.0,10,66.13,107,0,Mobile,Social,1
+C00186,30.0,8,42.16,146,2,Tablet,Social,0
+C00187,24.0,6,57.45,168,1,Desktop,Email,0
+C00188,18.0,11,100.5,46,0,Desktop,Social,1
+C00189,22.0,5,74.16,60,0,Mobile,Organic,0
+C00190,48.0,9,78.13,17,2,Desktop,Paid Search,1
+C00191,26.0,10,19.19,174,2,Mobile,Organic,0
+C00192,29.0,13,98.69,59,1,Desktop,Email,1
+C00193,24.0,5,57.86,144,2,Mobile,Referral,0
+C00194,60.0,16,103.1,168,1,Desktop,Organic,0
+C00195,54.0,11,78.86,85,0,Mobile,Email,0
+C00196,73.0,7,60.95,124,1,Mobile,Paid Search,0
+C00197,24.0,10,33.06,85,0,Desktop,Referral,0
+C00198,30.0,8,129.37,103,0,Mobile,Social,1
+C00199,44.0,6,95.08,44,1,Mobile,Paid Search,0
+C00200,55.0,6,96.58,151,2,Tablet,Paid Search,0
+C00201,25.0,8,120.47,22,0,Mobile,Email,0
+C00202,30.0,5,80.6,118,1,Desktop,Organic,0
+C00203,42.0,8,108.81,165,3,Mobile,Organic,0
+C00204,19.0,9,63.04,146,1,Desktop,Social,0
+C00205,40.0,8,93.44,136,0,Mobile,Referral,0
+C00206,61.0,6,59.25,118,3,Mobile,Social,0
+C00207,48.0,11,62.4,170,2,Desktop,Organic,0
+C00208,43.0,4,77.43,155,1,Mobile,Referral,0
+C00209,46.0,7,43.32,49,1,Mobile,Paid Search,0
+C00210,72.0,8,83.24,112,0,Desktop,Referral,0
+C00211,48.0,8,67.2,77,1,Mobile,Paid Search,0
+C00212,48.0,7,25.31,47,0,Mobile,Email,0
+C00213,71.0,10,63.56,147,0,Mobile,Referral,0
+C00214,27.0,5,66.37,7,1,Mobile,Email,0
+C00215,23.0,10,96.32,23,2,Mobile,Social,0
+C00216,44.0,4,82.13,18,1,Mobile,Email,0
+C00217,36.0,10,111.19,36,6,Mobile,Organic,0
+C00218,29.0,9,88.0,92,1,Mobile,Social,0
+C00219,24.0,9,61.15,169,0,Mobile,Paid Search,0
+C00220,68.0,5,73.54,174,1,Mobile,Email,0
+C00221,53.0,12,66.3,162,1,Desktop,Paid Search,0
+C00222,58.0,11,87.2,136,2,Mobile,Referral,0
+C00223,24.0,7,76.5,82,1,Mobile,Email,0
+C00224,37.0,5,59.29,139,2,Desktop,Social,0
+C00225,54.0,7,75.22,48,0,Desktop,Email,1
+C00226,48.0,9,86.53,119,1,Mobile,Paid Search,0
+C00227,58.0,12,49.84,1,1,Desktop,Email,0
+C00228,56.0,12,82.93,162,2,Mobile,Social,0
+C00229,41.0,5,35.53,174,0,Mobile,Organic,0
+C00230,63.0,9,102.64,132,1,Mobile,Organic,1
+C00231,33.0,7,88.18,31,0,Tablet,Organic,0
+C00232,22.0,10,115.73,46,1,Mobile,Referral,0
+C00233,70.0,6,47.09,133,1,Tablet,Email,0
+C00234,19.0,8,103.34,89,1,Tablet,Paid Search,0
+C00235,34.0,12,98.39,98,1,Desktop,Organic,0
+C00236,24.0,7,70.44,72,2,Desktop,Social,0
+C00237,31.0,7,65.58,150,1,Desktop,Email,0
+C00238,40.0,5,47.87,29,3,Desktop,Social,0
+C00239,25.0,9,41.35,79,1,Mobile,Social,0
+C00240,45.0,10,56.22,40,1,Mobile,Organic,1
+C00241,71.0,7,43.61,124,0,Mobile,Social,1
+C00242,25.0,11,114.89,51,1,Mobile,Social,0
+C00243,71.0,10,37.45,53,1,Mobile,Paid Search,1
+C00244,41.0,10,78.72,31,0,Mobile,Paid Search,1
+C00245,52.0,10,85.89,155,3,Desktop,Email,0
+C00246,43.0,5,83.94,39,0,Tablet,Paid Search,1
+C00247,36.0,7,86.13,156,0,Mobile,Referral,0
+C00248,24.0,7,98.66,164,1,Mobile,Organic,0
+C00249,52.0,8,63.85,173,1,Desktop,Organic,0
+C00250,71.0,7,77.19,61,3,Mobile,Referral,0
+C00251,48.0,5,67.66,117,0,Mobile,Social,1
+C00252,52.0,7,107.56,148,1,Mobile,Referral,0
+C00253,55.0,7,127.5,14,1,Tablet,Organic,0
+C00254,40.0,10,45.15,11,0,Mobile,Organic,1
+C00255,24.0,13,24.22,37,1,Tablet,Referral,1
+C00256,47.0,7,89.23,176,0,Mobile,Referral,0
+C00257,68.0,7,101.76,16,1,Mobile,Referral,0
+C00258,36.0,15,123.92,137,1,Tablet,Referral,0
+C00259,68.0,9,93.45,151,2,Mobile,Paid Search,0
+C00260,67.0,6,109.89,163,0,Desktop,Organic,0
+C00261,32.0,11,116.5,95,1,Mobile,Paid Search,0
+C00262,51.0,10,111.62,94,1,Mobile,Referral,0
+C00263,61.0,9,97.03,133,1,Desktop,Email,0
+C00264,46.0,6,42.94,114,1,Mobile,Organic,0
+C00265,58.0,7,74.79,141,1,Mobile,Social,0
+C00266,70.0,4,82.5,64,1,Mobile,Referral,0
+C00267,54.0,17,72.5,168,3,Mobile,Organic,0
+C00268,66.0,4,74.05,77,1,Desktop,Email,0
+C00269,64.0,9,114.18,44,0,Desktop,Social,1
+C00270,65.0,9,56.08,135,2,Mobile,Referral,0
+C00271,67.0,6,94.98,111,0,Desktop,Social,0
+C00272,31.0,10,82.91,8,0,Mobile,Paid Search,0
+C00273,19.0,11,53.56,29,0,Mobile,Referral,0
+C00274,26.0,5,48.08,6,0,Desktop,Paid Search,0
+C00275,32.0,7,32.47,103,1,Desktop,Social,0
+C00276,58.0,7,87.14,157,2,Mobile,Referral,0
+C00277,47.0,6,73.42,58,1,Mobile,Email,0
+C00278,45.0,7,54.36,19,0,Tablet,Social,0
+C00279,18.0,9,28.1,153,2,Mobile,Referral,0
+C00280,57.0,9,85.82,129,1,Desktop,Social,0
+C00281,39.0,9,70.66,98,0,Mobile,Email,0
+C00282,62.0,9,57.16,35,1,Mobile,Social,1
+C00283,24.0,8,50.9,120,0,Mobile,Email,1
+C00284,35.0,10,69.04,65,0,Mobile,Social,1
+C00285,21.0,10,86.75,44,1,Mobile,Organic,0
+C00286,34.0,12,66.75,52,1,Desktop,Organic,0
+C00287,71.0,10,45.29,11,1,Mobile,Email,1
+C00288,46.0,3,73.55,88,2,Mobile,Organic,0
+C00289,43.0,7,101.14,135,1,Desktop,Social,1
+C00290,33.0,6,76.01,148,3,Tablet,Organic,0
+C00291,33.0,10,76.71,130,1,Mobile,Email,0
+C00292,56.0,4,66.86,157,0,Desktop,Organic,0
+C00293,75.0,5,52.76,173,0,Desktop,Referral,0
+C00294,61.0,10,51.93,39,1,Mobile,Referral,0
+C00295,60.0,3,33.45,78,1,Mobile,Organic,0
+C00296,45.0,15,104.53,60,2,Mobile,Paid Search,1
+C00297,23.0,7,86.56,123,2,Desktop,Referral,1
+C00298,59.0,8,77.06,150,2,Desktop,Email,0
+C00299,64.0,9,82.39,160,2,Mobile,Referral,1
+C00300,47.0,9,83.49,16,2,Mobile,Organic,1
+C00301,23.0,2,56.64,92,1,Mobile,Email,0
+C00302,59.0,4,66.87,21,0,Mobile,Referral,1
+C00303,71.0,8,63.14,59,3,Mobile,Organic,0
+C00304,31.0,7,137.79,86,4,Mobile,Organic,0
+C00305,27.0,1,100.51,111,2,Mobile,Social,0
+C00306,60.0,10,79.2,142,0,Mobile,Organic,0
+C00307,37.0,7,109.15,179,1,Desktop,Paid Search,0
+C00308,59.0,10,105.99,60,1,Mobile,Referral,1
+C00309,58.0,5,40.49,100,2,Desktop,Referral,0
+C00310,33.0,6,69.43,12,0,Mobile,Organic,1
+C00311,20.0,5,74.59,20,1,Mobile,Email,1
+C00312,50.0,7,90.29,174,2,Mobile,Social,0
+C00313,41.0,7,69.4,168,1,Mobile,Paid Search,0
+C00314,67.0,9,72.54,169,0,Mobile,Paid Search,0
+C00315,38.0,15,63.47,47,1,Desktop,Email,1
+C00316,32.0,8,101.22,117,0,Mobile,Social,0
+C00317,67.0,5,38.92,41,4,Mobile,Organic,0
+C00318,60.0,6,64.32,122,2,Mobile,Organic,0
+C00319,53.0,10,28.91,87,0,Desktop,Organic,0
+C00320,73.0,8,49.26,168,1,Mobile,Paid Search,0
+C00321,63.0,11,82.93,67,0,Mobile,Paid Search,0
+C00322,68.0,2,83.4,115,1,Mobile,Email,0
+C00323,64.0,8,67.17,118,0,Mobile,Paid Search,1
+C00324,41.0,5,103.1,141,1,Mobile,Social,0
+C00325,21.0,8,108.85,9,1,Mobile,Paid Search,1
+C00326,53.0,6,73.27,83,1,Mobile,Referral,0
+C00327,62.0,6,81.26,81,1,Desktop,Paid Search,0
+C00328,75.0,8,63.69,41,2,Mobile,Paid Search,0
+C00329,57.0,7,90.67,144,1,Desktop,Referral,0
+C00330,50.0,7,45.15,149,3,Desktop,Social,0
+C00331,51.0,11,119.9,14,1,Mobile,Organic,1
+C00332,24.0,9,103.5,123,1,Mobile,Organic,0
+C00333,18.0,5,45.03,155,1,Mobile,Organic,0
+C00334,20.0,11,55.27,52,3,Mobile,Social,0
+C00335,70.0,8,85.53,113,4,Desktop,Social,0
+C00336,63.0,11,66.54,112,3,Desktop,Referral,0
+C00337,33.0,6,88.61,3,0,Desktop,Paid Search,0
+C00338,42.0,12,66.02,146,0,Mobile,Organic,0
+C00339,46.0,4,113.12,135,1,Mobile,Email,0
+C00340,32.0,7,75.21,48,1,Mobile,Organic,0
+C00341,42.0,3,135.51,56,0,Desktop,Organic,1
+C00342,38.0,8,90.07,138,1,Desktop,Social,0
+C00343,58.0,4,41.26,144,1,Desktop,Paid Search,0
+C00344,61.0,5,127.16,13,1,Mobile,Referral,1
+C00345,23.0,5,102.47,64,0,Desktop,Email,0
+C00346,44.0,8,84.5,112,1,Desktop,Social,0
+C00347,75.0,9,91.17,22,3,Mobile,Referral,0
+C00348,68.0,7,45.27,179,2,Desktop,Email,0
+C00349,64.0,4,29.89,37,1,Mobile,Paid Search,0
+C00350,60.0,6,73.96,155,0,Mobile,Social,0
+C00351,,2,109.47,11,1,Desktop,Referral,0
+C00352,74.0,12,84.89,157,0,Desktop,Paid Search,0
+C00353,60.0,4,117.73,7,0,Desktop,Referral,0
+C00354,69.0,4,108.03,122,3,Desktop,Referral,0
+C00355,70.0,9,75.52,64,0,Tablet,Organic,0
+C00356,32.0,7,104.59,83,1,Mobile,Referral,1
+C00357,18.0,5,113.06,19,1,Mobile,Organic,0
+C00358,56.0,6,73.0,121,3,Mobile,Referral,0
+C00359,44.0,13,69.66,112,0,Desktop,Referral,1
+C00360,19.0,9,78.51,57,2,Mobile,Referral,0
+C00361,33.0,5,14.7,84,1,Desktop,Paid Search,1
+C00362,75.0,11,82.01,99,0,Mobile,Referral,0
+C00363,39.0,10,93.01,123,0,Mobile,Email,0
+C00364,33.0,8,78.61,97,3,Desktop,Organic,0
+C00365,55.0,13,83.62,10,1,Mobile,Referral,0
+C00366,56.0,2,73.91,97,0,Desktop,Referral,0
+C00367,37.0,6,25.07,62,0,Desktop,Paid Search,0
+C00368,67.0,11,116.56,74,1,Desktop,Paid Search,0
+C00369,51.0,14,65.8,66,1,Desktop,Email,1
+C00370,27.0,8,59.56,63,1,Desktop,Paid Search,0
+C00371,36.0,4,108.95,42,2,Tablet,Social,0
+C00372,67.0,6,99.47,59,1,Desktop,Paid Search,0
+C00373,23.0,11,81.83,128,2,Mobile,Paid Search,1
+C00374,18.0,8,94.23,40,2,Desktop,Paid Search,0
+C00375,56.0,7,46.13,136,2,Desktop,Social,0
+C00376,43.0,6,72.98,78,1,Desktop,Email,0
+C00377,32.0,7,107.37,109,1,Desktop,Organic,0
+C00378,45.0,5,58.07,21,0,Desktop,Email,0
+C00379,28.0,12,50.04,37,1,Desktop,Social,1
+C00380,39.0,6,76.97,162,0,Desktop,Organic,0
+C00381,31.0,9,77.55,149,3,Mobile,Paid Search,1
+C00382,52.0,7,91.19,12,2,Tablet,Paid Search,0
+C00383,57.0,10,40.55,162,0,Desktop,Referral,0
+C00384,71.0,8,11.27,150,0,Mobile,Paid Search,0
+C00385,21.0,11,98.03,24,1,Mobile,Referral,0
+C00386,36.0,5,47.93,43,1,Mobile,Social,0
+C00387,33.0,7,59.75,31,1,Mobile,Referral,1
+C00388,51.0,11,20.42,153,2,Mobile,Email,0
+C00389,48.0,6,100.57,153,1,Tablet,Paid Search,0
+C00390,68.0,13,83.76,129,0,Desktop,Social,0
+C00391,71.0,7,82.75,45,0,Mobile,Organic,0
+C00392,62.0,10,82.59,165,1,Mobile,Social,0
+C00393,29.0,10,23.5,152,2,Tablet,Paid Search,0
+C00394,20.0,10,50.37,156,2,Mobile,Social,0
+C00395,70.0,10,63.71,64,0,Tablet,Email,0
+C00396,72.0,10,56.28,126,0,Mobile,Paid Search,0
+C00397,32.0,11,68.21,121,3,Mobile,Email,0
+C00398,20.0,6,81.15,27,2,Mobile,Email,0
+C00399,57.0,14,100.16,104,0,Mobile,Social,0
+C00400,52.0,8,37.99,98,1,Mobile,Email,0
+C00401,69.0,11,74.78,105,1,Mobile,Organic,0
+C00402,51.0,8,92.79,61,2,Desktop,Organic,0
+C00403,62.0,15,51.9,120,2,Tablet,Social,0
+C00404,63.0,9,70.18,159,0,Mobile,Referral,1
+C00405,18.0,11,86.66,108,2,Mobile,Email,0
+C00406,26.0,5,75.28,157,1,Desktop,Organic,0
+C00407,63.0,9,91.85,138,0,Desktop,Organic,1
+C00408,28.0,7,77.37,56,2,Desktop,Referral,0
+C00409,29.0,10,67.2,132,2,Desktop,Social,0
+C00410,61.0,10,45.68,120,0,Mobile,Organic,0
+C00411,29.0,9,81.18,169,1,Mobile,Paid Search,0
+C00412,26.0,9,77.5,60,0,Mobile,Social,0
+C00413,18.0,7,50.18,29,0,Mobile,Social,0
+C00414,45.0,8,89.55,122,0,Tablet,Paid Search,0
+C00415,54.0,7,106.7,113,1,Mobile,Social,1
+C00416,60.0,8,58.5,110,1,Mobile,Referral,0
+C00417,70.0,7,56.81,133,0,Mobile,Referral,0
+C00418,55.0,8,55.9,91,0,Mobile,Referral,0
+C00419,61.0,6,33.03,5,3,Mobile,Paid Search,1
+C00420,30.0,10,125.11,158,1,Desktop,Organic,0
+C00421,37.0,12,63.78,49,0,Mobile,Paid Search,0
+C00422,35.0,4,53.54,44,1,Mobile,Organic,0
+C00423,21.0,10,46.83,146,1,Desktop,Email,0
+C00424,74.0,10,65.3,143,1,Tablet,Social,1
+C00425,31.0,8,57.62,90,2,Mobile,Paid Search,0
+C00426,44.0,5,110.95,124,0,Mobile,Organic,0
+C00427,38.0,7,43.78,14,1,Desktop,Email,0
+C00428,20.0,6,36.54,50,2,Desktop,Organic,1
+C00429,70.0,10,88.79,43,1,Mobile,Paid Search,0
+C00430,30.0,12,72.32,75,1,Mobile,Referral,1
+C00431,23.0,17,69.43,64,1,Mobile,Referral,1
+C00432,37.0,13,88.99,12,1,Desktop,Social,1
+C00433,26.0,7,78.42,123,1,Desktop,Paid Search,0
+C00434,75.0,9,73.83,107,0,Desktop,Organic,0
+C00435,28.0,11,39.86,68,1,Mobile,Social,0
+C00436,35.0,12,33.3,159,2,Mobile,Email,0
+C00437,33.0,9,57.49,64,1,Desktop,Social,0
+C00438,19.0,14,47.89,21,0,Mobile,Organic,0
+C00439,18.0,9,81.73,152,3,Mobile,Referral,0
+C00440,47.0,7,30.03,23,1,Mobile,Referral,1
+C00441,31.0,7,63.82,12,0,Desktop,Email,0
+C00442,22.0,8,70.67,85,1,Mobile,Organic,0
+C00443,34.0,13,74.01,104,0,Tablet,Email,0
+C00444,33.0,5,84.97,50,1,Desktop,Paid Search,0
+C00445,42.0,9,66.84,151,2,Desktop,Social,0
+C00446,75.0,7,58.31,49,0,Mobile,Paid Search,1
+C00447,35.0,9,106.11,173,2,Desktop,Organic,0
+C00448,58.0,5,67.0,114,1,Mobile,Referral,0
+C00449,62.0,10,110.48,33,1,Mobile,Paid Search,0
+C00450,20.0,4,66.87,73,0,Desktop,Organic,0
+C00451,47.0,6,74.59,13,1,Mobile,Referral,1
+C00452,44.0,10,71.53,152,0,Mobile,Social,0
+C00453,47.0,13,80.78,116,1,Mobile,Paid Search,0
+C00454,27.0,4,64.5,77,1,Desktop,Email,0
+C00455,44.0,9,77.4,122,1,Mobile,Social,0
+C00456,25.0,3,113.27,110,3,Mobile,Referral,0
+C00457,72.0,5,101.22,107,2,Desktop,Paid Search,0
+C00458,52.0,8,101.39,71,3,Mobile,Paid Search,0
+C00459,20.0,7,41.45,63,0,Tablet,Organic,1
+C00460,47.0,7,45.5,46,2,Mobile,Referral,0
+C00461,71.0,10,80.44,141,1,Desktop,Referral,0
+C00462,61.0,10,94.27,84,3,Desktop,Referral,1
+C00463,33.0,5,62.02,84,2,Mobile,Social,0
+C00464,69.0,6,57.56,129,0,Mobile,Paid Search,0
+C00465,28.0,7,109.85,95,0,Desktop,Paid Search,0
+C00466,32.0,4,92.15,171,2,Desktop,Paid Search,0
+C00467,26.0,6,101.45,43,1,Mobile,Email,1
+C00468,71.0,13,63.96,7,1,Mobile,Referral,1
+C00469,59.0,9,62.0,75,1,Desktop,Social,0
+C00470,48.0,6,98.72,95,1,Mobile,Email,1
+C00471,56.0,4,68.43,147,2,Mobile,Social,0
+C00472,33.0,8,59.73,114,1,Desktop,Referral,0
+C00473,22.0,5,52.17,169,0,Desktop,Email,0
+C00474,67.0,7,62.22,15,0,Tablet,Referral,1
+C00475,73.0,6,96.88,96,0,Mobile,Organic,0
+C00476,20.0,4,37.26,149,0,Desktop,Paid Search,0
+C00477,20.0,9,90.73,90,2,Mobile,Organic,1
+C00478,50.0,7,57.29,49,2,Mobile,Organic,0
+C00479,20.0,7,69.74,138,4,Tablet,Paid Search,0
+C00480,59.0,6,71.34,157,0,Tablet,Paid Search,0
+C00481,72.0,12,69.48,46,1,Mobile,Social,0
+C00482,34.0,7,67.82,99,1,Mobile,Email,0
+C00483,35.0,12,63.89,144,1,Desktop,Email,0
+C00484,68.0,6,60.71,27,2,Mobile,Email,0
+C00485,38.0,8,107.99,1,1,Mobile,Organic,1
+C00486,31.0,4,75.63,133,3,Mobile,Social,0
+C00487,22.0,8,71.85,135,2,Desktop,Social,0
+C00488,66.0,3,58.88,28,1,Mobile,Email,0
+C00489,71.0,5,64.8,107,2,Tablet,Referral,0
+C00490,22.0,8,58.97,129,1,Desktop,Referral,1
+C00491,64.0,2,94.13,173,2,Mobile,Referral,0
+C00492,27.0,12,56.16,145,0,Mobile,Organic,0
+C00493,26.0,3,18.84,39,1,Mobile,Organic,0
+C00494,40.0,6,76.46,103,0,Tablet,Email,0
+C00495,43.0,7,68.02,131,1,Mobile,Organic,0
+C00496,67.0,9,60.36,48,1,Desktop,Organic,0
+C00497,58.0,5,97.79,29,0,Mobile,Organic,0
+C00498,26.0,8,8.0,78,2,Mobile,Organic,0
+C00499,51.0,8,114.41,129,1,Desktop,Paid Search,1
+C00500,68.0,10,101.37,95,2,Mobile,Paid Search,0
+C00501,56.0,10,59.3,108,0,Mobile,Referral,0
+C00502,31.0,11,63.73,119,2,Mobile,Referral,1
+C00503,25.0,11,87.61,171,2,Mobile,Organic,0
+C00504,44.0,7,88.28,114,2,Mobile,Paid Search,0
+C00505,45.0,6,59.15,24,2,Mobile,Email,0
+C00506,38.0,6,34.58,72,2,Mobile,Paid Search,0
+C00507,24.0,6,127.84,30,1,Desktop,Paid Search,0
+C00508,24.0,8,98.9,136,0,Mobile,Social,1
+C00509,48.0,8,78.92,179,1,Tablet,Email,0
+C00510,72.0,11,79.39,138,1,Mobile,Social,0
+C00511,52.0,9,90.53,44,2,Mobile,Organic,0
+C00512,43.0,12,93.53,125,1,Tablet,Email,1
+C00513,72.0,5,22.84,3,3,Desktop,Paid Search,0
+C00514,58.0,11,66.23,48,3,Desktop,Paid Search,0
+C00515,59.0,9,63.63,54,1,Desktop,Email,1
+C00516,51.0,9,70.96,84,1,Mobile,Paid Search,0
+C00517,62.0,6,94.27,57,2,Desktop,Social,0
+C00518,47.0,9,30.25,77,0,Mobile,Organic,0
+C00519,54.0,8,41.27,1,1,Mobile,Referral,0
+C00520,53.0,13,57.96,147,0,Desktop,Paid Search,0
+C00521,61.0,11,78.86,71,1,Mobile,Email,1
+C00522,70.0,5,95.8,145,2,Desktop,Organic,0
+C00523,35.0,5,115.78,10,1,Mobile,Referral,0
+C00524,58.0,4,67.84,155,3,Desktop,Social,0
+C00525,19.0,8,95.76,112,0,Desktop,Social,0
+C00526,48.0,11,92.75,41,0,Desktop,Referral,1
+C00527,70.0,10,88.54,135,1,Mobile,Referral,1
+C00528,55.0,11,74.39,134,1,Desktop,Paid Search,0
+C00529,33.0,8,65.01,130,1,Mobile,Paid Search,0
+C00530,53.0,9,48.37,156,1,Mobile,Paid Search,0
+C00531,38.0,9,46.71,171,1,Mobile,Email,1
+C00532,43.0,6,83.68,29,1,Desktop,Referral,1
+C00533,31.0,12,73.64,50,2,Mobile,Social,1
+C00534,54.0,3,64.61,7,0,Desktop,Email,0
+C00535,29.0,4,91.62,11,0,Mobile,Email,0
+C00536,43.0,10,69.99,18,2,Mobile,Social,0
+C00537,72.0,5,52.17,124,1,Mobile,Email,0
+C00538,61.0,7,68.34,109,1,Desktop,Referral,0
+C00539,42.0,18,95.52,6,1,Mobile,Email,0
+C00540,74.0,11,49.41,75,1,Mobile,Social,0
+C00541,18.0,10,80.23,19,1,Desktop,Social,0
+C00542,73.0,9,73.61,35,0,Mobile,Social,1
+C00543,38.0,7,55.98,10,2,Desktop,Email,1
+C00544,65.0,7,67.67,95,1,Mobile,Paid Search,0
+C00545,72.0,5,35.71,14,0,Mobile,Email,0
+C00546,52.0,7,77.74,141,0,Desktop,Referral,0
+C00547,53.0,8,40.88,167,2,Desktop,Organic,1
+C00548,61.0,7,101.81,154,1,Mobile,Social,0
+C00549,31.0,8,72.7,148,0,Mobile,Referral,0
+C00550,28.0,7,60.7,135,2,Desktop,Organic,0
+C00551,37.0,6,104.01,163,0,Desktop,Social,0
+C00552,45.0,8,49.2,159,0,Mobile,Email,0
+C00553,61.0,7,56.31,38,2,Desktop,Paid Search,0
+C00554,32.0,8,29.27,108,0,Desktop,Organic,1
+C00555,50.0,11,107.74,55,1,Mobile,Social,1
+C00556,18.0,7,121.82,150,2,Mobile,Email,0
+C00557,19.0,9,33.16,1,1,Mobile,Social,1
+C00558,74.0,8,54.61,75,2,Desktop,Organic,0
+C00559,67.0,8,76.75,68,0,Mobile,Referral,0
+C00560,68.0,8,62.11,153,1,Mobile,Social,0
+C00561,37.0,8,74.22,53,1,Mobile,Email,0
+C00562,47.0,9,72.06,161,0,Tablet,Email,1
+C00563,57.0,14,85.19,89,0,Desktop,Referral,0
+C00564,32.0,6,50.98,123,0,Mobile,Email,0
+C00565,61.0,9,79.82,95,3,Mobile,Email,0
+C00566,58.0,5,47.1,77,3,Desktop,Social,0
+C00567,41.0,12,64.7,54,1,Tablet,Paid Search,1
+C00568,43.0,7,31.58,50,1,Mobile,Paid Search,1
+C00569,35.0,4,64.89,115,2,Desktop,Social,0
+C00570,64.0,5,60.68,58,0,Desktop,Paid Search,0
+C00571,75.0,12,98.59,155,1,Desktop,Organic,0
+C00572,75.0,12,73.52,23,0,Tablet,Email,0
+C00573,62.0,7,78.06,38,1,Tablet,Organic,0
+C00574,38.0,12,74.44,8,1,Mobile,Email,0
+C00575,63.0,7,21.77,155,0,Desktop,Social,0
+C00576,32.0,3,25.08,74,1,Mobile,Referral,0
+C00577,70.0,7,67.03,6,1,Mobile,Social,1
+C00578,33.0,5,81.96,7,1,Desktop,Paid Search,0
+C00579,41.0,8,69.13,165,0,Desktop,Social,0
+C00580,23.0,12,53.4,158,0,Mobile,Email,0
+C00581,22.0,6,68.99,49,2,Mobile,Social,0
+C00582,40.0,11,66.82,116,0,Mobile,Referral,1
+C00583,49.0,10,94.48,45,0,Mobile,Organic,1
+C00584,19.0,6,93.08,151,0,Desktop,Social,0
+C00585,67.0,6,61.16,128,0,Desktop,Referral,0
+C00586,24.0,9,73.75,79,1,Mobile,Paid Search,0
+C00587,75.0,12,81.9,167,1,Mobile,Email,0
+C00588,33.0,10,85.62,40,2,Desktop,Email,0
+C00589,39.0,3,116.31,179,1,Mobile,Paid Search,0
+C00590,27.0,9,74.3,52,4,Mobile,Referral,1
+C00591,65.0,8,104.22,159,1,Desktop,Paid Search,0
+C00592,60.0,8,46.0,153,1,Desktop,Email,0
+C00593,22.0,13,59.06,101,0,Tablet,Email,0
+C00594,24.0,5,21.6,21,1,Mobile,Paid Search,0
+C00595,53.0,8,78.78,135,0,Desktop,Social,0
+C00596,68.0,6,91.19,125,2,Mobile,Email,0
+C00597,24.0,10,11.12,155,0,Desktop,Organic,1
+C00598,30.0,11,79.71,40,1,Mobile,Organic,0
+C00599,49.0,6,90.11,43,2,Mobile,Organic,0
+C00600,24.0,6,88.68,63,0,Mobile,Email,0
+C00601,35.0,10,45.1,66,0,Mobile,Referral,0
+C00602,18.0,2,94.33,0,1,Mobile,Referral,0
+C00603,46.0,10,75.23,27,0,Desktop,Social,1
+C00604,59.0,8,89.78,86,2,Mobile,Referral,0
+C00605,41.0,7,71.85,174,1,Desktop,Referral,1
+C00606,32.0,8,84.53,23,1,Desktop,Social,0
+C00607,42.0,8,102.73,43,0,Tablet,Paid Search,0
+C00608,47.0,10,69.9,154,0,Tablet,Referral,0
+C00609,27.0,8,82.1,7,0,Mobile,Social,1
+C00610,24.0,8,106.24,17,0,Mobile,Referral,0
+C00611,28.0,12,71.67,160,4,Desktop,Paid Search,0
+C00612,75.0,7,46.87,45,0,Mobile,Referral,1
+C00613,59.0,16,91.9,55,1,Desktop,Email,0
+C00614,25.0,9,110.87,2,0,Desktop,Referral,1
+C00615,35.0,13,107.22,73,3,Mobile,Paid Search,1
+C00616,41.0,8,92.87,178,1,Mobile,Referral,0
+C00617,28.0,9,16.4,177,2,Tablet,Social,0
+C00618,67.0,5,59.1,115,3,Tablet,Paid Search,1
+C00619,72.0,10,60.38,121,0,Mobile,Organic,0
+C00620,32.0,8,76.12,115,2,Desktop,Organic,0
+C00621,18.0,6,117.21,125,0,Desktop,Paid Search,0
+C00622,33.0,4,47.99,93,0,Mobile,Organic,0
+C00623,51.0,9,131.06,37,3,Desktop,Email,1
+C00624,64.0,13,65.44,156,0,Mobile,Social,0
+C00625,37.0,7,55.83,158,2,Mobile,Social,0
+C00626,33.0,5,96.13,25,1,Mobile,Referral,1
+C00627,32.0,8,98.11,17,0,Mobile,Referral,0
+C00628,18.0,11,91.25,142,1,Mobile,Referral,1
+C00629,18.0,7,55.76,8,0,Mobile,Social,1
+C00630,42.0,9,87.55,145,1,Mobile,Referral,1
+C00631,53.0,7,49.16,176,4,Desktop,Social,0
+C00632,18.0,5,55.07,6,1,Mobile,Referral,0
+C00633,29.0,4,72.63,143,0,Mobile,Email,0
+C00634,70.0,11,54.5,23,1,Desktop,Email,0
+C00635,75.0,2,101.32,52,1,Mobile,Referral,0
+C00636,55.0,7,60.55,98,1,Tablet,Email,0
+C00637,48.0,9,69.49,122,1,Desktop,Social,0
+C00638,51.0,8,53.0,16,2,Mobile,Social,1
+C00639,39.0,9,100.94,19,1,Desktop,Organic,0
+C00640,29.0,8,58.35,50,0,Mobile,Organic,0
+C00641,39.0,6,103.55,122,0,Tablet,Social,0
+C00642,58.0,8,101.71,72,1,Desktop,Social,0
+C00643,56.0,10,63.85,49,2,Mobile,Email,0
+C00644,57.0,5,75.74,28,0,Mobile,Social,0
+C00645,53.0,7,63.16,174,2,Desktop,Organic,0
+C00646,21.0,11,88.64,126,1,Mobile,Organic,0
+C00647,54.0,12,70.14,177,1,Tablet,Social,0
+C00648,69.0,4,64.56,89,1,Tablet,Social,1
+C00649,55.0,10,76.15,147,0,Mobile,Organic,0
+C00650,51.0,4,35.44,115,3,Desktop,Email,0
+C00651,30.0,12,73.1,94,2,Desktop,Organic,1
+C00652,63.0,9,91.24,85,1,Desktop,Social,0
+C00653,44.0,9,78.45,90,2,Mobile,Organic,0
+C00654,33.0,8,98.79,74,0,Mobile,Referral,0
+C00655,46.0,6,65.57,115,1,Mobile,Paid Search,0
+C00656,25.0,7,63.52,88,4,Mobile,Paid Search,0
+C00657,71.0,6,47.07,174,0,Desktop,Referral,0
+C00658,58.0,12,64.86,161,1,Tablet,Referral,0
+C00659,36.0,9,124.15,83,0,Desktop,Paid Search,0
+C00660,64.0,8,81.89,71,0,Desktop,Organic,1
+C00661,21.0,5,60.36,136,1,Mobile,Organic,0
+C00662,40.0,3,49.85,115,2,Desktop,Paid Search,0
+C00663,55.0,14,35.04,41,1,Desktop,Email,0
+C00664,19.0,6,54.24,150,0,Tablet,Email,0
+C00665,59.0,8,93.98,122,1,Tablet,Referral,0
+C00666,65.0,7,64.32,111,2,Mobile,Referral,0
+C00667,52.0,8,51.05,140,0,Desktop,Paid Search,1
+C00668,29.0,11,53.8,40,2,Desktop,Referral,1
+C00669,61.0,5,91.24,143,1,Desktop,Email,0
+C00670,37.0,9,72.97,21,0,Desktop,Organic,1
+C00671,60.0,2,59.32,142,0,Tablet,Referral,0
+C00672,54.0,11,67.29,106,0,Desktop,Social,1
+C00673,23.0,8,130.15,104,5,Mobile,Paid Search,0
+C00674,23.0,6,105.49,130,3,Desktop,Referral,0
+C00675,18.0,5,111.72,55,0,Mobile,Referral,0
+C00676,22.0,11,31.2,138,1,Desktop,Referral,0
+C00677,35.0,4,71.22,4,0,Desktop,Referral,0
+C00678,19.0,8,58.88,124,2,Desktop,Paid Search,0
+C00679,72.0,6,88.6,142,1,Tablet,Email,0
+C00680,71.0,6,101.5,0,0,Mobile,Organic,0
+C00681,28.0,7,83.16,125,2,Mobile,Social,0
+C00682,36.0,5,53.19,139,0,Desktop,Email,0
+C00683,61.0,11,58.47,93,2,Mobile,Referral,0
+C00684,56.0,11,90.51,108,2,Mobile,Referral,0
+C00685,51.0,10,93.0,10,2,Mobile,Paid Search,0
+C00686,75.0,6,78.52,177,1,Mobile,Paid Search,0
+C00687,54.0,7,78.24,174,2,Mobile,Organic,0
+C00688,56.0,6,76.25,137,1,Tablet,Email,0
+C00689,47.0,7,81.73,2,1,Tablet,Paid Search,0
+C00690,48.0,12,92.9,77,1,Mobile,Referral,0
+C00691,34.0,3,90.75,147,1,Desktop,Referral,0
+C00692,48.0,10,75.59,121,2,Desktop,Email,0
+C00693,71.0,12,73.77,162,3,Desktop,Email,0
+C00694,39.0,4,72.82,110,3,Desktop,Social,0
+C00695,25.0,6,55.49,128,1,Mobile,Referral,0
+C00696,52.0,7,55.17,60,0,Mobile,Referral,0
+C00697,63.0,6,88.6,146,3,Mobile,Email,0
+C00698,73.0,5,57.18,96,0,Mobile,Paid Search,0
+C00699,49.0,3,95.35,144,1,Tablet,Social,0
+C00700,63.0,13,73.72,36,1,Desktop,Paid Search,1
+C00701,,3,95.49,48,0,Desktop,Organic,0
+C00702,42.0,7,90.92,15,1,Mobile,Paid Search,0
+C00703,42.0,9,96.07,121,1,Mobile,Paid Search,0
+C00704,37.0,5,63.09,131,0,Mobile,Social,0
+C00705,59.0,9,85.22,51,1,Mobile,Social,1
+C00706,69.0,7,93.45,69,1,Desktop,Organic,0
+C00707,36.0,6,36.22,102,1,Mobile,Organic,0
+C00708,25.0,8,117.54,136,0,Tablet,Organic,0
+C00709,65.0,14,131.65,54,0,Mobile,Referral,1
+C00710,67.0,5,98.68,87,0,Mobile,Paid Search,1
+C00711,72.0,7,95.15,33,0,Desktop,Email,0
+C00712,32.0,9,89.72,145,0,Desktop,Email,0
+C00713,59.0,5,66.91,157,2,Desktop,Paid Search,0
+C00714,59.0,6,72.25,133,0,Mobile,Referral,0
+C00715,63.0,9,99.11,146,0,Mobile,Organic,0
+C00716,64.0,7,50.67,137,3,Tablet,Email,0
+C00717,73.0,10,48.48,150,0,Mobile,Email,0
+C00718,45.0,6,65.07,77,1,Desktop,Social,0
+C00719,22.0,8,91.41,36,0,Mobile,Organic,0
+C00720,29.0,8,53.35,173,0,Desktop,Referral,0
+C00721,69.0,7,69.36,0,0,Mobile,Social,0
+C00722,66.0,9,72.33,72,3,Desktop,Social,0
+C00723,18.0,7,49.7,130,3,Mobile,Email,0
+C00724,39.0,8,14.01,142,1,Tablet,Social,0
+C00725,32.0,9,49.34,123,4,Desktop,Paid Search,0
+C00726,36.0,14,81.52,88,1,Mobile,Organic,0
+C00727,55.0,8,87.15,166,1,Mobile,Social,0
+C00728,47.0,7,87.36,42,3,Desktop,Email,0
+C00729,45.0,5,90.24,25,0,Desktop,Paid Search,0
+C00730,43.0,8,59.34,113,1,Mobile,Paid Search,0
+C00731,55.0,11,53.98,57,0,Desktop,Social,0
+C00732,57.0,5,84.38,84,2,Desktop,Email,0
+C00733,20.0,6,69.71,82,1,Mobile,Social,0
+C00734,25.0,8,97.68,47,1,Mobile,Referral,0
+C00735,37.0,8,84.53,179,0,Desktop,Referral,0
+C00736,43.0,14,107.1,68,2,Tablet,Paid Search,1
+C00737,75.0,4,63.36,120,6,Mobile,Paid Search,0
+C00738,69.0,5,101.69,28,0,Tablet,Organic,0
+C00739,55.0,4,125.87,178,4,Mobile,Email,0
+C00740,20.0,5,76.34,177,2,Desktop,Referral,0
+C00741,23.0,5,87.48,12,1,Desktop,Paid Search,0
+C00742,44.0,8,51.74,115,0,Tablet,Referral,0
+C00743,52.0,7,97.35,107,1,Mobile,Email,0
+C00744,56.0,10,103.23,31,2,Mobile,Social,0
+C00745,26.0,15,62.64,138,0,Mobile,Paid Search,0
+C00746,69.0,9,89.65,137,2,Mobile,Organic,0
+C00747,46.0,9,82.01,151,2,Mobile,Email,0
+C00748,52.0,11,84.77,108,2,Desktop,Email,0
+C00749,20.0,7,95.3,127,2,Mobile,Email,0
+C00750,65.0,7,87.97,130,1,Mobile,Email,0
+C00751,49.0,8,71.53,138,1,Mobile,Social,0
+C00752,30.0,6,95.83,105,2,Mobile,Social,0
+C00753,36.0,13,102.8,134,1,Mobile,Organic,1
+C00754,38.0,4,61.15,10,1,Desktop,Social,0
+C00755,19.0,13,74.96,111,2,Desktop,Paid Search,0
+C00756,72.0,8,30.78,36,0,Desktop,Referral,0
+C00757,64.0,10,89.59,73,1,Desktop,Email,1
+C00758,69.0,10,105.58,138,2,Desktop,Paid Search,0
+C00759,38.0,11,68.57,20,3,Mobile,Organic,0
+C00760,50.0,10,78.34,135,0,Mobile,Referral,0
+C00761,44.0,8,69.5,46,2,Mobile,Social,0
+C00762,45.0,4,65.4,135,4,Mobile,Paid Search,0
+C00763,52.0,12,80.8,137,4,Mobile,Email,1
+C00764,44.0,14,55.39,2,1,Desktop,Organic,1
+C00765,62.0,5,69.12,42,3,Mobile,Referral,0
+C00766,21.0,13,52.39,144,1,Desktop,Referral,0
+C00767,29.0,10,89.73,61,2,Desktop,Referral,0
+C00768,69.0,13,80.98,79,2,Mobile,Email,1
+C00769,69.0,4,64.22,2,0,Mobile,Organic,1
+C00770,65.0,7,75.93,124,1,Desktop,Email,1
+C00771,39.0,14,69.48,16,1,Mobile,Email,1
+C00772,44.0,10,103.6,48,0,Desktop,Paid Search,0
+C00773,19.0,13,63.97,85,1,Desktop,Paid Search,0
+C00774,34.0,11,90.88,138,1,Mobile,Organic,0
+C00775,60.0,7,57.37,89,1,Mobile,Email,0
+C00776,37.0,12,95.36,176,0,Mobile,Organic,0
+C00777,45.0,8,100.93,94,2,Mobile,Referral,0
+C00778,25.0,4,102.11,45,0,Mobile,Social,0
+C00779,46.0,7,111.78,34,1,Desktop,Social,0
+C00780,59.0,10,82.31,141,2,Mobile,Paid Search,0
+C00781,51.0,9,105.95,82,0,Mobile,Social,0
+C00782,50.0,6,115.6,108,1,Mobile,Referral,0
+C00783,71.0,16,46.95,66,1,Mobile,Social,0
+C00784,31.0,13,59.92,49,3,Mobile,Social,0
+C00785,35.0,14,37.61,107,2,Desktop,Referral,0
+C00786,54.0,10,101.53,52,2,Mobile,Referral,1
+C00787,45.0,10,37.29,179,2,Desktop,Organic,0
+C00788,74.0,15,30.5,131,0,Desktop,Referral,0
+C00789,21.0,6,47.57,147,1,Mobile,Social,0
+C00790,25.0,6,31.54,51,0,Mobile,Social,0
+C00791,37.0,8,81.8,5,2,Mobile,Paid Search,0
+C00792,44.0,9,47.89,8,2,Mobile,Email,1
+C00793,69.0,4,32.74,154,1,Mobile,Referral,0
+C00794,46.0,4,73.95,157,0,Desktop,Referral,0
+C00795,43.0,6,75.43,122,0,Mobile,Organic,0
+C00796,27.0,9,28.26,106,1,Desktop,Email,0
+C00797,43.0,14,57.16,37,0,Mobile,Social,1
+C00798,48.0,7,73.13,136,3,Mobile,Organic,0
+C00799,51.0,9,66.08,92,2,Desktop,Paid Search,0
+C00800,53.0,10,66.76,108,1,Tablet,Email,0
+C00801,42.0,10,104.48,4,0,Mobile,Social,0
+C00802,27.0,8,128.66,92,1,Mobile,Organic,0
+C00803,26.0,3,67.17,124,0,Mobile,Email,0
+C00804,26.0,8,41.95,138,0,Mobile,Social,1
+C00805,53.0,6,69.14,26,1,Mobile,Referral,0
+C00806,67.0,8,79.86,5,1,Desktop,Referral,1
+C00807,69.0,13,73.67,154,0,Tablet,Paid Search,0
+C00808,36.0,9,90.27,56,1,Mobile,Social,1
+C00809,22.0,5,130.3,85,0,Mobile,Email,1
+C00810,54.0,8,32.17,112,2,Mobile,Paid Search,0
+C00811,20.0,11,62.32,88,1,Desktop,Email,0
+C00812,54.0,1,113.53,169,1,Mobile,Organic,0
+C00813,40.0,11,61.95,151,0,Mobile,Organic,0
+C00814,66.0,7,94.74,70,0,Mobile,Paid Search,0
+C00815,54.0,7,90.77,34,1,Desktop,Paid Search,1
+C00816,60.0,11,105.92,175,0,Mobile,Organic,0
+C00817,41.0,10,122.83,127,1,Tablet,Organic,0
+C00818,66.0,7,83.33,135,1,Tablet,Email,1
+C00819,48.0,6,31.35,83,3,Mobile,Organic,0
+C00820,54.0,10,57.49,87,1,Mobile,Social,0
+C00821,38.0,13,129.65,32,1,Mobile,Organic,1
+C00822,44.0,13,39.65,77,1,Desktop,Social,1
+C00823,66.0,10,87.42,97,1,Mobile,Organic,0
+C00824,40.0,6,12.14,23,0,Mobile,Social,1
+C00825,19.0,11,41.22,114,1,Desktop,Organic,0
+C00826,39.0,3,97.17,110,1,Mobile,Email,0
+C00827,40.0,7,75.9,151,5,Desktop,Social,0
+C00828,42.0,12,65.59,9,2,Mobile,Organic,1
+C00829,22.0,5,54.64,40,2,Mobile,Organic,1
+C00830,25.0,10,25.09,77,0,Mobile,Social,0
+C00831,36.0,15,92.34,158,1,Desktop,Social,0
+C00832,42.0,5,67.92,42,1,Desktop,Email,0
+C00833,19.0,7,36.95,174,1,Mobile,Organic,0
+C00834,40.0,11,75.75,172,1,Mobile,Paid Search,0
+C00835,36.0,12,89.53,17,1,Desktop,Paid Search,1
+C00836,20.0,9,69.98,65,4,Mobile,Social,0
+C00837,32.0,9,77.9,46,0,Tablet,Paid Search,0
+C00838,33.0,5,75.95,88,0,Mobile,Paid Search,1
+C00839,26.0,7,57.33,166,1,Desktop,Paid Search,1
+C00840,61.0,14,76.36,67,3,Desktop,Organic,0
+C00841,22.0,9,93.38,119,2,Mobile,Referral,0
+C00842,51.0,4,100.87,24,1,Mobile,Email,1
+C00843,56.0,7,94.77,102,3,Tablet,Email,0
+C00844,64.0,7,58.12,63,0,Desktop,Paid Search,0
+C00845,49.0,9,90.91,165,0,Mobile,Organic,0
+C00846,49.0,15,86.64,140,1,Tablet,Social,0
+C00847,62.0,8,57.26,38,2,Desktop,Social,0
+C00848,67.0,6,63.39,111,1,Tablet,Organic,0
+C00849,30.0,8,91.99,61,1,Mobile,Referral,0
+C00850,64.0,6,109.42,78,2,Mobile,Referral,0
+C00851,44.0,14,29.71,83,0,Mobile,Referral,0
+C00852,23.0,6,116.0,147,1,Mobile,Email,0
+C00853,53.0,4,104.1,52,0,Tablet,Social,0
+C00854,74.0,4,79.98,0,3,Desktop,Organic,0
+C00855,26.0,9,68.98,34,3,Mobile,Email,1
+C00856,18.0,11,84.76,148,1,Desktop,Organic,0
+C00857,71.0,4,58.99,53,1,Desktop,Referral,0
+C00858,52.0,4,70.56,10,0,Mobile,Referral,0
+C00859,30.0,10,38.12,72,1,Mobile,Organic,0
+C00860,63.0,6,31.46,156,0,Mobile,Email,1
+C00861,40.0,2,133.31,157,0,Desktop,Email,0
+C00862,37.0,12,76.58,170,2,Desktop,Social,0
+C00863,34.0,10,80.09,123,2,Desktop,Email,0
+C00864,52.0,6,74.23,147,1,Desktop,Referral,0
+C00865,25.0,8,54.31,139,2,Desktop,Paid Search,0
+C00866,39.0,6,67.32,3,1,Mobile,Paid Search,1
+C00867,35.0,9,77.28,75,1,Desktop,Social,0
+C00868,21.0,8,70.08,94,2,Tablet,Email,1
+C00869,62.0,5,56.19,83,1,Desktop,Organic,0
+C00870,18.0,6,86.99,149,1,Mobile,Social,0
+C00871,73.0,10,79.71,176,0,Desktop,Paid Search,0
+C00872,23.0,6,84.82,98,0,Desktop,Referral,0
+C00873,38.0,14,92.63,17,0,Mobile,Referral,0
+C00874,23.0,11,70.74,64,2,Desktop,Email,0
+C00875,39.0,8,70.78,35,0,Desktop,Referral,0
+C00876,53.0,7,112.06,84,1,Mobile,Referral,0
+C00877,23.0,9,51.4,42,1,Mobile,Social,0
+C00878,48.0,13,28.16,14,0,Mobile,Social,1
+C00879,62.0,4,88.89,30,1,Desktop,Referral,0
+C00880,44.0,8,59.27,89,2,Desktop,Referral,0
+C00881,24.0,16,48.07,25,2,Mobile,Email,1
+C00882,58.0,6,97.13,5,0,Tablet,Organic,1
+C00883,28.0,9,71.38,50,1,Desktop,Social,0
+C00884,18.0,9,43.41,115,0,Desktop,Email,0
+C00885,43.0,12,123.37,113,0,Mobile,Paid Search,0
+C00886,33.0,10,34.73,70,1,Tablet,Organic,1
+C00887,19.0,7,72.83,119,0,Desktop,Social,0
+C00888,63.0,8,27.77,34,2,Mobile,Referral,0
+C00889,52.0,8,81.77,130,1,Mobile,Email,0
+C00890,70.0,7,58.97,3,1,Desktop,Paid Search,0
+C00891,45.0,8,95.48,24,2,Mobile,Organic,0
+C00892,43.0,7,74.57,165,0,Mobile,Social,0
+C00893,66.0,8,108.77,84,1,Desktop,Organic,0
+C00894,22.0,8,64.26,100,6,Desktop,Organic,0
+C00895,38.0,6,34.89,71,1,Desktop,Organic,0
+C00896,64.0,7,80.94,116,0,Desktop,Paid Search,0
+C00897,34.0,9,68.69,134,1,Mobile,Paid Search,0
+C00898,69.0,9,29.52,140,1,Mobile,Paid Search,0
+C00899,34.0,9,48.62,44,0,Mobile,Organic,0
+C00900,41.0,10,56.57,112,2,Mobile,Social,0
+C00901,70.0,11,113.88,141,0,Mobile,Referral,0
+C00902,32.0,5,92.69,74,0,Desktop,Paid Search,0
+C00903,74.0,6,66.31,68,1,Mobile,Paid Search,1
+C00904,20.0,3,86.77,112,1,Desktop,Referral,0
+C00905,33.0,7,24.01,103,1,Desktop,Referral,1
+C00906,52.0,10,60.88,45,1,Mobile,Social,0
+C00907,52.0,8,85.02,172,2,Mobile,Email,0
+C00908,70.0,5,79.13,101,0,Desktop,Referral,0
+C00909,73.0,10,61.52,101,1,Mobile,Social,1
+C00910,57.0,6,74.04,37,2,Desktop,Social,0
+C00911,56.0,6,83.45,121,0,Mobile,Organic,0
+C00912,36.0,5,74.77,165,0,Mobile,Social,0
+C00913,64.0,5,96.53,130,1,Mobile,Paid Search,0
+C00914,55.0,9,82.97,91,0,Desktop,Social,0
+C00915,19.0,6,87.78,114,1,Mobile,Email,0
+C00916,66.0,13,117.84,42,0,Desktop,Organic,0
+C00917,38.0,6,95.69,10,1,Mobile,Email,0
+C00918,45.0,8,118.52,115,2,Tablet,Email,0
+C00919,46.0,7,58.2,32,1,Desktop,Organic,1
+C00920,65.0,10,35.19,16,2,Mobile,Referral,0
+C00921,33.0,8,71.49,139,2,Desktop,Referral,0
+C00922,40.0,4,69.36,78,1,Mobile,Organic,0
+C00923,20.0,5,111.49,153,2,Mobile,Organic,0
+C00924,38.0,10,46.75,155,2,Mobile,Organic,0
+C00925,23.0,12,73.03,22,1,Mobile,Email,0
+C00926,51.0,9,85.13,138,1,Tablet,Social,1
+C00927,69.0,7,77.5,60,1,Mobile,Paid Search,1
+C00928,44.0,8,70.71,126,2,Tablet,Referral,0
+C00929,70.0,5,83.96,7,1,Desktop,Paid Search,0
+C00930,74.0,5,101.98,84,0,Tablet,Paid Search,0
+C00931,21.0,9,113.39,113,0,Desktop,Email,1
+C00932,47.0,10,75.82,80,0,Desktop,Referral,1
+C00933,48.0,7,54.6,99,0,Mobile,Paid Search,0
+C00934,40.0,6,113.36,2,2,Desktop,Paid Search,1
+C00935,66.0,10,48.06,1,2,Mobile,Paid Search,1
+C00936,40.0,7,119.76,108,2,Desktop,Email,0
+C00937,21.0,13,108.6,74,2,Mobile,Email,0
+C00938,49.0,9,112.23,103,2,Desktop,Referral,0
+C00939,29.0,2,92.13,64,2,Desktop,Organic,0
+C00940,38.0,9,22.19,0,0,Mobile,Email,1
+C00941,47.0,6,49.02,126,0,Mobile,Paid Search,0
+C00942,59.0,3,82.67,24,3,Desktop,Email,0
+C00943,34.0,4,58.11,141,1,Mobile,Social,1
+C00944,40.0,6,67.12,2,3,Mobile,Referral,0
+C00945,21.0,7,90.32,167,0,Mobile,Email,0
+C00946,40.0,6,70.75,45,0,Desktop,Paid Search,0
+C00947,51.0,7,44.52,160,1,Tablet,Referral,0
+C00948,53.0,11,97.14,0,1,Mobile,Organic,0
+C00949,35.0,4,87.87,81,1,Desktop,Organic,0
+C00950,21.0,10,68.78,75,0,Desktop,Referral,1
+C00951,51.0,14,92.78,29,1,Desktop,Referral,0
+C00952,56.0,7,77.38,85,1,Tablet,Email,0
+C00953,22.0,7,108.28,38,1,Tablet,Paid Search,0
+C00954,47.0,8,78.78,78,1,Mobile,Referral,0
+C00955,23.0,7,108.1,67,1,Mobile,Referral,0
+C00956,44.0,6,28.16,35,0,Mobile,Referral,0
+C00957,55.0,11,86.48,141,0,Mobile,Social,0
+C00958,59.0,14,65.05,94,1,Mobile,Email,1
+C00959,59.0,8,53.52,150,2,Tablet,Paid Search,0
+C00960,61.0,9,103.96,146,1,Desktop,Email,0
+C00961,31.0,7,97.23,47,0,Desktop,Email,1
+C00962,67.0,4,24.84,52,2,Mobile,Email,0
+C00963,38.0,4,92.89,171,4,Mobile,Referral,0
+C00964,39.0,6,89.85,56,3,Desktop,Organic,0
+C00965,63.0,6,56.92,17,0,Desktop,Organic,0
+C00966,36.0,10,54.12,97,0,Mobile,Email,0
+C00967,22.0,9,35.24,174,1,Mobile,Paid Search,0
+C00968,59.0,9,66.56,42,0,Mobile,Referral,1
+C00969,56.0,11,70.56,114,2,Mobile,Referral,0
+C00970,51.0,8,94.92,60,0,Mobile,Referral,1
+C00971,26.0,7,81.73,69,2,Mobile,Paid Search,0
+C00972,54.0,14,48.5,81,2,Mobile,Referral,0
+C00973,29.0,7,80.97,25,1,Desktop,Organic,1
+C00974,50.0,10,68.65,69,0,Mobile,Referral,1
+C00975,47.0,8,51.63,49,0,Mobile,Paid Search,0
+C00976,62.0,7,35.26,147,1,Mobile,Organic,0
+C00977,74.0,6,90.62,41,2,Mobile,Referral,1
+C00978,29.0,9,86.16,152,0,Desktop,Email,0
+C00979,24.0,4,88.92,3,2,Mobile,Email,0
+C00980,50.0,10,56.79,72,1,Mobile,Paid Search,0
+C00981,73.0,3,79.28,48,2,Desktop,Email,1
+C00982,27.0,9,40.62,80,2,Mobile,Social,0
+C00983,46.0,5,50.34,138,2,Mobile,Organic,0
+C00984,41.0,10,75.84,172,2,Mobile,Referral,0
+C00985,36.0,8,81.56,131,3,Mobile,Social,0
+C00986,56.0,8,34.28,90,0,Mobile,Referral,1
+C00987,35.0,6,48.56,92,0,Mobile,Organic,0
+C00988,46.0,6,65.87,178,2,Mobile,Referral,0
+C00989,67.0,8,98.96,178,0,Mobile,Referral,0
+C00990,40.0,9,54.67,137,0,Tablet,Paid Search,0
+C00991,19.0,3,78.51,29,0,Mobile,Email,0
+C00992,69.0,16,81.13,47,1,Desktop,Email,0
+C00993,33.0,7,68.76,49,0,Mobile,Referral,0
+C00994,62.0,16,81.7,41,4,Mobile,Paid Search,0
+C00995,62.0,8,41.38,174,1,Mobile,Referral,0
+C00996,48.0,3,58.61,28,0,Mobile,Email,1
+C00997,23.0,5,110.86,153,3,Desktop,Organic,0
+C00998,73.0,8,112.62,145,0,Mobile,Paid Search,0
+C00999,57.0,5,96.07,95,1,Mobile,Organic,0
+C01000,42.0,9,102.51,55,0,Mobile,Referral,0
+C01001,67.0,10,29.35,47,2,Mobile,Email,0
+C01002,63.0,8,51.28,121,0,Mobile,Email,1
+C01003,62.0,8,67.22,120,3,Mobile,Paid Search,0
+C01004,27.0,9,135.39,97,1,Mobile,Social,0
+C01005,54.0,6,67.17,102,3,Mobile,Referral,1
+C01006,34.0,10,93.62,148,0,Mobile,Referral,0
+C01007,22.0,4,84.46,135,1,Mobile,Referral,0
+C01008,37.0,7,83.9,135,2,Mobile,Paid Search,1
+C01009,24.0,10,74.41,50,2,Mobile,Social,0
+C01010,24.0,6,45.0,11,0,Desktop,Social,0
+C01011,60.0,9,8.0,82,0,Mobile,Paid Search,0
+C01012,47.0,7,107.05,60,0,Mobile,Referral,1
+C01013,41.0,3,59.59,60,0,Desktop,Referral,1
+C01014,29.0,14,28.32,93,1,Desktop,Referral,0
+C01015,62.0,8,85.95,166,0,Mobile,Referral,0
+C01016,54.0,6,85.47,144,1,Mobile,Organic,0
+C01017,51.0,7,94.2,121,2,Mobile,Organic,0
+C01018,29.0,4,102.89,128,2,Mobile,Social,0
+C01019,25.0,9,52.03,74,0,Mobile,Social,0
+C01020,25.0,8,53.13,98,0,Desktop,Email,1
+C01021,19.0,11,67.03,78,1,Mobile,Organic,1
+C01022,74.0,7,95.54,145,1,Mobile,Paid Search,0
+C01023,39.0,11,22.43,178,0,Desktop,Organic,0
+C01024,56.0,13,78.21,78,2,Tablet,Organic,0
+C01025,74.0,6,98.3,129,0,Mobile,Organic,0
+C01026,72.0,9,97.27,10,2,Desktop,Email,0
+C01027,36.0,5,92.71,72,0,Desktop,Email,1
+C01028,46.0,7,101.58,156,1,Mobile,Paid Search,0
+C01029,44.0,10,8.0,123,0,Desktop,Email,0
+C01030,19.0,5,115.34,94,1,Tablet,Social,0
+C01031,62.0,8,83.26,38,1,Desktop,Organic,1
+C01032,51.0,7,108.37,145,1,Mobile,Paid Search,0
+C01033,39.0,10,45.63,174,0,Desktop,Paid Search,0
+C01034,50.0,11,31.15,70,2,Mobile,Organic,0
+C01035,60.0,14,119.66,145,0,Desktop,Organic,0
+C01036,18.0,3,51.84,105,3,Mobile,Social,0
+C01037,55.0,11,67.23,71,0,Tablet,Referral,0
+C01038,67.0,6,88.19,59,1,Desktop,Organic,1
+C01039,60.0,10,94.32,90,0,Mobile,Social,0
+C01040,53.0,6,101.96,73,1,Desktop,Paid Search,1
+C01041,23.0,12,80.58,111,1,Mobile,Organic,0
+C01042,61.0,11,48.64,26,3,Desktop,Paid Search,1
+C01043,61.0,9,92.67,85,1,Mobile,Referral,0
+C01044,46.0,7,93.06,133,1,Mobile,Paid Search,0
+C01045,51.0,7,29.62,152,0,Mobile,Social,1
+C01046,53.0,8,110.47,50,0,Tablet,Email,0
+C01047,25.0,2,12.82,108,1,Desktop,Email,0
+C01048,32.0,9,100.86,54,3,Desktop,Referral,0
+C01049,63.0,10,59.15,142,1,Desktop,Referral,0
+C01050,74.0,8,92.64,63,2,Mobile,Social,0
+C01051,33.0,9,87.75,121,0,Desktop,Referral,0
+C01052,41.0,7,74.07,77,1,Mobile,Organic,0
+C01053,71.0,4,86.28,48,0,Tablet,Referral,0
+C01054,27.0,10,72.84,103,0,Desktop,Organic,1
+C01055,33.0,8,92.85,112,0,Desktop,Organic,0
+C01056,21.0,5,129.63,122,4,Mobile,Referral,1
+C01057,31.0,12,41.47,142,0,Mobile,Email,0
+C01058,54.0,5,8.0,121,1,Mobile,Paid Search,1
+C01059,38.0,2,64.61,153,1,Desktop,Organic,0
+C01060,75.0,3,62.9,76,1,Mobile,Paid Search,0
+C01061,69.0,10,65.56,91,2,Mobile,Referral,0
+C01062,69.0,11,51.84,86,4,Desktop,Organic,0
+C01063,60.0,7,96.81,104,1,Desktop,Referral,0
+C01064,58.0,13,40.47,25,2,Mobile,Social,0
+C01065,47.0,10,86.27,153,0,Desktop,Paid Search,0
+C01066,75.0,9,90.96,93,2,Mobile,Social,0
+C01067,23.0,5,82.91,99,0,Mobile,Email,0
+C01068,59.0,8,87.18,157,0,Tablet,Paid Search,0
+C01069,26.0,7,98.73,83,1,Mobile,Email,0
+C01070,37.0,10,76.34,82,1,Mobile,Organic,0
+C01071,32.0,13,66.34,101,0,Mobile,Referral,0
+C01072,52.0,9,87.16,168,0,Mobile,Social,0
+C01073,63.0,9,90.01,45,0,Desktop,Organic,0
+C01074,22.0,10,97.24,28,4,Mobile,Organic,0
+C01075,52.0,3,32.19,19,3,Mobile,Email,0
+C01076,30.0,6,70.41,132,1,Mobile,Email,0
+C01077,22.0,11,48.37,1,0,Mobile,Social,1
+C01078,42.0,10,89.02,127,1,Desktop,Referral,0
+C01079,51.0,10,93.17,159,1,Mobile,Organic,0
+C01080,29.0,7,68.14,122,2,Desktop,Paid Search,0
+C01081,40.0,12,56.77,30,1,Mobile,Email,0
+C01082,73.0,6,89.92,119,1,Mobile,Paid Search,0
+C01083,38.0,9,71.67,79,0,Mobile,Referral,0
+C01084,75.0,8,110.66,4,0,Mobile,Social,0
+C01085,66.0,6,119.32,35,2,Tablet,Paid Search,0
+C01086,39.0,6,100.02,133,2,Tablet,Social,0
+C01087,51.0,7,80.82,100,0,Desktop,Email,0
+C01088,59.0,7,120.64,89,0,Mobile,Email,0
+C01089,44.0,10,81.02,139,0,Desktop,Social,0
+C01090,41.0,5,63.02,94,3,Mobile,Email,0
+C01091,37.0,9,58.12,174,1,Mobile,Social,0
+C01092,26.0,10,57.41,9,0,Desktop,Email,1
+C01093,19.0,15,74.84,51,0,Desktop,Email,1
+C01094,37.0,10,86.58,33,3,Mobile,Email,0
+C01095,64.0,6,39.62,74,0,Desktop,Email,1
+C01096,31.0,8,63.78,163,2,Mobile,Paid Search,0
+C01097,28.0,7,80.32,73,1,Mobile,Organic,0
+C01098,37.0,7,91.09,56,2,Desktop,Paid Search,0
+C01099,52.0,8,74.35,15,0,Mobile,Paid Search,0
+C01100,30.0,7,81.11,70,0,Mobile,Paid Search,0
+C01101,30.0,6,44.04,41,2,Desktop,Email,0
+C01102,24.0,5,52.21,34,0,Desktop,Email,0
+C01103,37.0,8,73.48,24,1,Desktop,Paid Search,0
+C01104,30.0,5,87.76,113,1,Tablet,Paid Search,0
+C01105,66.0,6,80.78,127,2,Mobile,Paid Search,0
+C01106,70.0,10,53.78,133,2,Mobile,Email,0
+C01107,39.0,6,69.09,9,2,Mobile,Email,0
+C01108,22.0,4,112.8,165,1,Desktop,Social,1
+C01109,23.0,8,88.61,91,2,Desktop,Email,0
+C01110,36.0,10,70.94,101,3,Desktop,Referral,0
+C01111,44.0,13,49.35,157,0,Mobile,Email,0
+C01112,48.0,9,57.17,49,1,Mobile,Social,0
+C01113,35.0,11,75.16,90,3,Mobile,Email,0
+C01114,38.0,8,81.9,12,4,Desktop,Social,1
+C01115,34.0,4,89.14,88,1,Mobile,Email,0
+C01116,48.0,8,84.7,47,0,Mobile,Organic,0
+C01117,58.0,12,65.74,32,0,Mobile,Social,0
+C01118,20.0,7,62.22,111,1,Desktop,Social,0
+C01119,45.0,8,126.17,23,0,Mobile,Email,0
+C01120,55.0,6,61.09,175,0,Desktop,Email,0
+C01121,57.0,8,42.71,41,2,Desktop,Organic,0
+C01122,50.0,8,34.03,14,4,Mobile,Referral,0
+C01123,48.0,11,66.17,80,1,Mobile,Social,0
+C01124,57.0,10,98.5,69,2,Mobile,Referral,1
+C01125,39.0,8,60.6,118,5,Desktop,Email,0
+C01126,50.0,6,111.94,120,1,Desktop,Paid Search,0
+C01127,36.0,10,74.82,106,0,Mobile,Paid Search,0
+C01128,43.0,8,102.74,103,1,Mobile,Referral,0
+C01129,25.0,6,56.06,139,2,Mobile,Organic,0
+C01130,38.0,5,56.44,117,3,Mobile,Social,0
+C01131,26.0,3,77.28,25,2,Desktop,Organic,0
+C01132,31.0,9,87.06,83,0,Mobile,Social,0
+C01133,42.0,5,70.53,123,0,Tablet,Email,0
+C01134,47.0,12,82.31,48,0,Desktop,Email,0
+C01135,72.0,8,89.71,155,2,Mobile,Social,0
+C01136,19.0,7,39.49,86,1,Desktop,Paid Search,0
+C01137,70.0,7,66.48,57,0,Desktop,Email,0
+C01138,37.0,6,62.03,68,4,Mobile,Referral,0
+C01139,60.0,4,63.25,111,2,Mobile,Email,0
+C01140,57.0,11,85.17,127,0,Desktop,Organic,0
+C01141,74.0,5,62.38,46,1,Mobile,Referral,0
+C01142,24.0,16,24.87,30,0,Desktop,Email,0
+C01143,74.0,8,69.09,16,0,Mobile,Email,0
+C01144,21.0,5,48.39,89,1,Mobile,Organic,0
+C01145,68.0,12,87.41,166,3,Desktop,Organic,0
+C01146,55.0,5,95.14,172,2,Mobile,Paid Search,0
+C01147,45.0,8,20.63,100,1,Mobile,Referral,0
+C01148,41.0,6,55.64,95,4,Mobile,Social,0
+C01149,23.0,6,83.83,90,2,Desktop,Email,0
+C01150,64.0,9,39.78,42,2,Mobile,Social,0
+C01151,60.0,8,94.57,74,1,Desktop,Paid Search,0
+C01152,72.0,8,101.23,168,0,Desktop,Referral,0
+C01153,60.0,11,70.95,110,0,Desktop,Paid Search,0
+C01154,73.0,5,55.65,43,1,Mobile,Social,0
+C01155,69.0,10,17.24,15,0,Desktop,Email,1
+C01156,42.0,8,95.35,135,3,Tablet,Social,0
+C01157,58.0,8,125.06,162,0,Mobile,Organic,0
+C01158,33.0,6,119.89,19,1,Mobile,Referral,0
+C01159,64.0,10,70.13,67,2,Desktop,Paid Search,0
+C01160,53.0,10,47.68,153,1,Desktop,Email,0
+C01161,43.0,6,95.94,45,0,Mobile,Social,1
+C01162,54.0,5,71.83,32,2,Mobile,Social,0
+C01163,34.0,9,86.95,70,1,Mobile,Email,1
+C01164,54.0,8,82.57,70,3,Mobile,Referral,0
+C01165,45.0,9,77.33,86,2,Mobile,Referral,0
+C01166,36.0,8,100.71,173,0,Mobile,Social,0
+C01167,74.0,6,101.64,175,0,Desktop,Organic,0
+C01168,21.0,6,61.93,104,0,Mobile,Social,0
+C01169,61.0,9,51.92,13,1,Mobile,Email,1
+C01170,30.0,15,12.52,47,2,Mobile,Email,1
+C01171,30.0,10,66.35,32,2,Mobile,Referral,0
+C01172,26.0,6,47.67,0,0,Mobile,Email,0
+C01173,23.0,6,85.48,68,2,Mobile,Referral,0
+C01174,25.0,7,66.6,1,4,Desktop,Social,0
+C01175,66.0,12,69.31,103,0,Desktop,Organic,0
+C01176,71.0,7,95.3,49,1,Desktop,Social,0
+C01177,51.0,11,84.93,130,1,Desktop,Email,0
+C01178,18.0,8,72.08,94,1,Mobile,Email,1
+C01179,68.0,9,117.16,171,1,Mobile,Paid Search,0
+C01180,52.0,9,93.45,87,2,Desktop,Organic,0
+C01181,48.0,9,64.6,28,1,Tablet,Social,0
+C01182,72.0,11,65.72,165,4,Tablet,Paid Search,0
+C01183,41.0,7,94.71,55,5,Mobile,Organic,0
+C01184,38.0,9,80.07,137,1,Mobile,Email,0
+C01185,63.0,7,46.97,140,1,Desktop,Social,0
+C01186,48.0,8,97.37,166,2,Mobile,Paid Search,0
+C01187,59.0,4,106.43,115,0,Mobile,Paid Search,0
+C01188,58.0,10,104.53,92,0,Desktop,Email,0
+C01189,66.0,12,113.57,69,1,Mobile,Referral,0
+C01190,36.0,10,126.73,80,0,Mobile,Organic,0
+C01191,22.0,7,118.25,140,1,Desktop,Referral,0
+C01192,45.0,10,83.52,101,0,Mobile,Organic,0
+C01193,55.0,7,69.79,8,0,Mobile,Email,0
+C01194,65.0,6,29.26,66,3,Desktop,Referral,0
+C01195,33.0,11,75.27,164,1,Desktop,Referral,0
+C01196,61.0,5,87.98,37,1,Desktop,Email,0
+C01197,66.0,3,76.09,84,0,Mobile,Email,0
+C01198,64.0,9,27.79,150,1,Mobile,Social,0
+C01199,64.0,10,67.83,52,2,Desktop,Referral,0
+C01200,75.0,13,91.13,122,1,Mobile,Organic,0
+C01201,56.0,12,49.35,141,1,Mobile,Paid Search,0
+C01202,39.0,8,79.14,58,0,Mobile,Paid Search,0
+C01203,43.0,5,85.79,161,1,Mobile,Referral,0
+C01204,61.0,12,102.95,80,0,Mobile,Organic,0
+C01205,31.0,11,117.82,53,2,Desktop,Organic,0
+C01206,52.0,13,65.55,40,2,Mobile,Organic,1
+C01207,51.0,4,79.59,47,1,Desktop,Referral,0
+C01208,56.0,7,80.38,101,1,Mobile,Organic,0
+C01209,42.0,9,91.23,40,0,Tablet,Paid Search,1
+C01210,60.0,7,88.44,64,2,Mobile,Email,0
+C01211,22.0,12,110.63,127,3,Desktop,Paid Search,0
+C01212,61.0,4,16.72,157,0,Desktop,Organic,0
+C01213,65.0,9,85.45,122,1,Mobile,Email,0
+C01214,69.0,7,87.19,95,1,Desktop,Social,0
+C01215,71.0,7,69.12,125,0,Tablet,Paid Search,0
+C01216,38.0,12,18.4,74,1,Desktop,Email,0
+C01217,20.0,13,73.48,48,0,Mobile,Email,0
+C01218,55.0,7,57.24,134,0,Desktop,Paid Search,0
+C01219,23.0,9,116.95,24,0,Desktop,Organic,0
+C01220,34.0,9,84.38,162,0,Desktop,Referral,0
+C01221,58.0,8,55.11,77,0,Desktop,Referral,0
+C01222,52.0,5,23.68,147,1,Desktop,Email,0
+C01223,53.0,8,89.77,17,1,Desktop,Referral,1
+C01224,61.0,11,92.4,89,3,Mobile,Paid Search,1
+C01225,27.0,12,69.61,75,0,Mobile,Referral,0
+C01226,63.0,10,90.09,64,0,Desktop,Email,0
+C01227,52.0,10,66.29,92,0,Mobile,Referral,1
+C01228,42.0,8,101.68,119,5,Mobile,Social,0
+C01229,44.0,6,99.82,169,2,Tablet,Referral,0
+C01230,47.0,4,34.03,147,3,Mobile,Email,0
+C01231,49.0,4,40.12,41,2,Mobile,Referral,0
+C01232,37.0,10,125.78,176,1,Tablet,Referral,0
+C01233,30.0,3,98.3,89,1,Tablet,Social,1
+C01234,27.0,10,43.44,82,1,Tablet,Paid Search,1
+C01235,37.0,7,35.74,1,0,Mobile,Organic,0
+C01236,33.0,8,80.19,120,0,Mobile,Email,0
+C01237,47.0,11,46.44,159,2,Tablet,Social,0
+C01238,70.0,6,67.08,52,0,Mobile,Referral,0
+C01239,24.0,7,73.82,156,0,Desktop,Social,0
+C01240,35.0,9,72.74,15,2,Tablet,Social,0
+C01241,20.0,8,103.16,174,0,Mobile,Email,0
+C01242,74.0,9,120.87,45,0,Desktop,Referral,0
+C01243,58.0,3,63.03,86,0,Desktop,Paid Search,1
+C01244,32.0,7,46.73,2,0,Mobile,Social,1
+C01245,42.0,7,84.72,161,1,Desktop,Email,0
+C01246,59.0,10,115.79,91,1,Mobile,Email,0
+C01247,73.0,9,64.92,174,1,Desktop,Paid Search,0
+C01248,51.0,2,96.26,67,1,Desktop,Social,0
+C01249,33.0,5,54.07,10,1,Mobile,Referral,0
+C01250,58.0,6,75.53,122,0,Tablet,Email,0
+C01251,57.0,7,45.95,29,0,Mobile,Organic,1
+C01252,55.0,7,75.27,110,1,Desktop,Organic,0
+C01253,20.0,8,72.09,6,1,Desktop,Organic,1
+C01254,58.0,8,90.2,30,1,Desktop,Email,1
+C01255,19.0,9,119.45,114,0,Tablet,Organic,0
+C01256,70.0,5,65.28,121,1,Mobile,Paid Search,1
+C01257,69.0,8,25.01,27,1,Tablet,Social,0
+C01258,50.0,10,69.95,33,2,Mobile,Social,1
+C01259,55.0,6,82.48,154,0,Mobile,Social,1
+C01260,21.0,10,80.05,1,1,Desktop,Social,1
+C01261,68.0,9,71.06,41,1,Tablet,Organic,0
+C01262,33.0,12,112.19,174,1,Desktop,Referral,0
+C01263,33.0,9,78.41,98,0,Mobile,Paid Search,0
+C01264,59.0,5,72.38,4,0,Mobile,Organic,1
+C01265,72.0,11,55.56,160,0,Desktop,Referral,0
+C01266,46.0,12,31.33,61,0,Mobile,Email,1
+C01267,47.0,7,83.23,128,1,Mobile,Paid Search,0
+C01268,49.0,8,81.14,114,0,Mobile,Paid Search,0
+C01269,34.0,12,48.52,66,2,Mobile,Email,0
+C01270,52.0,10,73.89,66,4,Desktop,Email,0
+C01271,73.0,5,71.4,99,0,Mobile,Organic,0
+C01272,40.0,10,59.39,68,1,Mobile,Organic,1
+C01273,62.0,6,55.17,31,2,Tablet,Referral,1
+C01274,62.0,2,85.13,130,2,Mobile,Email,0
+C01275,67.0,5,69.35,121,2,Mobile,Referral,0
+C01276,59.0,6,60.23,108,1,Tablet,Social,0
+C01277,71.0,12,53.46,133,0,Mobile,Social,1
+C01278,59.0,6,71.75,93,4,Desktop,Paid Search,0
+C01279,74.0,7,98.11,167,0,Desktop,Referral,1
+C01280,59.0,10,80.17,159,2,Mobile,Social,0
+C01281,66.0,8,69.07,176,3,Mobile,Social,0
+C01282,69.0,10,82.71,19,2,Mobile,Paid Search,0
+C01283,75.0,13,109.11,18,4,Mobile,Email,1
+C01284,52.0,7,87.26,84,2,Desktop,Paid Search,1
+C01285,59.0,5,81.51,124,0,Mobile,Referral,0
+C01286,74.0,9,90.96,43,1,Mobile,Referral,0
+C01287,40.0,10,71.05,20,0,Mobile,Paid Search,1
+C01288,24.0,7,79.6,6,1,Mobile,Organic,1
+C01289,69.0,10,62.78,99,2,Mobile,Paid Search,0
+C01290,54.0,6,36.24,176,1,Mobile,Paid Search,0
+C01291,42.0,4,83.57,83,2,Mobile,Organic,0
+C01292,59.0,8,83.67,132,3,Desktop,Referral,0
+C01293,19.0,6,67.81,9,0,Mobile,Email,1
+C01294,45.0,5,100.9,38,1,Desktop,Organic,1
+C01295,33.0,11,56.96,122,1,Mobile,Social,0
+C01296,34.0,3,30.72,72,1,Mobile,Paid Search,1
+C01297,74.0,5,57.57,4,2,Desktop,Organic,0
+C01298,49.0,8,36.48,40,1,Mobile,Email,1
+C01299,26.0,6,83.45,142,2,Mobile,Email,0
+C01300,39.0,5,56.2,123,0,Mobile,Social,0
+C01301,32.0,12,99.62,145,2,Mobile,Paid Search,0
+C01302,70.0,13,99.09,63,1,Desktop,Social,0
+C01303,34.0,6,51.88,167,1,Desktop,Social,1
+C01304,38.0,8,54.8,165,4,Mobile,Social,0
+C01305,37.0,14,88.36,66,3,Mobile,Referral,0
+C01306,28.0,5,99.5,37,0,Mobile,Referral,1
+C01307,63.0,5,24.68,173,1,Desktop,Email,0
+C01308,51.0,9,82.04,62,1,Desktop,Paid Search,0
+C01309,43.0,11,20.06,89,3,Mobile,Email,1
+C01310,40.0,7,61.29,167,1,Mobile,Email,0
+C01311,56.0,7,102.34,48,0,Mobile,Organic,0
+C01312,23.0,5,150.24,159,1,Mobile,Referral,0
+C01313,72.0,10,69.03,28,0,Mobile,Email,1
+C01314,50.0,9,43.82,52,3,Mobile,Organic,0
+C01315,31.0,10,62.16,69,2,Mobile,Referral,0
+C01316,49.0,6,76.65,86,2,Desktop,Referral,0
+C01317,67.0,9,58.24,43,0,Mobile,Email,0
+C01318,28.0,4,51.88,159,4,Desktop,Referral,0
+C01319,48.0,6,64.33,119,0,Desktop,Referral,1
+C01320,52.0,0,84.89,120,1,Desktop,Referral,0
+C01321,64.0,7,70.76,131,0,Desktop,Referral,0
+C01322,50.0,8,52.96,114,1,Desktop,Organic,1
+C01323,60.0,9,58.25,115,0,Desktop,Organic,0
+C01324,62.0,8,64.65,118,1,Desktop,Email,1
+C01325,69.0,8,50.01,129,1,Desktop,Social,0
+C01326,38.0,12,57.32,165,1,Desktop,Referral,0
+C01327,58.0,9,91.09,35,1,Desktop,Social,0
+C01328,32.0,2,69.24,93,1,Mobile,Paid Search,0
+C01329,66.0,11,31.16,33,0,Mobile,Referral,0
+C01330,73.0,8,100.62,32,1,Desktop,Email,0
+C01331,35.0,7,85.42,170,3,Mobile,Social,0
+C01332,50.0,8,40.42,85,0,Mobile,Paid Search,0
+C01333,65.0,6,65.87,126,0,Desktop,Social,0
+C01334,19.0,5,55.2,131,3,Mobile,Organic,0
+C01335,58.0,8,91.92,5,1,Desktop,Referral,0
+C01336,65.0,6,65.71,88,0,Mobile,Referral,0
+C01337,68.0,4,73.18,32,0,Mobile,Social,0
+C01338,29.0,11,70.27,56,2,Mobile,Referral,1
+C01339,61.0,13,38.0,33,1,Desktop,Referral,1
+C01340,63.0,10,110.13,119,0,Desktop,Organic,0
+C01341,18.0,13,91.56,23,0,Mobile,Paid Search,1
+C01342,58.0,14,56.32,81,0,Mobile,Organic,0
+C01343,54.0,11,79.8,55,1,Mobile,Paid Search,1
+C01344,74.0,6,99.35,173,3,Tablet,Email,0
+C01345,20.0,9,76.39,141,1,Mobile,Organic,0
+C01346,74.0,7,113.92,63,0,Desktop,Organic,0
+C01347,51.0,10,147.95,52,1,Mobile,Social,0
+C01348,33.0,7,71.85,129,2,Desktop,Social,0
+C01349,40.0,6,60.44,113,1,Mobile,Paid Search,0
+C01350,62.0,8,50.26,99,2,Mobile,Social,0
+C01351,75.0,5,19.66,12,1,Desktop,Email,0
+C01352,36.0,4,106.2,13,1,Desktop,Email,0
+C01353,75.0,7,66.16,114,1,Mobile,Organic,1
+C01354,54.0,6,96.88,84,1,Mobile,Social,0
+C01355,29.0,5,101.91,149,2,Desktop,Social,0
+C01356,52.0,13,47.98,5,0,Desktop,Organic,1
+C01357,64.0,9,51.73,33,3,Mobile,Organic,0
+C01358,21.0,6,118.62,142,3,Mobile,Paid Search,0
+C01359,22.0,14,73.25,176,0,Mobile,Organic,0
+C01360,18.0,8,58.49,132,4,Mobile,Referral,0
+C01361,51.0,4,48.87,2,4,Mobile,Referral,0
+C01362,21.0,7,71.46,9,0,Mobile,Organic,0
+C01363,72.0,15,112.7,158,2,Desktop,Paid Search,0
+C01364,25.0,8,92.14,89,2,Desktop,Paid Search,0
+C01365,22.0,7,79.54,89,4,Desktop,Referral,0
+C01366,32.0,14,114.71,173,0,Mobile,Social,0
+C01367,62.0,12,109.89,44,2,Mobile,Referral,1
+C01368,70.0,11,83.35,51,1,Desktop,Paid Search,0
+C01369,32.0,3,144.4,123,0,Mobile,Organic,0
+C01370,48.0,9,68.81,162,2,Desktop,Email,0
+C01371,62.0,10,102.45,65,0,Mobile,Referral,0
+C01372,64.0,7,65.18,27,2,Mobile,Referral,0
+C01373,26.0,8,97.57,10,2,Mobile,Email,1
+C01374,66.0,11,68.79,1,2,Mobile,Paid Search,1
+C01375,68.0,9,86.53,67,0,Mobile,Organic,0
+C01376,60.0,12,134.75,95,0,Desktop,Email,0
+C01377,48.0,2,98.8,88,5,Mobile,Email,0
+C01378,40.0,8,86.92,43,0,Mobile,Organic,0
+C01379,69.0,11,55.63,121,2,Desktop,Referral,0
+C01380,68.0,8,79.71,158,1,Mobile,Social,0
+C01381,48.0,5,49.8,41,1,Tablet,Paid Search,0
+C01382,61.0,5,97.17,121,2,Mobile,Paid Search,0
+C01383,41.0,2,96.55,98,1,Desktop,Paid Search,0
+C01384,61.0,12,70.51,123,1,Desktop,Referral,0
+C01385,23.0,6,116.59,2,2,Mobile,Social,1
+C01386,70.0,6,113.07,121,0,Mobile,Organic,0
+C01387,47.0,7,78.74,134,3,Desktop,Paid Search,0
+C01388,52.0,11,89.14,122,1,Desktop,Social,0
+C01389,28.0,8,60.29,151,0,Desktop,Paid Search,0
+C01390,48.0,5,68.2,134,1,Mobile,Referral,0
+C01391,18.0,10,48.05,177,2,Mobile,Email,0
+C01392,69.0,8,63.04,120,2,Mobile,Social,0
+C01393,61.0,4,72.39,80,2,Mobile,Email,0
+C01394,44.0,9,33.49,150,1,Mobile,Social,0
+C01395,66.0,9,89.42,125,0,Mobile,Email,1
+C01396,65.0,8,100.55,100,2,Mobile,Paid Search,0
+C01397,24.0,6,74.8,104,1,Desktop,Referral,0
+C01398,21.0,11,8.0,63,3,Desktop,Email,0
+C01399,32.0,5,68.68,110,0,Mobile,Organic,1
+C01400,18.0,7,40.17,84,2,Mobile,Paid Search,0
+C01401,51.0,10,59.76,23,1,Desktop,Email,0
+C01402,48.0,5,111.3,79,0,Mobile,Paid Search,0
+C01403,49.0,11,14.14,170,2,Mobile,Referral,0
+C01404,22.0,7,54.59,59,4,Desktop,Email,0
+C01405,71.0,7,95.74,121,1,Mobile,Paid Search,0
+C01406,74.0,12,57.45,74,1,Desktop,Social,0
+C01407,52.0,4,55.54,51,0,Mobile,Social,0
+C01408,18.0,4,125.81,69,2,Mobile,Email,0
+C01409,40.0,9,84.46,172,1,Mobile,Referral,0
+C01410,59.0,7,98.36,20,0,Mobile,Referral,0
+C01411,61.0,8,87.37,120,0,Mobile,Email,0
+C01412,32.0,8,79.04,149,3,Desktop,Social,0
+C01413,65.0,8,106.6,33,1,Desktop,Organic,1
+C01414,74.0,14,122.63,136,0,Mobile,Email,0
+C01415,47.0,15,32.91,114,1,Mobile,Email,1
+C01416,40.0,11,74.12,60,1,Mobile,Email,1
+C01417,48.0,10,73.92,31,1,Tablet,Referral,1
+C01418,19.0,5,64.27,170,2,Mobile,Email,0
+C01419,48.0,6,99.53,35,0,Mobile,Email,0
+C01420,19.0,9,81.42,170,1,Mobile,Email,0
+C01421,20.0,8,123.14,116,0,Desktop,Social,0
+C01422,50.0,7,102.51,154,1,Mobile,Paid Search,0
+C01423,47.0,8,109.12,53,0,Mobile,Paid Search,0
+C01424,75.0,9,45.02,5,1,Mobile,Email,0
+C01425,47.0,6,54.85,117,1,Mobile,Paid Search,0
+C01426,74.0,11,56.91,66,1,Mobile,Social,0
+C01427,64.0,7,108.08,99,1,Tablet,Referral,0
+C01428,37.0,4,50.82,82,2,Desktop,Paid Search,1
+C01429,71.0,10,51.55,57,0,Desktop,Email,1
+C01430,45.0,10,46.97,129,1,Mobile,Paid Search,0
+C01431,52.0,10,143.83,90,1,Mobile,Social,0
+C01432,23.0,9,71.44,114,0,Mobile,Paid Search,0
+C01433,30.0,5,88.25,120,0,Mobile,Email,0
+C01434,48.0,7,46.48,122,3,Desktop,Paid Search,1
+C01435,33.0,8,98.98,59,1,Mobile,Social,0
+C01436,52.0,7,30.66,138,2,Mobile,Paid Search,0
+C01437,22.0,9,50.52,39,0,Mobile,Paid Search,1
+C01438,32.0,8,56.72,170,0,Mobile,Social,0
+C01439,56.0,6,80.47,145,2,Mobile,Email,1
+C01440,53.0,8,55.17,99,3,Mobile,Social,0
+C01441,75.0,9,113.1,32,0,Mobile,Social,0
+C01442,70.0,5,87.58,162,1,Mobile,Paid Search,0
+C01443,65.0,5,57.76,99,0,Mobile,Paid Search,0
+C01444,18.0,8,99.94,146,0,Mobile,Referral,0
+C01445,52.0,7,65.17,4,1,Mobile,Organic,0
+C01446,31.0,10,60.24,60,2,Mobile,Social,0
+C01447,33.0,7,97.4,53,5,Desktop,Paid Search,0
+C01448,30.0,4,13.68,146,0,Desktop,Organic,0
+C01449,44.0,7,93.37,83,3,Mobile,Referral,0
+C01450,25.0,11,57.17,21,1,Tablet,Referral,1
+C01451,48.0,7,57.13,110,1,Mobile,Paid Search,0
+C01452,27.0,14,123.95,28,2,Mobile,Social,1
+C01453,47.0,11,61.72,80,1,Mobile,Social,0
+C01454,54.0,10,98.9,178,1,Desktop,Email,0
+C01455,28.0,12,81.98,78,0,Tablet,Referral,1
+C01456,23.0,13,84.57,77,1,Mobile,Paid Search,0
+C01457,64.0,10,68.74,7,2,Mobile,Organic,0
+C01458,60.0,7,67.43,82,1,Mobile,Referral,0
+C01459,33.0,3,113.2,172,3,Mobile,Paid Search,0
+C01460,69.0,8,98.26,171,3,Desktop,Organic,0
+C01461,30.0,5,62.51,173,1,Desktop,Referral,0
+C01462,71.0,5,48.85,65,1,Desktop,Email,0
+C01463,24.0,6,60.39,11,1,Tablet,Referral,1
+C01464,56.0,8,99.54,42,0,Mobile,Referral,0
+C01465,19.0,11,104.47,38,1,Mobile,Paid Search,0
+C01466,29.0,5,88.87,14,1,Mobile,Referral,0
+C01467,41.0,13,34.58,127,0,Desktop,Email,0
+C01468,22.0,7,93.84,94,0,Desktop,Social,0
+C01469,44.0,8,107.59,129,0,Desktop,Paid Search,0
+C01470,31.0,9,79.34,35,1,Mobile,Organic,0
+C01471,23.0,4,124.5,125,2,Desktop,Organic,0
+C01472,73.0,5,41.98,11,0,Desktop,Paid Search,0
+C01473,74.0,6,92.12,129,1,Desktop,Email,0
+C01474,73.0,10,49.49,146,2,Mobile,Referral,0
+C01475,26.0,9,101.46,45,0,Mobile,Organic,0
+C01476,40.0,7,90.32,59,3,Desktop,Social,0
+C01477,36.0,8,120.03,78,0,Mobile,Social,0
+C01478,36.0,4,87.49,104,2,Tablet,Referral,0
+C01479,42.0,14,64.9,95,1,Desktop,Referral,0
+C01480,47.0,9,62.72,18,1,Tablet,Organic,1
+C01481,46.0,9,68.75,68,1,Mobile,Paid Search,0
+C01482,34.0,11,62.23,91,1,Mobile,Referral,0
+C01483,74.0,7,108.68,110,2,Desktop,Social,0
+C01484,74.0,12,106.89,113,1,Mobile,Paid Search,0
+C01485,37.0,11,37.59,119,1,Mobile,Referral,0
+C01486,30.0,7,75.96,80,0,Desktop,Paid Search,0
+C01487,48.0,8,76.56,90,1,Mobile,Paid Search,0
+C01488,39.0,10,55.47,60,0,Desktop,Referral,0
+C01489,75.0,4,85.96,48,3,Mobile,Referral,0
+C01490,42.0,10,111.52,55,2,Mobile,Email,1
+C01491,20.0,5,97.3,78,0,Mobile,Social,0
+C01492,25.0,9,108.68,19,1,Desktop,Social,0
+C01493,22.0,10,57.04,39,0,Mobile,Paid Search,0
+C01494,40.0,9,75.91,20,0,Desktop,Email,1
+C01495,36.0,6,55.86,73,2,Mobile,Organic,0
+C01496,67.0,5,80.99,89,1,Mobile,Referral,0
+C01497,69.0,8,83.24,29,0,Desktop,Referral,0
+C01498,26.0,4,99.0,24,0,Mobile,Organic,0
+C01499,72.0,9,107.84,94,0,Tablet,Social,0
+C01500,51.0,11,92.22,40,1,Tablet,Organic,1
