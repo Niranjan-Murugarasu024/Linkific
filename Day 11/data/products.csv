@@ -1,0 +1,8 @@
+product_id,product_name,category,brand,unit_price,updated_at
+P001,Wireless Mouse,Accessories,Northstar,799.00,2026-01-01 08:00:00
+P002,Mechanical Keyboard,Accessories,Northstar,2499.00,2026-01-01 08:00:00
+P003,USB-C Dock,Accessories,LinkWorks,4599.00,2026-01-02 08:00:00
+P004,27-inch Monitor,Displays,ViewPeak,16999.00,2026-01-02 08:00:00
+P005,Laptop Stand,Accessories,DeskMate,1299.00,2026-01-03 08:00:00
+P006,Webcam HD,Peripherals,ViewPeak,3299.00,2026-01-03 08:00:00
+P007,Noise-Cancelling Headset,Audio,SoundNest,5999.00,2026-01-04 08:00:00

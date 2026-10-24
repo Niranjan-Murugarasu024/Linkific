@@ -1,0 +1,49 @@
+erDiagram
+    DIM_DATE ||--o{ FACT_SALES : dates
+    DIM_CUSTOMER ||--o{ FACT_SALES : customer_version
+    DIM_PRODUCT ||--o{ FACT_SALES : product
+    DIM_CHANNEL ||--o{ FACT_SALES : channel
+
+    DIM_DATE {
+        int date_sk PK
+        date full_date
+        int year_number
+        int month_number
+        int quarter_number
+    }
+    DIM_CUSTOMER {
+        bigint customer_sk PK
+        varchar customer_id
+        varchar full_name
+        varchar city
+        varchar state
+        varchar segment
+        timestamp valid_from
+        timestamp valid_to
+        boolean is_current
+        int version_number
+    }
+    DIM_PRODUCT {
+        bigint product_sk PK
+        varchar product_id
+        varchar product_name
+        varchar category
+        numeric current_unit_price
+    }
+    DIM_CHANNEL {
+        smallint channel_sk PK
+        varchar channel_name
+    }
+    FACT_SALES {
+        bigint sales_sk PK
+        varchar order_id
+        int order_line_id
+        int date_sk FK
+        bigint customer_sk FK
+        bigint product_sk FK
+        smallint channel_sk FK
+        int quantity
+        numeric gross_amount
+        numeric discount_amount
+        numeric net_amount
+    }

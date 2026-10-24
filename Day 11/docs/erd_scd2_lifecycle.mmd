@@ -1,0 +1,12 @@
+flowchart TD
+ A[Receive staged snapshot] --> B[Deduplicate by customer_id]
+ B --> C{Current version exists?}
+ C -- No --> D[Insert first version]
+ C -- Yes --> E{Tracked attributes changed?}
+ E -- No --> F[Keep current version]
+ E -- Yes --> G[Close old version at source effective time]
+ G --> H[Insert new version with new surrogate key]
+ D --> I[Resolve fact by natural key and event time]
+ F --> I
+ H --> I
+ I --> J[Fact stores matching customer_sk]

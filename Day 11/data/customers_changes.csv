@@ -1,0 +1,8 @@
+customer_id,full_name,email,city,state,segment,updated_at
+C001,Aarav Sharma,aarav@example.test,Chennai,Tamil Nadu,Corporate,2026-03-10 09:00:00
+C002,Diya Iyer,diya.iyer@example.test,Chennai,Tamil Nadu,Corporate,2026-03-12 09:30:00
+C003,Kabir Rao,kabir@example.test,Mysuru,Karnataka,Small Business,2026-03-15 10:00:00
+C004,Meera Nair,meera@example.test,Kochi,Kerala,Consumer,2026-03-16 11:15:00
+C005,Arjun Das,arjun@example.test,Hyderabad,Telangana,Enterprise,2026-03-17 12:00:00
+C006,Ishita Menon,ishita@example.test,Madurai,Tamil Nadu,Consumer,2026-03-18 14:20:00
+C007,Rohan Gupta,rohan@example.test,Pune,Maharashtra,Consumer,2026-03-19 15:10:00
