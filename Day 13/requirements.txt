@@ -1,0 +1,2 @@
+# Airflow and the Postgres provider are already included in the pinned Docker image.
+# For host-side tooling only; do NOT pip-install Airflow natively on Windows.
