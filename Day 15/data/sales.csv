@@ -1,0 +1,1601 @@
+order_id,order_date,region,city,category,product,quantity,unit_price,discount,sales,profit,channel,customer_segment
+ORD-00474,2024-01-01,South,Hyderabad,Electronics,Keyboard,1,1590.81,0.05,1511.27,447.75,Retail Store,Consumer
+ORD-01491,2024-01-02,North,Jaipur,Electronics,Monitor,2,14225.54,0.15,24183.42,827.72,Retail Store,Small Business
+ORD-00911,2024-01-03,East,Kolkata,Books,Data Science Book,1,974.04,0.15,827.93,226.02,Online,Consumer
+ORD-01427,2024-01-03,East,Patna,Electronics,Headphones,2,2580.09,0.0,5160.18,1209.92,Online,Enterprise
+ORD-00017,2024-01-04,South,Kochi,Clothing,Jeans,2,2010.91,0.1,3619.64,780.05,Online,Enterprise
+ORD-00034,2024-01-04,West,Surat,Home,Office Chair,2,7716.09,0.3,10802.53,184.56,Marketplace,Consumer
+ORD-01398,2024-01-04,North,Delhi,Office Supplies,Backpack,1,1448.75,0.25,1086.56,115.77,Online,Consumer
+ORD-00855,2024-01-05,South,Kochi,Electronics,Headphones,5,2168.28,0.1,9757.26,1284.92,Online,Consumer
+ORD-00199,2024-01-06,North,Lucknow,Electronics,Headphones,4,2361.64,0.05,8974.23,1956.84,Retail Store,Consumer
+ORD-01161,2024-01-06,East,Patna,Electronics,Keyboard,4,1506.82,0.2,4821.82,235.27,Marketplace,Consumer
+ORD-01489,2024-01-06,South,Kochi,Office Supplies,Notebook Pack,2,245.7,0.25,368.55,86.98,Online,Consumer
+ORD-00525,2024-01-07,West,Surat,Electronics,Keyboard,1,1603.55,0.2,1282.84,77.05,Retail Store,Small Business
+ORD-00931,2024-01-07,North,Jaipur,Home,Water Bottle,2,450.28,0.1,810.5,178.73,Retail Store,Consumer
+ORD-01568,2024-01-07,East,Patna,Electronics,Headphones,4,2662.53,0.15,9052.6,1698.36,Marketplace,Enterprise
+ORD-00599,2024-01-08,North,Dehradun,Office Supplies,Whiteboard,2,2294.14,0.1,4129.45,1054.38,Online,Enterprise
+ORD-01588,2024-01-08,South,Chennai,Clothing,Sneakers,1,2569.78,0.15,2184.31,367.17,Marketplace,Consumer
+ORD-00622,2024-01-09,West,Panaji,Clothing,Sneakers,1,3159.89,0.0,3159.89,824.67,Marketplace,Small Business
+ORD-00704,2024-01-09,North,Dehradun,Office Supplies,Notebook Pack,1,257.97,0.05,245.07,75.68,Online,Consumer
+ORD-01193,2024-01-09,South,Coimbatore,Office Supplies,Whiteboard,1,2173.97,0.05,2065.27,392.03,Marketplace,Consumer
+ORD-00846,2024-01-11,South,Hyderabad,Office Supplies,Notebook Pack,1,245.91,0.15,209.02,51.27,Online,Enterprise
+ORD-01030,2024-01-11,South,Coimbatore,Home,Storage Box,2,629.48,0.0,1258.96,459.27,Marketplace,Consumer
+ORD-00904,2024-01-12,North,Lucknow,Clothing,T-Shirt,1,645.58,0.1,581.02,131.1,Online,Consumer
+ORD-00305,2024-01-13,South,Chennai,Office Supplies,Backpack,3,1686.13,0.05,4805.47,1245.54,Marketplace,Consumer
+ORD-01305,2024-01-13,North,Lucknow,Office Supplies,Pen Set,2,161.51,0.15,274.57,102.2,Retail Store,Consumer
+ORD-00658,2024-01-14,North,Dehradun,Home,Office Chair,2,6938.74,0.0,13877.48,2609.26,Online,Consumer
+ORD-00698,2024-01-14,West,Ahmedabad,Clothing,Jeans,1,1967.66,0.15,1672.51,210.36,Online,Consumer
+ORD-00917,2024-01-14,South,Coimbatore,Electronics,Wireless Mouse,1,839.68,0.25,629.76,16.71,Online,Consumer
+ORD-01327,2024-01-14,West,Pune,Home,Office Chair,1,8391.3,0.15,7132.6,274.55,Retail Store,Small Business
+ORD-00588,2024-01-16,East,Guwahati,Home,Desk Lamp,5,1208.84,0.2,4835.36,817.35,Retail Store,Consumer
+ORD-00604,2024-01-16,East,Bhubaneswar,Books,Exam Guide,1,511.31,0.1,460.18,164.84,Retail Store,Small Business
+ORD-00862,2024-01-16,West,Ahmedabad,Books,Exam Guide,2,459.89,0.1,827.8,207.2,Online,Small Business
+ORD-01363,2024-01-16,South,Hyderabad,Clothing,T-Shirt,3,789.47,0.0,2368.41,729.97,Marketplace,Small Business
+ORD-00605,2024-01-17,North,Jaipur,Office Supplies,Whiteboard,3,2173.08,0.2,5215.39,886.93,Retail Store,Small Business
+ORD-00876,2024-01-17,East,Kolkata,Office Supplies,Backpack,5,1774.93,0.05,8430.92,2295.13,Online,Consumer
+ORD-00109,2024-01-18,South,Kochi,Electronics,Headphones,3,2287.09,0.0,6861.27,1661.11,Online,Small Business
+ORD-00242,2024-01-18,West,Mumbai,Books,Exam Guide,2,528.99,0.25,793.49,147.67,Online,Consumer
+ORD-00747,2024-01-18,East,Bhubaneswar,Home,Office Chair,2,7260.04,0.1,13068.07,1652.22,Online,Consumer
+ORD-01500,2024-01-18,South,Chennai,Books,Data Science Book,1,792.93,0.05,753.28,267.26,Online,Consumer
+ORD-00797,2024-01-19,West,Panaji,Electronics,Keyboard,2,1533.46,0.1,2760.23,420.55,Online,Small Business
+ORD-01060,2024-01-19,West,Surat,Books,Data Science Book,3,914.09,0.05,2605.16,791.1,Retail Store,Consumer
+ORD-00286,2024-01-20,South,Chennai,Home,Storage Box,1,583.91,0.05,554.71,145.11,Retail Store,Small Business
+ORD-01445,2024-01-20,North,Jaipur,Electronics,Wireless Mouse,4,768.49,0.2,2459.17,327.77,Retail Store,Consumer
+ORD-01515,2024-01-21,North,Lucknow,Office Supplies,Pen Set,1,184.43,0.0,184.43,68.84,Retail Store,Consumer
+ORD-01335,2024-01-22,North,Lucknow,Office Supplies,Pen Set,2,171.44,0.1,308.59,92.19,Marketplace,Small Business
+ORD-00258,2024-01-23,South,Chennai,Electronics,Monitor,1,13637.69,0.1,12273.92,1305.96,Online,Consumer
+ORD-00337,2024-01-23,West,Ahmedabad,Electronics,Keyboard,2,1602.5,0.05,3044.75,535.49,Online,Small Business
+ORD-00960,2024-01-23,West,Panaji,Clothing,Jeans,1,1662.6,0.15,1413.21,320.7,Retail Store,Small Business
+ORD-01331,2024-01-23,East,Ranchi,Books,Exam Guide,1,478.38,0.0,478.38,167.14,Retail Store,Consumer
+ORD-00482,2024-01-24,East,Kolkata,Electronics,Monitor,4,13725.57,0.2,43921.82,4388.25,Online,Consumer
+ORD-00836,2024-01-24,North,Jaipur,Clothing,T-Shirt,3,766.19,0.0,2298.57,813.27,Online,Consumer
+ORD-01044,2024-01-24,North,Dehradun,Books,Business Book,1,586.64,0.05,557.31,166.04,Marketplace,Enterprise
+ORD-01442,2024-01-24,West,Surat,Electronics,Monitor,1,11052.18,0.15,9394.35,6.64,Online,Consumer
+ORD-01075,2024-01-25,South,Hyderabad,Office Supplies,Pen Set,5,179.46,0.05,852.44,334.78,Retail Store,Enterprise
+ORD-01104,2024-01-25,South,Kochi,Office Supplies,Backpack,2,1676.55,0.1,3017.79,580.04,Marketplace,Consumer
+ORD-00120,2024-01-26,West,Pune,Clothing,Sneakers,2,3150.15,0.0,6300.3,1252.78,Online,Enterprise
+ORD-00803,2024-01-26,East,Guwahati,Office Supplies,Pen Set,4,172.8,0.15,587.52,142.5,Online,Small Business
+ORD-01099,2024-01-27,South,Chennai,Office Supplies,Whiteboard,1,2282.4,0.0,2282.4,491.93,Online,Enterprise
+ORD-01352,2024-01-27,South,Bengaluru,Office Supplies,Backpack,2,1815.4,0.1,3267.72,649.54,Online,Consumer
+ORD-00345,2024-01-28,West,Ahmedabad,Books,Business Book,2,601.5,0.0,1203.0,464.39,Online,Consumer
+ORD-00433,2024-01-28,West,Surat,Books,Data Science Book,1,979.07,0.2,783.26,135.33,Online,Consumer
+ORD-00555,2024-01-28,North,Dehradun,Electronics,Keyboard,2,1488.92,0.1,2680.06,600.64,Retail Store,Enterprise
+ORD-00040,2024-01-29,East,Bhubaneswar,Books,Business Book,5,655.87,0.0,3279.35,1131.98,Marketplace,Small Business
+ORD-00994,2024-01-29,West,Pune,Electronics,Keyboard,4,1412.62,0.05,5367.96,1157.89,Online,Small Business
+ORD-01036,2024-01-29,East,Patna,Clothing,Jeans,4,1878.31,0.15,6386.25,1192.11,Online,Small Business
+ORD-01258,2024-01-29,South,Hyderabad,Office Supplies,Pen Set,1,168.54,0.0,168.54,58.23,Marketplace,Small Business
+ORD-01392,2024-01-29,West,Mumbai,Office Supplies,Whiteboard,1,2203.08,0.0,2203.08,664.62,Marketplace,Small Business
+ORD-01551,2024-01-30,North,Lucknow,Electronics,Wireless Mouse,2,786.15,0.1,1415.07,225.81,Retail Store,Consumer
+ORD-00892,2024-01-31,North,Lucknow,Office Supplies,Backpack,2,1817.45,0.05,3453.15,1199.79,Marketplace,Consumer
+ORD-00989,2024-01-31,East,Guwahati,Home,Desk Lamp,5,1113.59,0.0,5567.95,1727.72,Retail Store,Consumer
+ORD-00680,2024-02-01,West,Surat,Home,Office Chair,1,7903.31,0.15,6717.81,1408.93,Retail Store,Consumer
+ORD-01120,2024-02-01,South,Hyderabad,Office Supplies,Pen Set,2,187.0,0.1,336.6,117.31,Retail Store,Consumer
+ORD-01396,2024-02-01,East,Bhubaneswar,Electronics,Monitor,2,12649.54,0.0,25299.08,3747.17,Online,Enterprise
+ORD-01069,2024-02-02,East,Bhubaneswar,Electronics,Wireless Mouse,2,880.35,0.0,1760.7,562.44,Retail Store,Consumer
+ORD-01351,2024-02-02,West,Panaji,Books,Data Science Book,1,950.95,0.1,855.86,231.16,Marketplace,Consumer
+ORD-01576,2024-02-02,West,Surat,Electronics,Headphones,1,2631.37,0.1,2368.23,588.43,Retail Store,Consumer
+ORD-00163,2024-02-03,East,Kolkata,Home,Desk Lamp,2,1265.8,0.2,2025.28,279.51,Retail Store,Consumer
+ORD-00652,2024-02-03,East,Patna,Office Supplies,Pen Set,4,179.57,0.1,646.45,187.67,Online,Consumer
+ORD-00671,2024-02-03,South,Bengaluru,Electronics,Headphones,2,2406.96,0.05,4573.22,1144.3,Retail Store,Consumer
+ORD-00927,2024-02-03,East,Ranchi,Electronics,Wireless Mouse,4,905.49,0.15,3078.67,290.84,Online,Enterprise
+ORD-00822,2024-02-04,North,Jaipur,Clothing,Jacket,2,2817.56,0.1,5071.61,1377.2,Online,Consumer
+ORD-01570,2024-02-04,North,Jaipur,Clothing,Jeans,4,1590.35,0.15,5407.19,1221.41,Retail Store,Small Business
+ORD-01129,2024-02-05,East,Guwahati,Books,Exam Guide,2,478.89,0.2,766.22,151.19,Retail Store,Consumer
+ORD-00138,2024-02-06,West,Pune,Clothing,Jacket,5,3283.53,0.0,16417.65,3515.33,Online,Consumer
+ORD-01147,2024-02-06,West,Mumbai,Books,Business Book,4,683.23,0.05,2596.27,780.0,Online,Enterprise
+ORD-00264,2024-02-07,North,Jaipur,Electronics,Wireless Mouse,1,879.14,0.1,791.23,158.96,Online,Consumer
+ORD-00417,2024-02-07,West,Surat,Electronics,Monitor,3,12971.71,0.05,36969.37,2630.87,Retail Store,Enterprise
+ORD-00920,2024-02-07,West,Mumbai,Clothing,Sneakers,1,3002.98,0.0,3002.98,744.38,Retail Store,Small Business
+ORD-01141,2024-02-07,South,Coimbatore,Home,Storage Box,1,591.94,0.0,591.94,82.65,Retail Store,Consumer
+ORD-01524,2024-02-07,West,Panaji,Books,Data Science Book,3,875.98,0.2,2102.35,440.48,Online,Enterprise
+ORD-00252,2024-02-10,South,Bengaluru,Office Supplies,Backpack,1,1744.78,0.1,1570.3,357.63,Online,Consumer
+ORD-00600,2024-02-10,South,Hyderabad,Clothing,Sneakers,1,2949.29,0.1,2654.36,614.78,Retail Store,Small Business
+ORD-00985,2024-02-10,West,Pune,Electronics,Wireless Mouse,3,834.96,0.05,2379.64,536.41,Online,Consumer
+ORD-00157,2024-02-11,East,Patna,Home,Desk Lamp,1,1294.91,0.0,1294.91,423.13,Retail Store,Small Business
+ORD-00581,2024-02-11,East,Ranchi,Clothing,T-Shirt,2,679.43,0.05,1290.92,416.36,Marketplace,Enterprise
+ORD-01502,2024-02-11,North,Lucknow,Office Supplies,Whiteboard,1,2270.11,0.0,2270.11,493.99,Retail Store,Enterprise
+ORD-00309,2024-02-12,West,Mumbai,Home,Office Chair,2,8495.07,0.05,16140.63,2855.14,Online,Consumer
+ORD-01318,2024-02-12,East,Bhubaneswar,Electronics,Monitor,2,12346.83,0.1,22224.29,3579.56,Marketplace,Consumer
+ORD-01188,2024-02-13,South,Coimbatore,Office Supplies,Notebook Pack,2,259.83,0.0,519.66,208.35,Retail Store,Consumer
+ORD-00301,2024-02-14,South,Chennai,Books,Business Book,2,540.96,0.1,973.73,293.27,Marketplace,Small Business
+ORD-00333,2024-02-14,East,Guwahati,Books,Design Handbook,3,1002.8,0.2,2406.72,423.74,Retail Store,Consumer
+ORD-00719,2024-02-14,South,Hyderabad,Books,Data Science Book,2,1013.15,0.05,1924.98,539.96,Marketplace,Consumer
+ORD-01284,2024-02-14,South,Chennai,Clothing,Jacket,3,2956.06,0.1,7981.36,856.5,Online,Small Business
+ORD-01537,2024-02-14,East,Ranchi,Books,Exam Guide,5,469.47,0.15,1995.25,392.07,Online,Consumer
+ORD-00598,2024-02-17,North,Dehradun,Clothing,T-Shirt,1,618.52,0.25,463.89,113.61,Online,Consumer
+ORD-00717,2024-02-18,South,Chennai,Clothing,Sneakers,3,2764.25,0.0,8292.75,1927.86,Retail Store,Consumer
+ORD-01444,2024-02-18,North,Dehradun,Electronics,Headphones,2,2299.83,0.15,3909.71,305.5,Online,Consumer
+ORD-01492,2024-02-18,West,Panaji,Office Supplies,Backpack,1,1476.42,0.1,1328.78,335.79,Marketplace,Consumer
+ORD-00361,2024-02-19,East,Guwahati,Office Supplies,Pen Set,1,194.28,0.1,174.85,62.97,Marketplace,Small Business
+ORD-01077,2024-02-19,South,Coimbatore,Clothing,Sneakers,2,2888.92,0.15,4911.16,720.89,Retail Store,Small Business
+ORD-01091,2024-02-19,East,Kolkata,Home,Water Bottle,4,418.75,0.0,1675.0,539.28,Retail Store,Consumer
+ORD-01194,2024-02-19,North,Chandigarh,Office Supplies,Backpack,2,1512.71,0.05,2874.15,776.46,Retail Store,Consumer
+ORD-01256,2024-02-19,South,Coimbatore,Office Supplies,Backpack,1,1560.98,0.05,1482.93,403.71,Online,Consumer
+ORD-01480,2024-02-20,West,Mumbai,Clothing,Jeans,4,1634.87,0.2,5231.58,1183.54,Online,Consumer
+ORD-01484,2024-02-20,West,Panaji,Electronics,Headphones,1,2318.6,0.2,1854.88,108.98,Online,Small Business
+ORD-00211,2024-02-21,South,Bengaluru,Books,Data Science Book,1,901.22,0.0,901.22,241.92,Online,Enterprise
+ORD-01199,2024-02-21,East,Bhubaneswar,Home,Storage Box,3,592.35,0.15,1510.49,190.8,Online,Small Business
+ORD-00077,2024-02-22,South,Coimbatore,Home,Storage Box,4,682.51,0.2,2184.03,236.26,Retail Store,Small Business
+ORD-00135,2024-02-22,South,Hyderabad,Clothing,Jacket,2,2861.25,0.1,5150.25,1065.89,Online,Small Business
+ORD-00332,2024-02-22,North,Jaipur,Electronics,Headphones,1,2606.45,0.2,2085.16,344.53,Retail Store,Consumer
+ORD-00452,2024-02-22,East,Patna,Office Supplies,Whiteboard,2,2064.3,0.15,3509.31,527.73,Marketplace,Small Business
+ORD-00616,2024-02-22,North,Chandigarh,Books,Exam Guide,1,456.11,0.0,456.11,164.89,Online,Consumer
+ORD-00788,2024-02-22,West,Mumbai,Home,Water Bottle,1,489.76,0.1,440.78,94.35,Retail Store,Small Business
+ORD-01580,2024-02-22,East,Kolkata,Office Supplies,Pen Set,4,164.79,0.2,527.33,159.89,Online,Consumer
+ORD-01031,2024-02-23,East,Guwahati,Clothing,T-Shirt,1,718.05,0.0,718.05,251.33,Retail Store,Consumer
+ORD-01393,2024-02-23,West,Panaji,Electronics,Keyboard,4,1445.72,0.2,4626.3,602.89,Marketplace,Consumer
+ORD-00336,2024-02-24,East,Patna,Clothing,Jeans,1,1718.17,0.15,1460.44,284.11,Retail Store,Small Business
+ORD-00414,2024-02-24,North,Delhi,Office Supplies,Backpack,2,1453.83,0.05,2762.28,541.87,Online,Consumer
+ORD-00732,2024-02-24,East,Ranchi,Electronics,Keyboard,4,1393.16,0.2,4458.11,574.13,Retail Store,Consumer
+ORD-01497,2024-02-25,East,Guwahati,Office Supplies,Whiteboard,1,2189.29,0.2,1751.43,269.62,Retail Store,Enterprise
+ORD-00380,2024-02-26,West,Ahmedabad,Books,Design Handbook,2,1023.48,0.1,1842.26,452.76,Online,Consumer
+ORD-00905,2024-02-26,South,Chennai,Office Supplies,Notebook Pack,3,235.96,0.05,672.49,181.85,Retail Store,Consumer
+ORD-00716,2024-02-27,East,Ranchi,Electronics,Monitor,2,14136.69,0.05,26859.71,3349.54,Online,Consumer
+ORD-01424,2024-02-27,South,Coimbatore,Home,Water Bottle,4,417.58,0.1,1503.29,394.75,Retail Store,Enterprise
+ORD-00559,2024-02-28,South,Chennai,Clothing,Sneakers,1,2540.88,0.15,2159.75,351.53,Online,Consumer
+ORD-01448,2024-02-28,East,Ranchi,Clothing,Jeans,1,1890.91,0.15,1607.27,341.08,Retail Store,Enterprise
+ORD-01337,2024-02-29,West,Pune,Electronics,Monitor,1,13530.5,0.2,10824.4,59.14,Online,Consumer
+ORD-00439,2024-03-01,East,Patna,Books,Exam Guide,1,448.23,0.0,448.23,149.89,Marketplace,Consumer
+ORD-00687,2024-03-01,West,Mumbai,Home,Desk Lamp,4,1338.73,0.1,4819.43,1320.89,Online,Enterprise
+ORD-01377,2024-03-01,North,Chandigarh,Books,Exam Guide,1,456.67,0.1,411.0,123.24,Retail Store,Consumer
+ORD-00121,2024-03-03,North,Delhi,Clothing,T-Shirt,1,725.13,0.0,725.13,218.71,Online,Enterprise
+ORD-00343,2024-03-03,East,Bhubaneswar,Office Supplies,Whiteboard,4,2017.66,0.0,8070.64,2259.64,Marketplace,Consumer
+ORD-00081,2024-03-04,South,Coimbatore,Books,Business Book,3,620.04,0.15,1581.1,508.2,Online,Small Business
+ORD-00420,2024-03-04,West,Pune,Office Supplies,Backpack,1,1470.1,0.15,1249.58,278.39,Online,Consumer
+ORD-00335,2024-03-05,East,Patna,Electronics,Headphones,1,2284.08,0.0,2284.08,592.39,Online,Consumer
+ORD-00782,2024-03-05,North,Delhi,Office Supplies,Whiteboard,2,2123.28,0.05,4034.23,1045.35,Retail Store,Consumer
+ORD-01232,2024-03-05,West,Mumbai,Clothing,Sneakers,2,2809.67,0.1,5057.41,939.66,Online,Consumer
+ORD-00048,2024-03-06,North,Lucknow,Home,Water Bottle,4,477.72,0.2,1528.7,293.95,Marketplace,Small Business
+ORD-00328,2024-03-06,North,Jaipur,Clothing,Jacket,1,3344.6,0.1,3010.14,625.32,Online,Small Business
+ORD-01058,2024-03-06,East,Bhubaneswar,Electronics,Headphones,3,2536.1,0.0,7608.3,1417.08,Retail Store,Small Business
+ORD-01498,2024-03-06,North,Jaipur,Clothing,Sneakers,1,3188.74,0.1,2869.87,252.0,Online,Consumer
+ORD-00928,2024-03-07,East,Guwahati,Office Supplies,Notebook Pack,1,250.19,0.0,250.19,90.86,Online,Enterprise
+ORD-00901,2024-03-08,East,Guwahati,Clothing,Jeans,5,1945.95,0.1,8756.77,1941.56,Retail Store,Consumer
+ORD-01328,2024-03-08,North,Lucknow,Clothing,Jacket,1,3001.93,0.05,2851.83,901.14,Online,Small Business
+ORD-01411,2024-03-08,South,Hyderabad,Office Supplies,Pen Set,4,163.67,0.1,589.21,217.94,Online,Consumer
+ORD-00214,2024-03-09,East,Kolkata,Office Supplies,Backpack,2,1662.68,0.0,3325.36,997.48,Online,Enterprise
+ORD-01094,2024-03-09,West,Mumbai,Home,Water Bottle,1,470.23,0.3,329.16,33.67,Online,Enterprise
+ORD-01100,2024-03-09,North,Lucknow,Electronics,Monitor,2,11315.54,0.15,19236.42,717.61,Retail Store,Small Business
+ORD-01266,2024-03-09,West,Ahmedabad,Office Supplies,Notebook Pack,1,274.17,0.15,233.04,55.76,Retail Store,Consumer
+ORD-01372,2024-03-09,East,Patna,Office Supplies,Notebook Pack,1,263.13,0.2,210.5,41.99,Online,Enterprise
+ORD-00472,2024-03-10,South,Bengaluru,Clothing,T-Shirt,1,734.67,0.05,697.94,236.08,Retail Store,Consumer
+ORD-00775,2024-03-10,South,Coimbatore,Electronics,Wireless Mouse,4,747.43,0.0,2989.72,699.87,Retail Store,Enterprise
+ORD-01471,2024-03-11,South,Coimbatore,Office Supplies,Whiteboard,2,1917.12,0.0,3834.24,1097.41,Retail Store,Consumer
+ORD-00084,2024-03-12,West,Surat,Electronics,Headphones,1,2487.91,0.2,1990.33,216.48,Online,Consumer
+ORD-00219,2024-03-12,East,Kolkata,Office Supplies,Backpack,2,1518.27,0.05,2884.71,856.67,Online,Enterprise
+ORD-00759,2024-03-12,West,Panaji,Electronics,Monitor,3,11961.73,0.1,32296.67,3562.41,Retail Store,Small Business
+ORD-00871,2024-03-12,South,Hyderabad,Books,Business Book,1,679.28,0.05,645.32,185.44,Retail Store,Small Business
+ORD-01114,2024-03-12,North,Dehradun,Office Supplies,Backpack,2,1511.92,0.05,2872.65,874.29,Retail Store,Small Business
+ORD-01527,2024-03-12,South,Coimbatore,Home,Water Bottle,4,452.04,0.2,1446.53,265.53,Marketplace,Consumer
+ORD-01563,2024-03-12,North,Chandigarh,Office Supplies,Backpack,3,1560.67,0.0,4682.01,1155.25,Retail Store,Consumer
+ORD-00143,2024-03-13,East,Patna,Office Supplies,Whiteboard,2,2071.59,0.1,3728.86,500.88,Online,Small Business
+ORD-01353,2024-03-13,South,Bengaluru,Home,Desk Lamp,2,1158.74,0.1,2085.73,402.07,Retail Store,Consumer
+ORD-00870,2024-03-14,East,Patna,Electronics,Wireless Mouse,1,848.64,0.15,721.34,117.63,Retail Store,Consumer
+ORD-00983,2024-03-14,South,Chennai,Books,Design Handbook,1,1050.01,0.0,1050.01,360.17,Retail Store,Consumer
+ORD-01435,2024-03-14,West,Pune,Electronics,Keyboard,3,1421.2,0.1,3837.24,627.76,Online,Consumer
+ORD-01261,2024-03-15,East,Ranchi,Electronics,Wireless Mouse,1,828.56,0.0,828.56,214.06,Retail Store,Consumer
+ORD-00297,2024-03-16,West,Panaji,Office Supplies,Notebook Pack,1,237.63,0.05,225.75,79.24,Online,Consumer
+ORD-00607,2024-03-16,South,Bengaluru,Office Supplies,Pen Set,2,184.83,0.0,369.66,148.95,Online,Consumer
+ORD-00672,2024-03-16,North,Dehradun,Clothing,T-Shirt,1,714.0,0.2,571.2,88.11,Retail Store,Consumer
+ORD-00907,2024-03-16,South,Kochi,Clothing,Jacket,5,3387.86,0.05,16092.33,3312.0,Online,Enterprise
+ORD-00583,2024-03-17,West,Surat,Electronics,Wireless Mouse,2,809.03,0.15,1375.35,243.7,Online,Small Business
+ORD-00653,2024-03-17,West,Ahmedabad,Books,Data Science Book,1,936.61,0.05,889.78,229.4,Online,Small Business
+ORD-01220,2024-03-17,East,Ranchi,Electronics,Wireless Mouse,2,773.33,0.15,1314.66,159.94,Retail Store,Enterprise
+ORD-00153,2024-03-18,West,Pune,Electronics,Keyboard,5,1656.84,0.2,6627.36,743.18,Online,Consumer
+ORD-00487,2024-03-18,East,Ranchi,Clothing,T-Shirt,4,644.12,0.05,2447.66,738.18,Retail Store,Small Business
+ORD-01579,2024-03-18,South,Bengaluru,Office Supplies,Whiteboard,2,2051.31,0.05,3897.49,809.26,Online,Consumer
+ORD-00291,2024-03-19,North,Dehradun,Office Supplies,Backpack,3,1675.8,0.2,4021.92,573.76,Retail Store,Consumer
+ORD-00527,2024-03-20,West,Surat,Office Supplies,Backpack,2,1769.59,0.0,3539.18,1251.04,Retail Store,Consumer
+ORD-00844,2024-03-20,West,Ahmedabad,Home,Office Chair,2,7970.03,0.15,13549.05,2227.77,Marketplace,Small Business
+ORD-01038,2024-03-20,West,Ahmedabad,Home,Storage Box,1,667.49,0.0,667.49,148.43,Online,Small Business
+ORD-00391,2024-03-22,East,Ranchi,Clothing,Jeans,1,1990.57,0.0,1990.57,696.28,Online,Consumer
+ORD-00591,2024-03-22,East,Kolkata,Office Supplies,Backpack,3,1441.18,0.1,3891.19,1262.94,Online,Consumer
+ORD-01021,2024-03-22,South,Hyderabad,Office Supplies,Backpack,5,1697.94,0.2,6791.76,1102.92,Retail Store,Consumer
+ORD-01529,2024-03-22,South,Coimbatore,Electronics,Monitor,4,12482.11,0.1,44935.6,7487.29,Online,Consumer
+ORD-01569,2024-03-23,South,Hyderabad,Clothing,T-Shirt,1,631.76,0.1,568.58,160.76,Marketplace,Consumer
+ORD-01234,2024-03-24,West,Surat,Books,Design Handbook,3,1044.84,0.0,3134.52,1162.99,Marketplace,Consumer
+ORD-00810,2024-03-25,North,Lucknow,Office Supplies,Whiteboard,1,2332.64,0.05,2216.01,627.04,Marketplace,Consumer
+ORD-01182,2024-03-25,North,Dehradun,Electronics,Monitor,1,13762.56,0.1,12386.3,2099.04,Retail Store,Small Business
+ORD-01259,2024-03-26,South,Hyderabad,Clothing,Jeans,2,1602.2,0.15,2723.74,461.89,Online,Consumer
+ORD-00105,2024-03-27,South,Coimbatore,Books,Data Science Book,1,825.53,0.2,660.42,141.13,Retail Store,Consumer
+ORD-00170,2024-03-27,South,Chennai,Office Supplies,Whiteboard,1,1877.12,0.05,1783.26,578.98,Retail Store,Consumer
+ORD-01202,2024-03-27,East,Bhubaneswar,Clothing,Jeans,1,1596.0,0.05,1516.2,394.47,Online,Small Business
+ORD-00330,2024-03-28,East,Kolkata,Home,Storage Box,2,717.31,0.05,1362.89,395.5,Retail Store,Small Business
+ORD-00451,2024-03-28,East,Ranchi,Electronics,Monitor,2,11430.47,0.15,19431.8,-393.32,Marketplace,Small Business
+ORD-01211,2024-03-29,West,Ahmedabad,Books,Design Handbook,5,1043.94,0.0,5219.7,1376.06,Retail Store,Consumer
+ORD-00149,2024-03-30,North,Dehradun,Clothing,Sneakers,1,2843.18,0.15,2416.7,517.48,Retail Store,Consumer
+ORD-00299,2024-03-30,West,Pune,Books,Business Book,5,576.36,0.0,2881.8,797.18,Marketplace,Small Business
+ORD-01085,2024-03-30,East,Ranchi,Office Supplies,Notebook Pack,1,231.34,0.1,208.21,74.39,Retail Store,Enterprise
+ORD-01313,2024-03-30,South,Coimbatore,Clothing,Sneakers,5,2921.4,0.05,13876.65,2035.23,Marketplace,Small Business
+ORD-01455,2024-03-30,North,Delhi,Home,Water Bottle,3,482.17,0.15,1229.53,326.43,Marketplace,Consumer
+ORD-00773,2024-03-31,North,Delhi,Clothing,Sneakers,2,3084.21,0.0,6168.42,1073.63,Online,Small Business
+ORD-00998,2024-03-31,East,Bhubaneswar,Electronics,Monitor,3,13892.93,0.1,37510.91,3978.79,Online,Consumer
+ORD-01598,2024-03-31,South,Kochi,Electronics,Wireless Mouse,1,847.44,0.05,805.07,197.68,Retail Store,Consumer
+ORD-00621,2024-04-02,West,Pune,Books,Business Book,2,575.36,0.0,1150.72,394.7,Retail Store,Consumer
+ORD-01332,2024-04-02,North,Lucknow,Clothing,Jeans,1,2000.19,0.15,1700.16,182.13,Online,Consumer
+ORD-00148,2024-04-03,West,Panaji,Clothing,Sneakers,1,3183.22,0.15,2705.74,515.87,Marketplace,Small Business
+ORD-00313,2024-04-03,West,Ahmedabad,Home,Desk Lamp,2,1185.52,0.1,2133.94,626.05,Marketplace,Enterprise
+ORD-00574,2024-04-03,West,Ahmedabad,Books,Business Book,2,659.13,0.15,1120.52,277.61,Marketplace,Consumer
+ORD-00945,2024-04-04,North,Delhi,Clothing,Sneakers,2,2990.39,0.0,5980.78,995.26,Retail Store,Consumer
+ORD-00087,2024-04-05,South,Kochi,Books,Design Handbook,4,1191.89,0.15,4052.43,518.87,Online,Consumer
+ORD-00745,2024-04-05,East,Bhubaneswar,Clothing,T-Shirt,1,743.83,0.15,632.26,122.41,Online,Small Business
+ORD-00918,2024-04-05,North,Dehradun,Electronics,Monitor,1,12512.54,0.0,12512.54,1246.25,Retail Store,Consumer
+ORD-01004,2024-04-05,South,Coimbatore,Electronics,Monitor,2,11436.57,0.15,19442.17,2388.96,Online,Consumer
+ORD-00338,2024-04-06,South,Bengaluru,Books,Data Science Book,1,916.37,0.2,733.1,156.97,Retail Store,Small Business
+ORD-00327,2024-04-07,South,Kochi,Office Supplies,Backpack,1,1520.92,0.2,1216.74,184.17,Retail Store,Consumer
+ORD-00821,2024-04-07,East,Bhubaneswar,Electronics,Monitor,1,11073.38,0.1,9966.04,1103.55,Marketplace,Consumer
+ORD-01103,2024-04-07,North,Jaipur,Books,Data Science Book,4,887.4,0.15,3017.16,623.51,Marketplace,Consumer
+ORD-01457,2024-04-07,West,Surat,Electronics,Headphones,1,2532.5,0.05,2405.88,559.73,Online,Consumer
+ORD-01558,2024-04-07,West,Pune,Clothing,Jeans,2,1857.71,0.05,3529.65,1011.22,Marketplace,Small Business
+ORD-00069,2024-04-08,North,Dehradun,Electronics,Headphones,2,2264.33,0.0,4528.66,1456.33,Online,Small Business
+ORD-00108,2024-04-08,East,Patna,Home,Storage Box,1,631.44,0.0,631.44,207.08,Online,Consumer
+ORD-00406,2024-04-08,South,Chennai,Office Supplies,Pen Set,2,202.0,0.0,404.0,171.76,Retail Store,Small Business
+ORD-01274,2024-04-09,North,Jaipur,Clothing,T-Shirt,4,662.75,0.2,2120.8,285.05,Retail Store,Consumer
+ORD-01468,2024-04-11,South,Coimbatore,Electronics,Keyboard,1,1481.28,0.0,1481.28,331.6,Marketplace,Consumer
+ORD-00004,2024-04-12,East,Patna,Books,Data Science Book,1,808.06,0.15,686.85,127.78,Marketplace,Small Business
+ORD-00049,2024-04-12,East,Kolkata,Books,Design Handbook,1,1238.21,0.0,1238.21,383.21,Online,Small Business
+ORD-00689,2024-04-12,West,Panaji,Books,Design Handbook,1,1194.13,0.0,1194.13,317.18,Marketplace,Consumer
+ORD-00793,2024-04-12,West,Ahmedabad,Home,Storage Box,1,592.22,0.2,473.78,60.92,Retail Store,Consumer
+ORD-00826,2024-04-12,East,Guwahati,Electronics,Wireless Mouse,3,727.93,0.0,2183.79,515.49,Retail Store,Small Business
+ORD-00314,2024-04-13,North,Jaipur,Home,Desk Lamp,2,1214.29,0.2,1942.86,224.54,Retail Store,Small Business
+ORD-00635,2024-04-13,North,Lucknow,Electronics,Wireless Mouse,1,906.4,0.0,906.4,181.21,Online,Consumer
+ORD-00816,2024-04-13,South,Chennai,Office Supplies,Whiteboard,1,1909.25,0.25,1431.94,84.05,Online,Consumer
+ORD-01168,2024-04-13,East,Patna,Clothing,Jeans,2,1775.01,0.05,3372.52,1030.46,Online,Consumer
+ORD-00471,2024-04-15,North,Dehradun,Home,Office Chair,3,7163.59,0.1,19341.69,2282.79,Retail Store,Consumer
+ORD-00861,2024-04-15,East,Kolkata,Books,Data Science Book,1,953.56,0.2,762.85,140.09,Online,Enterprise
+ORD-00898,2024-04-17,South,Chennai,Electronics,Keyboard,2,1676.63,0.1,3017.93,675.53,Marketplace,Consumer
+ORD-01431,2024-04-18,South,Chennai,Office Supplies,Backpack,5,1603.56,0.2,6414.24,883.63,Online,Consumer
+ORD-00630,2024-04-19,West,Surat,Office Supplies,Pen Set,1,165.71,0.15,140.85,43.38,Online,Small Business
+ORD-01520,2024-04-19,South,Hyderabad,Electronics,Monitor,1,11367.93,0.1,10231.14,41.48,Retail Store,Consumer
+ORD-01552,2024-04-19,East,Patna,Clothing,Jeans,2,1743.11,0.0,3486.22,1078.08,Retail Store,Consumer
+ORD-00780,2024-04-20,East,Guwahati,Office Supplies,Whiteboard,5,2247.24,0.0,11236.2,3167.3,Marketplace,Consumer
+ORD-00913,2024-04-20,South,Coimbatore,Office Supplies,Pen Set,3,200.87,0.2,482.09,163.58,Online,Small Business
+ORD-01011,2024-04-20,West,Mumbai,Books,Business Book,5,641.12,0.05,3045.32,965.41,Online,Consumer
+ORD-01148,2024-04-20,West,Pune,Office Supplies,Whiteboard,2,2310.87,0.1,4159.57,422.87,Online,Small Business
+ORD-01566,2024-04-20,South,Hyderabad,Clothing,Jacket,4,3179.7,0.05,12082.86,2074.28,Online,Small Business
+ORD-00501,2024-04-21,North,Delhi,Books,Data Science Book,4,899.69,0.1,3238.88,635.93,Retail Store,Enterprise
+ORD-00818,2024-04-21,East,Kolkata,Clothing,Jacket,2,3406.88,0.15,5791.7,916.4,Retail Store,Small Business
+ORD-00368,2024-04-22,East,Patna,Books,Exam Guide,1,483.14,0.0,483.14,141.45,Retail Store,Small Business
+ORD-00486,2024-04-22,East,Kolkata,Home,Office Chair,2,6920.1,0.0,13840.2,3264.16,Marketplace,Consumer
+ORD-00728,2024-04-22,South,Hyderabad,Electronics,Wireless Mouse,1,729.73,0.1,656.76,115.58,Online,Enterprise
+ORD-00403,2024-04-23,East,Bhubaneswar,Books,Exam Guide,2,525.54,0.1,945.97,237.43,Online,Consumer
+ORD-00608,2024-04-23,East,Kolkata,Electronics,Headphones,3,2705.56,0.05,7710.85,2080.19,Online,Small Business
+ORD-01357,2024-04-23,South,Kochi,Clothing,Sneakers,1,3042.27,0.0,3042.27,780.42,Retail Store,Consumer
+ORD-01463,2024-04-23,South,Kochi,Electronics,Keyboard,3,1426.49,0.15,3637.55,203.68,Online,Small Business
+ORD-00053,2024-04-24,South,Kochi,Books,Exam Guide,3,515.36,0.2,1236.86,233.58,Marketplace,Small Business
+ORD-00203,2024-04-24,East,Kolkata,Clothing,Jeans,1,1971.81,0.1,1774.63,406.01,Retail Store,Consumer
+ORD-00507,2024-04-24,South,Kochi,Home,Water Bottle,3,440.69,0.15,1123.76,258.42,Online,Consumer
+ORD-01218,2024-04-24,North,Lucknow,Clothing,Jeans,1,1927.19,0.1,1734.47,469.94,Online,Small Business
+ORD-00151,2024-04-26,South,Hyderabad,Office Supplies,Whiteboard,2,2282.25,0.15,3879.82,788.69,Online,Consumer
+ORD-00127,2024-04-27,West,Pune,Home,Storage Box,1,627.59,0.0,627.59,116.14,Online,Consumer
+ORD-00165,2024-04-27,East,Guwahati,Clothing,Jeans,2,1965.81,0.0,3931.62,1072.6,Online,Small Business
+ORD-00122,2024-04-28,East,Kolkata,Clothing,Sneakers,2,2510.57,0.05,4770.08,718.75,Retail Store,Consumer
+ORD-00685,2024-04-28,South,Kochi,Clothing,Jacket,4,3000.01,0.05,11400.04,2868.86,Retail Store,Consumer
+ORD-00943,2024-04-29,East,Kolkata,Electronics,Monitor,1,12918.75,0.2,10335.0,-474.86,Marketplace,Consumer
+ORD-01020,2024-04-29,West,Ahmedabad,Clothing,Sneakers,3,2986.77,0.0,8960.31,2681.28,Retail Store,Consumer
+ORD-00071,2024-04-30,North,Chandigarh,Electronics,Keyboard,1,1400.98,0.1,1260.88,269.6,Retail Store,Small Business
+ORD-01383,2024-04-30,East,Ranchi,Clothing,T-Shirt,4,736.67,0.15,2504.68,655.95,Online,Consumer
+ORD-01167,2024-05-01,North,Jaipur,Office Supplies,Whiteboard,1,2320.07,0.1,2088.06,424.78,Online,Enterprise
+ORD-01179,2024-05-01,South,Kochi,Electronics,Keyboard,1,1399.47,0.25,1049.6,6.84,Online,Consumer
+ORD-00359,2024-05-02,East,Patna,Clothing,Jacket,4,2834.97,0.05,10772.89,1567.25,Retail Store,Consumer
+ORD-00490,2024-05-02,North,Lucknow,Clothing,Sneakers,1,2533.71,0.0,2533.71,683.71,Retail Store,Consumer
+ORD-00317,2024-05-03,East,Kolkata,Home,Water Bottle,2,433.31,0.2,693.3,37.97,Marketplace,Consumer
+ORD-00324,2024-05-03,West,Ahmedabad,Clothing,Jeans,1,1657.01,0.0,1657.01,509.88,Online,Consumer
+ORD-00362,2024-05-04,North,Lucknow,Electronics,Headphones,1,2456.79,0.1,2211.11,432.4,Online,Consumer
+ORD-01083,2024-05-04,West,Mumbai,Office Supplies,Notebook Pack,2,233.93,0.2,374.29,62.3,Retail Store,Small Business
+ORD-01172,2024-05-04,East,Kolkata,Books,Data Science Book,1,878.93,0.15,747.09,156.26,Retail Store,Consumer
+ORD-01482,2024-05-04,South,Kochi,Electronics,Wireless Mouse,1,728.64,0.25,546.48,35.93,Marketplace,Small Business
+ORD-00057,2024-05-06,South,Kochi,Clothing,Jacket,5,3203.06,0.15,13613.0,1675.89,Marketplace,Small Business
+ORD-00089,2024-05-07,West,Pune,Electronics,Keyboard,2,1605.33,0.0,3210.66,824.74,Online,Enterprise
+ORD-00561,2024-05-07,West,Pune,Electronics,Keyboard,3,1635.31,0.05,4660.63,920.13,Online,Consumer
+ORD-00750,2024-05-07,West,Panaji,Office Supplies,Pen Set,3,197.72,0.05,563.5,219.25,Online,Consumer
+ORD-01434,2024-05-07,West,Panaji,Electronics,Keyboard,1,1515.06,0.05,1439.31,354.43,Online,Consumer
+ORD-00587,2024-05-09,West,Ahmedabad,Electronics,Headphones,1,2231.97,0.1,2008.77,380.31,Online,Consumer
+ORD-00592,2024-05-09,West,Mumbai,Clothing,Jeans,5,1915.92,0.05,9100.62,2316.53,Marketplace,Consumer
+ORD-00688,2024-05-09,North,Delhi,Office Supplies,Backpack,1,1816.17,0.0,1816.17,517.85,Online,Consumer
+ORD-01573,2024-05-09,North,Chandigarh,Clothing,Jeans,1,1967.59,0.0,1967.59,720.43,Online,Consumer
+ORD-00624,2024-05-10,North,Lucknow,Clothing,Jeans,2,1900.44,0.15,3230.75,589.7,Marketplace,Consumer
+ORD-00679,2024-05-10,North,Delhi,Electronics,Monitor,3,13019.93,0.2,31247.83,2792.21,Marketplace,Consumer
+ORD-01026,2024-05-10,South,Coimbatore,Home,Storage Box,1,593.41,0.0,593.41,173.72,Online,Consumer
+ORD-00468,2024-05-12,North,Delhi,Office Supplies,Pen Set,3,172.11,0.2,413.06,93.64,Retail Store,Small Business
+ORD-00968,2024-05-12,West,Panaji,Electronics,Keyboard,1,1374.95,0.05,1306.2,245.85,Marketplace,Small Business
+ORD-01191,2024-05-12,South,Hyderabad,Clothing,Sneakers,3,2686.86,0.2,6448.46,585.55,Online,Consumer
+ORD-01428,2024-05-12,West,Pune,Electronics,Wireless Mouse,1,857.39,0.05,814.52,158.48,Retail Store,Small Business
+ORD-00735,2024-05-14,East,Patna,Electronics,Wireless Mouse,1,704.99,0.1,634.49,120.73,Online,Consumer
+ORD-00090,2024-05-15,South,Hyderabad,Clothing,T-Shirt,3,781.04,0.2,1874.5,335.89,Retail Store,Consumer
+ORD-01131,2024-05-15,South,Kochi,Office Supplies,Backpack,3,1655.92,0.15,4222.6,845.03,Marketplace,Enterprise
+ORD-01208,2024-05-15,East,Kolkata,Clothing,Sneakers,1,2483.47,0.0,2483.47,573.11,Retail Store,Small Business
+ORD-00159,2024-05-16,West,Pune,Books,Data Science Book,3,1025.46,0.0,3076.38,1064.59,Online,Consumer
+ORD-00329,2024-05-16,North,Dehradun,Clothing,T-Shirt,2,739.84,0.0,1479.68,529.82,Retail Store,Consumer
+ORD-00819,2024-05-16,North,Delhi,Clothing,Sneakers,1,2641.51,0.05,2509.43,711.22,Marketplace,Consumer
+ORD-00956,2024-05-16,South,Kochi,Office Supplies,Whiteboard,2,2243.52,0.0,4487.04,1201.98,Retail Store,Small Business
+ORD-00194,2024-05-17,East,Kolkata,Office Supplies,Backpack,3,1441.88,0.15,3676.79,430.27,Online,Small Business
+ORD-00576,2024-05-17,West,Mumbai,Clothing,Jeans,2,1983.71,0.1,3570.68,934.08,Marketplace,Enterprise
+ORD-01291,2024-05-17,West,Ahmedabad,Clothing,Sneakers,1,2713.55,0.0,2713.55,616.35,Retail Store,Consumer
+ORD-01364,2024-05-17,West,Panaji,Electronics,Headphones,1,2546.96,0.0,2546.96,759.48,Online,Consumer
+ORD-00056,2024-05-18,East,Bhubaneswar,Books,Data Science Book,2,893.7,0.1,1608.66,456.45,Online,Small Business
+ORD-00809,2024-05-18,East,Bhubaneswar,Clothing,Jacket,2,3599.71,0.2,5759.54,821.32,Retail Store,Small Business
+ORD-00903,2024-05-18,North,Jaipur,Electronics,Keyboard,2,1420.81,0.1,2557.46,122.93,Online,Consumer
+ORD-01248,2024-05-18,South,Hyderabad,Electronics,Keyboard,1,1574.39,0.1,1416.95,255.79,Retail Store,Small Business
+ORD-01596,2024-05-18,North,Lucknow,Books,Data Science Book,3,992.72,0.1,2680.34,933.91,Online,Consumer
+ORD-00713,2024-05-19,North,Jaipur,Office Supplies,Pen Set,1,171.56,0.05,162.98,58.33,Marketplace,Small Business
+ORD-00095,2024-05-20,East,Guwahati,Home,Desk Lamp,1,1260.81,0.15,1071.69,261.69,Online,Consumer
+ORD-01048,2024-05-21,South,Coimbatore,Books,Design Handbook,1,1110.72,0.2,888.58,132.86,Marketplace,Small Business
+ORD-01381,2024-05-21,South,Bengaluru,Clothing,Sneakers,2,2923.9,0.0,5847.8,1690.44,Online,Small Business
+ORD-00058,2024-05-22,West,Surat,Clothing,Sneakers,1,3065.63,0.1,2759.07,526.85,Online,Small Business
+ORD-00493,2024-05-22,East,Ranchi,Books,Business Book,1,548.16,0.25,411.12,106.21,Marketplace,Consumer
+ORD-00637,2024-05-23,South,Coimbatore,Books,Business Book,2,614.4,0.05,1167.36,454.11,Retail Store,Enterprise
+ORD-00709,2024-05-23,South,Bengaluru,Clothing,Jeans,2,1696.75,0.05,3223.82,921.85,Online,Small Business
+ORD-01292,2024-05-23,East,Kolkata,Books,Exam Guide,4,478.96,0.2,1532.67,261.59,Marketplace,Small Business
+ORD-01456,2024-05-24,South,Coimbatore,Electronics,Headphones,1,2217.65,0.0,2217.65,565.46,Online,Enterprise
+ORD-01591,2024-05-24,West,Panaji,Electronics,Headphones,1,2418.4,0.2,1934.72,122.36,Retail Store,Small Business
+ORD-00088,2024-05-26,South,Coimbatore,Clothing,Jeans,1,1863.76,0.05,1770.57,533.53,Online,Small Business
+ORD-00765,2024-05-26,North,Chandigarh,Office Supplies,Notebook Pack,2,283.29,0.1,509.92,202.61,Marketplace,Consumer
+ORD-00959,2024-05-26,West,Mumbai,Clothing,T-Shirt,4,658.66,0.1,2371.18,549.39,Retail Store,Consumer
+ORD-00964,2024-05-26,South,Bengaluru,Electronics,Headphones,2,2213.74,0.2,3541.98,233.58,Marketplace,Consumer
+ORD-01378,2024-05-26,West,Ahmedabad,Office Supplies,Pen Set,1,190.95,0.05,181.4,61.61,Retail Store,Consumer
+ORD-00304,2024-05-27,East,Patna,Clothing,Sneakers,5,2793.84,0.05,13270.74,3311.08,Online,Consumer
+ORD-00694,2024-05-27,West,Mumbai,Home,Water Bottle,2,433.43,0.2,693.49,49.67,Retail Store,Consumer
+ORD-01062,2024-05-27,North,Lucknow,Clothing,T-Shirt,2,719.34,0.1,1294.81,368.59,Marketplace,Consumer
+ORD-00632,2024-05-28,West,Panaji,Office Supplies,Backpack,3,1744.43,0.1,4709.96,1430.02,Marketplace,Enterprise
+ORD-00536,2024-05-29,North,Dehradun,Electronics,Wireless Mouse,2,795.86,0.05,1512.13,168.18,Online,Consumer
+ORD-01370,2024-05-29,North,Delhi,Home,Desk Lamp,1,1260.82,0.0,1260.82,383.54,Retail Store,Consumer
+ORD-00383,2024-05-30,South,Kochi,Books,Exam Guide,3,568.2,0.05,1619.37,485.98,Marketplace,Consumer
+ORD-00859,2024-05-30,West,Mumbai,Home,Water Bottle,1,495.83,0.05,471.04,99.95,Online,Consumer
+ORD-00233,2024-05-31,West,Surat,Office Supplies,Whiteboard,1,2087.16,0.1,1878.44,389.04,Online,Consumer
+ORD-00919,2024-05-31,North,Jaipur,Home,Water Bottle,1,462.85,0.05,439.71,133.28,Retail Store,Small Business
+ORD-00041,2024-06-01,North,Lucknow,Clothing,Sneakers,2,2980.56,0.2,4768.9,739.74,Online,Consumer
+ORD-00042,2024-06-01,South,Kochi,Office Supplies,Whiteboard,1,1983.0,0.2,1586.4,23.16,Retail Store,Consumer
+ORD-01454,2024-06-01,West,Surat,Office Supplies,Notebook Pack,1,275.11,0.0,275.11,116.12,Online,Consumer
+ORD-00827,2024-06-02,South,Hyderabad,Clothing,Sneakers,3,2606.78,0.1,7038.31,1104.88,Marketplace,Consumer
+ORD-01473,2024-06-02,West,Panaji,Electronics,Monitor,4,12698.56,0.0,50794.24,12737.83,Online,Small Business
+ORD-00097,2024-06-03,South,Chennai,Home,Desk Lamp,1,1270.94,0.0,1270.94,316.18,Retail Store,Enterprise
+ORD-00128,2024-06-03,West,Ahmedabad,Electronics,Keyboard,2,1444.05,0.15,2454.88,182.1,Retail Store,Consumer
+ORD-00326,2024-06-03,North,Lucknow,Books,Design Handbook,3,992.81,0.0,2978.43,1014.13,Marketplace,Small Business
+ORD-01405,2024-06-03,South,Bengaluru,Electronics,Monitor,1,11485.41,0.1,10336.87,816.66,Retail Store,Consumer
+ORD-01555,2024-06-03,South,Bengaluru,Home,Storage Box,4,626.19,0.2,2003.81,250.33,Marketplace,Consumer
+ORD-00032,2024-06-04,South,Kochi,Office Supplies,Pen Set,2,180.13,0.1,324.23,123.85,Retail Store,Consumer
+ORD-00988,2024-06-05,North,Delhi,Electronics,Headphones,1,2642.12,0.15,2245.8,314.11,Retail Store,Consumer
+ORD-01387,2024-06-05,West,Surat,Books,Exam Guide,2,493.49,0.1,888.28,202.49,Marketplace,Consumer
+ORD-00276,2024-06-06,East,Bhubaneswar,Home,Water Bottle,2,472.58,0.1,850.64,164.91,Online,Small Business
+ORD-00483,2024-06-06,East,Ranchi,Clothing,Jacket,1,2919.54,0.1,2627.59,456.4,Online,Small Business
+ORD-00760,2024-06-06,West,Surat,Clothing,Sneakers,1,2706.69,0.1,2436.02,363.32,Marketplace,Consumer
+ORD-00386,2024-06-07,South,Kochi,Office Supplies,Notebook Pack,2,220.8,0.05,419.52,142.55,Retail Store,Consumer
+ORD-00470,2024-06-07,South,Coimbatore,Clothing,T-Shirt,1,664.69,0.05,631.46,203.17,Online,Consumer
+ORD-01356,2024-06-07,South,Kochi,Electronics,Monitor,1,13941.6,0.1,12547.44,776.2,Retail Store,Small Business
+ORD-00244,2024-06-09,West,Pune,Clothing,Jeans,1,1615.43,0.15,1373.12,290.06,Retail Store,Small Business
+ORD-00752,2024-06-09,North,Dehradun,Home,Water Bottle,4,431.64,0.1,1553.9,294.8,Retail Store,Small Business
+ORD-00669,2024-06-10,East,Guwahati,Home,Water Bottle,3,411.7,0.15,1049.83,222.66,Retail Store,Consumer
+ORD-00213,2024-06-11,West,Pune,Electronics,Headphones,1,2643.57,0.05,2511.39,832.55,Retail Store,Consumer
+ORD-00422,2024-06-11,South,Kochi,Electronics,Monitor,1,12059.47,0.2,9647.58,266.44,Retail Store,Small Business
+ORD-00271,2024-06-12,North,Lucknow,Electronics,Headphones,2,2296.95,0.0,4593.9,1017.67,Marketplace,Consumer
+ORD-00514,2024-06-12,South,Chennai,Home,Desk Lamp,1,1197.43,0.15,1017.82,257.35,Online,Small Business
+ORD-00682,2024-06-12,South,Coimbatore,Electronics,Wireless Mouse,3,727.07,0.0,2181.21,649.79,Online,Consumer
+ORD-00114,2024-06-13,East,Bhubaneswar,Clothing,Sneakers,1,3049.31,0.0,3049.31,526.27,Retail Store,Consumer
+ORD-00541,2024-06-13,East,Kolkata,Office Supplies,Pen Set,1,198.94,0.2,159.15,37.31,Retail Store,Enterprise
+ORD-00650,2024-06-13,South,Kochi,Electronics,Monitor,1,12197.25,0.0,12197.25,2297.64,Retail Store,Consumer
+ORD-00955,2024-06-14,South,Coimbatore,Office Supplies,Backpack,3,1751.09,0.0,5253.27,1362.27,Online,Consumer
+ORD-01009,2024-06-14,West,Surat,Books,Business Book,1,597.69,0.05,567.81,151.95,Online,Consumer
+ORD-01061,2024-06-14,South,Hyderabad,Office Supplies,Whiteboard,3,2194.92,0.05,6255.52,2066.31,Retail Store,Consumer
+ORD-01173,2024-06-14,South,Coimbatore,Home,Desk Lamp,1,1266.32,0.15,1076.37,295.91,Online,Enterprise
+ORD-00136,2024-06-15,West,Surat,Electronics,Wireless Mouse,3,883.04,0.2,2119.3,50.71,Online,Consumer
+ORD-00582,2024-06-15,North,Chandigarh,Clothing,Jeans,2,1840.44,0.05,3496.84,559.51,Online,Consumer
+ORD-00611,2024-06-16,East,Ranchi,Clothing,Sneakers,2,2999.04,0.2,4798.46,490.83,Marketplace,Small Business
+ORD-00284,2024-06-17,West,Panaji,Home,Water Bottle,2,406.54,0.1,731.77,196.7,Retail Store,Consumer
+ORD-00502,2024-06-17,North,Chandigarh,Office Supplies,Backpack,1,1585.03,0.1,1426.53,165.33,Online,Consumer
+ORD-00711,2024-06-19,East,Guwahati,Office Supplies,Notebook Pack,2,238.71,0.15,405.81,97.42,Retail Store,Consumer
+ORD-00010,2024-06-20,West,Ahmedabad,Clothing,Sneakers,2,3093.07,0.1,5567.53,452.34,Online,Consumer
+ORD-01506,2024-06-20,West,Pune,Clothing,Jacket,2,3488.18,0.2,5581.09,550.58,Retail Store,Enterprise
+ORD-00055,2024-06-21,West,Ahmedabad,Books,Exam Guide,3,445.85,0.0,1337.55,499.9,Online,Consumer
+ORD-00235,2024-06-21,West,Surat,Office Supplies,Pen Set,2,177.31,0.0,354.62,139.29,Online,Enterprise
+ORD-00093,2024-06-22,West,Panaji,Clothing,T-Shirt,1,662.9,0.05,629.75,181.36,Online,Consumer
+ORD-00428,2024-06-22,West,Pune,Office Supplies,Backpack,2,1436.6,0.1,2585.88,441.24,Marketplace,Small Business
+ORD-01564,2024-06-22,East,Bhubaneswar,Office Supplies,Whiteboard,3,2184.39,0.05,6225.51,1214.84,Marketplace,Consumer
+ORD-00172,2024-06-23,West,Pune,Clothing,Jeans,2,1935.91,0.1,3484.64,920.05,Online,Consumer
+ORD-01000,2024-06-23,West,Ahmedabad,Home,Office Chair,1,6932.07,0.15,5892.26,828.19,Marketplace,Consumer
+ORD-01040,2024-06-24,West,Ahmedabad,Electronics,Headphones,3,2151.48,0.0,6454.44,2148.71,Retail Store,Small Business
+ORD-01407,2024-06-24,South,Bengaluru,Office Supplies,Backpack,2,1487.19,0.05,2825.66,609.3,Online,Small Business
+ORD-00545,2024-06-25,South,Chennai,Electronics,Wireless Mouse,2,825.97,0.05,1569.34,344.58,Online,Consumer
+ORD-00768,2024-06-25,West,Pune,Electronics,Headphones,1,2468.72,0.1,2221.85,446.84,Marketplace,Consumer
+ORD-00075,2024-06-26,South,Hyderabad,Electronics,Headphones,1,2717.15,0.15,2309.58,214.86,Marketplace,Consumer
+ORD-01299,2024-06-27,West,Mumbai,Books,Design Handbook,2,1076.87,0.05,2046.05,638.71,Marketplace,Enterprise
+ORD-00078,2024-06-28,North,Jaipur,Books,Exam Guide,2,518.81,0.0,1037.62,438.28,Online,Consumer
+ORD-00282,2024-06-28,East,Patna,Electronics,Keyboard,1,1353.06,0.05,1285.41,252.6,Retail Store,Small Business
+ORD-00678,2024-06-28,North,Delhi,Clothing,Jacket,2,3233.28,0.0,6466.56,1327.67,Retail Store,Consumer
+ORD-00186,2024-06-29,West,Pune,Books,Exam Guide,2,475.55,0.05,903.54,276.6,Retail Store,Consumer
+ORD-00370,2024-06-29,West,Mumbai,Office Supplies,Backpack,1,1430.59,0.15,1216.0,162.41,Online,Consumer
+ORD-00879,2024-06-29,South,Chennai,Clothing,Jacket,2,3064.96,0.2,4903.94,789.53,Retail Store,Small Business
+ORD-00133,2024-06-30,North,Dehradun,Clothing,T-Shirt,4,741.94,0.0,2967.76,1060.82,Online,Small Business
+ORD-00395,2024-06-30,East,Kolkata,Electronics,Wireless Mouse,1,710.29,0.3,497.2,31.05,Online,Small Business
+ORD-00663,2024-06-30,South,Kochi,Electronics,Headphones,3,2133.5,0.0,6400.5,1339.18,Retail Store,Consumer
+ORD-00848,2024-06-30,West,Mumbai,Books,Exam Guide,2,470.85,0.2,753.36,79.98,Marketplace,Enterprise
+ORD-00231,2024-07-01,North,Delhi,Electronics,Wireless Mouse,2,882.04,0.1,1587.67,193.19,Online,Consumer
+ORD-00503,2024-07-01,West,Surat,Office Supplies,Whiteboard,2,2291.01,0.1,4123.82,822.58,Online,Small Business
+ORD-00518,2024-07-02,West,Panaji,Books,Design Handbook,4,1005.66,0.3,2815.85,331.98,Marketplace,Small Business
+ORD-00807,2024-07-02,North,Chandigarh,Books,Data Science Book,2,979.64,0.1,1763.35,502.55,Online,Consumer
+ORD-01548,2024-07-02,South,Coimbatore,Books,Design Handbook,1,1239.95,0.2,991.96,125.04,Online,Consumer
+ORD-00022,2024-07-03,South,Bengaluru,Home,Desk Lamp,2,1267.63,0.1,2281.73,669.63,Online,Consumer
+ORD-00191,2024-07-03,West,Ahmedabad,Office Supplies,Backpack,1,1424.62,0.15,1210.93,180.51,Online,Small Business
+ORD-01252,2024-07-04,South,Hyderabad,Electronics,Wireless Mouse,2,867.16,0.05,1647.6,310.41,Marketplace,Consumer
+ORD-00106,2024-07-05,North,Delhi,Books,Data Science Book,2,882.8,0.15,1500.76,372.86,Retail Store,Consumer
+ORD-00593,2024-07-05,South,Coimbatore,Home,Water Bottle,1,421.44,0.0,421.44,143.19,Online,Consumer
+ORD-01288,2024-07-05,South,Kochi,Home,Desk Lamp,1,1176.84,0.05,1118.0,243.82,Retail Store,Consumer
+ORD-00119,2024-07-06,West,Mumbai,Clothing,T-Shirt,1,705.46,0.1,634.91,203.22,Retail Store,Small Business
+ORD-01158,2024-07-06,East,Bhubaneswar,Electronics,Keyboard,1,1514.3,0.15,1287.15,152.54,Online,Consumer
+ORD-00268,2024-07-07,East,Kolkata,Electronics,Wireless Mouse,1,757.46,0.0,757.46,183.27,Retail Store,Consumer
+ORD-00774,2024-07-07,West,Mumbai,Office Supplies,Pen Set,1,201.5,0.05,191.42,71.24,Marketplace,Small Business
+ORD-01144,2024-07-07,North,Dehradun,Office Supplies,Backpack,3,1775.76,0.05,5060.92,993.47,Retail Store,Small Business
+ORD-01227,2024-07-07,North,Jaipur,Clothing,T-Shirt,1,708.99,0.1,638.09,161.09,Online,Enterprise
+ORD-01594,2024-07-07,West,Surat,Home,Office Chair,1,7432.23,0.0,7432.23,1593.46,Retail Store,Enterprise
+ORD-00938,2024-07-08,South,Chennai,Electronics,Monitor,3,11446.92,0.1,30906.68,2210.35,Retail Store,Consumer
+ORD-01035,2024-07-08,West,Mumbai,Home,Water Bottle,1,409.9,0.25,307.42,29.91,Online,Consumer
+ORD-01198,2024-07-08,North,Lucknow,Books,Data Science Book,3,967.38,0.2,2321.71,424.77,Retail Store,Small Business
+ORD-01207,2024-07-08,North,Delhi,Clothing,Jacket,2,3048.98,0.15,5183.27,688.96,Online,Small Business
+ORD-00366,2024-07-09,West,Pune,Home,Storage Box,1,582.61,0.0,582.61,161.75,Online,Consumer
+ORD-01187,2024-07-09,East,Guwahati,Home,Water Bottle,2,444.56,0.05,844.66,297.25,Marketplace,Consumer
+ORD-01205,2024-07-09,North,Chandigarh,Electronics,Wireless Mouse,2,861.47,0.2,1378.35,143.07,Online,Consumer
+ORD-01209,2024-07-09,West,Surat,Home,Water Bottle,1,442.08,0.1,397.87,92.06,Marketplace,Consumer
+ORD-01294,2024-07-10,South,Chennai,Home,Storage Box,3,680.49,0.05,1939.4,322.54,Retail Store,Consumer
+ORD-00315,2024-07-11,North,Delhi,Home,Desk Lamp,1,1179.97,0.15,1002.97,184.27,Retail Store,Consumer
+ORD-00520,2024-07-11,West,Panaji,Office Supplies,Backpack,2,1703.12,0.05,3235.93,765.46,Marketplace,Enterprise
+ORD-00972,2024-07-11,South,Coimbatore,Electronics,Headphones,1,2113.08,0.15,1796.12,117.19,Marketplace,Consumer
+ORD-01178,2024-07-11,North,Chandigarh,Home,Office Chair,2,7141.16,0.0,14282.32,2432.95,Online,Consumer
+ORD-01450,2024-07-11,East,Bhubaneswar,Electronics,Headphones,1,2297.01,0.0,2297.01,702.22,Retail Store,Small Business
+ORD-01534,2024-07-11,North,Delhi,Books,Design Handbook,2,1194.34,0.0,2388.68,575.79,Online,Enterprise
+ORD-00016,2024-07-12,East,Guwahati,Electronics,Keyboard,1,1376.87,0.2,1101.5,18.18,Online,Consumer
+ORD-01034,2024-07-12,North,Delhi,Office Supplies,Pen Set,4,160.7,0.0,642.8,252.33,Retail Store,Consumer
+ORD-01124,2024-07-12,North,Jaipur,Electronics,Headphones,1,2533.07,0.15,2153.11,453.08,Retail Store,Small Business
+ORD-01541,2024-07-12,West,Pune,Office Supplies,Whiteboard,1,1983.49,0.1,1785.14,443.06,Online,Small Business
+ORD-00102,2024-07-13,South,Chennai,Books,Design Handbook,1,1165.53,0.1,1048.98,280.27,Retail Store,Consumer
+ORD-00924,2024-07-13,North,Jaipur,Clothing,Jacket,3,3462.21,0.0,10386.63,2652.21,Retail Store,Small Business
+ORD-00987,2024-07-13,West,Surat,Home,Office Chair,1,7870.25,0.2,6296.2,815.33,Online,Small Business
+ORD-01309,2024-07-13,South,Hyderabad,Electronics,Headphones,1,2144.64,0.0,2144.64,598.61,Retail Store,Consumer
+ORD-00554,2024-07-15,North,Chandigarh,Office Supplies,Pen Set,4,185.32,0.15,630.09,181.83,Online,Enterprise
+ORD-00833,2024-07-15,East,Bhubaneswar,Home,Storage Box,1,688.41,0.1,619.57,89.56,Retail Store,Consumer
+ORD-00817,2024-07-16,West,Panaji,Office Supplies,Pen Set,5,193.31,0.1,869.89,259.77,Online,Small Business
+ORD-00887,2024-07-16,West,Ahmedabad,Home,Desk Lamp,1,1267.18,0.15,1077.1,301.19,Online,Small Business
+ORD-01132,2024-07-16,South,Bengaluru,Clothing,Jacket,5,3483.94,0.1,15677.73,2916.56,Online,Small Business
+ORD-01575,2024-07-16,East,Bhubaneswar,Electronics,Monitor,1,13736.12,0.05,13049.31,1305.88,Online,Consumer
+ORD-01047,2024-07-18,West,Surat,Electronics,Wireless Mouse,1,879.59,0.15,747.65,130.76,Marketplace,Consumer
+ORD-00104,2024-07-19,East,Guwahati,Office Supplies,Notebook Pack,1,280.91,0.1,252.82,78.61,Online,Consumer
+ORD-01042,2024-07-19,North,Chandigarh,Books,Business Book,1,580.67,0.0,580.67,164.88,Online,Consumer
+ORD-01433,2024-07-19,North,Chandigarh,Electronics,Wireless Mouse,1,719.86,0.0,719.86,174.45,Online,Enterprise
+ORD-00012,2024-07-20,North,Delhi,Office Supplies,Notebook Pack,1,270.21,0.05,256.7,76.85,Marketplace,Consumer
+ORD-00107,2024-07-20,East,Ranchi,Clothing,Jacket,3,3356.29,0.2,8055.1,1128.35,Marketplace,Consumer
+ORD-00596,2024-07-20,North,Dehradun,Home,Storage Box,1,639.22,0.15,543.34,71.89,Online,Enterprise
+ORD-01116,2024-07-20,South,Chennai,Electronics,Monitor,2,14055.44,0.05,26705.34,2250.33,Online,Consumer
+ORD-01379,2024-07-20,West,Surat,Clothing,Sneakers,1,2536.96,0.15,2156.42,152.77,Online,Consumer
+ORD-01101,2024-07-21,East,Patna,Electronics,Headphones,3,2628.6,0.1,7097.22,1860.8,Retail Store,Enterprise
+ORD-00834,2024-07-23,South,Hyderabad,Books,Design Handbook,1,1004.42,0.0,1004.42,326.68,Marketplace,Small Business
+ORD-00946,2024-07-23,West,Pune,Home,Office Chair,1,8756.09,0.0,8756.09,1793.91,Marketplace,Consumer
+ORD-01046,2024-07-23,West,Mumbai,Home,Water Bottle,2,437.44,0.1,787.39,158.39,Marketplace,Small Business
+ORD-00815,2024-07-25,North,Dehradun,Electronics,Wireless Mouse,3,711.91,0.15,1815.37,168.15,Online,Small Business
+ORD-00220,2024-07-26,South,Coimbatore,Home,Office Chair,2,8543.58,0.1,15378.44,3003.59,Retail Store,Enterprise
+ORD-00399,2024-07-27,North,Delhi,Clothing,Jeans,1,1763.81,0.0,1763.81,509.41,Retail Store,Small Business
+ORD-00794,2024-07-27,North,Lucknow,Electronics,Keyboard,1,1478.06,0.0,1478.06,318.37,Retail Store,Small Business
+ORD-00882,2024-07-27,West,Ahmedabad,Clothing,Jeans,1,1719.18,0.1,1547.26,377.82,Marketplace,Consumer
+ORD-01511,2024-07-27,West,Surat,Electronics,Headphones,5,2438.25,0.1,10972.12,2038.99,Online,Consumer
+ORD-00516,2024-07-28,North,Jaipur,Electronics,Wireless Mouse,1,716.34,0.15,608.89,71.86,Retail Store,Consumer
+ORD-00824,2024-07-28,East,Guwahati,Books,Business Book,3,594.6,0.15,1516.23,408.26,Retail Store,Consumer
+ORD-00168,2024-07-29,West,Pune,Office Supplies,Notebook Pack,4,235.63,0.15,801.14,237.56,Marketplace,Consumer
+ORD-01432,2024-07-29,South,Chennai,Clothing,T-Shirt,1,700.34,0.25,525.25,62.73,Online,Consumer
+ORD-01488,2024-07-29,East,Guwahati,Clothing,Jeans,3,1873.18,0.1,5057.59,1367.56,Online,Consumer
+ORD-00094,2024-07-30,North,Chandigarh,Home,Water Bottle,5,475.09,0.15,2019.13,307.26,Retail Store,Consumer
+ORD-00189,2024-07-30,North,Lucknow,Books,Data Science Book,3,917.97,0.1,2478.52,577.59,Retail Store,Consumer
+ORD-00396,2024-07-30,East,Patna,Clothing,Jacket,1,3505.76,0.0,3505.76,1035.37,Retail Store,Small Business
+ORD-00499,2024-07-30,East,Ranchi,Home,Office Chair,3,7590.95,0.15,19356.92,1723.13,Marketplace,Consumer
+ORD-01307,2024-07-30,East,Guwahati,Clothing,Sneakers,2,3021.17,0.25,4531.76,143.55,Online,Consumer
+ORD-00325,2024-07-31,West,Surat,Office Supplies,Backpack,1,1680.86,0.0,1680.86,475.64,Online,Consumer
+ORD-00915,2024-07-31,East,Kolkata,Office Supplies,Whiteboard,4,1944.88,0.1,7001.57,389.91,Marketplace,Small Business
+ORD-01525,2024-07-31,North,Delhi,Books,Business Book,1,649.78,0.05,617.29,259.65,Online,Consumer
+ORD-01063,2024-08-01,West,Panaji,Home,Storage Box,4,597.83,0.25,1793.49,161.6,Marketplace,Consumer
+ORD-01380,2024-08-01,South,Coimbatore,Home,Office Chair,2,8445.16,0.15,14356.77,1018.92,Online,Small Business
+ORD-01417,2024-08-02,West,Mumbai,Clothing,Sneakers,1,2506.74,0.2,2005.39,179.97,Marketplace,Consumer
+ORD-01449,2024-08-02,North,Chandigarh,Clothing,T-Shirt,1,643.56,0.0,643.56,219.37,Marketplace,Small Business
+ORD-00237,2024-08-03,North,Lucknow,Clothing,Sneakers,4,2973.18,0.0,11892.72,1935.76,Retail Store,Small Business
+ORD-00392,2024-08-03,West,Surat,Electronics,Keyboard,3,1399.47,0.15,3568.65,445.8,Retail Store,Small Business
+ORD-01197,2024-08-03,North,Delhi,Electronics,Monitor,1,12666.75,0.05,12033.41,953.58,Retail Store,Consumer
+ORD-01005,2024-08-04,West,Surat,Clothing,Sneakers,1,2471.33,0.0,2471.33,427.47,Marketplace,Consumer
+ORD-01571,2024-08-04,East,Kolkata,Home,Desk Lamp,1,1157.62,0.0,1157.62,365.74,Marketplace,Enterprise
+ORD-00275,2024-08-05,South,Chennai,Books,Exam Guide,1,568.95,0.15,483.61,131.1,Online,Consumer
+ORD-01282,2024-08-05,South,Bengaluru,Home,Office Chair,2,7148.3,0.1,12866.94,2347.96,Retail Store,Enterprise
+ORD-00005,2024-08-06,East,Kolkata,Electronics,Wireless Mouse,3,849.03,0.05,2419.74,423.13,Retail Store,Small Business
+ORD-01311,2024-08-06,South,Bengaluru,Home,Water Bottle,2,412.76,0.0,825.52,216.14,Online,Consumer
+ORD-01390,2024-08-06,North,Dehradun,Electronics,Monitor,2,11521.4,0.05,21890.66,1699.59,Marketplace,Consumer
+ORD-00644,2024-08-07,South,Chennai,Home,Office Chair,2,8866.04,0.1,15958.87,2092.99,Marketplace,Small Business
+ORD-01499,2024-08-07,South,Kochi,Home,Water Bottle,1,480.5,0.0,480.5,116.91,Online,Consumer
+ORD-00230,2024-08-08,East,Patna,Electronics,Monitor,2,13953.01,0.15,23720.12,3948.17,Online,Consumer
+ORD-00958,2024-08-08,South,Bengaluru,Clothing,Jacket,2,3601.23,0.0,7202.46,1850.92,Online,Enterprise
+ORD-00542,2024-08-09,West,Pune,Clothing,Jacket,2,3473.54,0.0,6947.08,1978.26,Online,Consumer
+ORD-00699,2024-08-09,South,Hyderabad,Books,Business Book,3,550.21,0.15,1403.04,307.33,Marketplace,Enterprise
+ORD-00977,2024-08-09,East,Ranchi,Clothing,Jeans,1,1734.19,0.2,1387.35,236.5,Marketplace,Consumer
+ORD-01175,2024-08-09,South,Chennai,Clothing,Jacket,3,3352.71,0.1,9052.32,1281.94,Online,Consumer
+ORD-00142,2024-08-11,West,Pune,Clothing,Jeans,1,1955.13,0.15,1661.86,212.36,Online,Consumer
+ORD-00839,2024-08-11,South,Coimbatore,Home,Office Chair,1,8460.0,0.0,8460.0,1217.18,Retail Store,Consumer
+ORD-01546,2024-08-11,West,Pune,Home,Desk Lamp,2,1151.09,0.2,1841.74,450.69,Retail Store,Consumer
+ORD-01589,2024-08-11,South,Chennai,Home,Office Chair,1,7389.61,0.1,6650.65,756.55,Marketplace,Enterprise
+ORD-00349,2024-08-12,North,Lucknow,Clothing,Jeans,2,1734.75,0.1,3122.55,598.61,Retail Store,Consumer
+ORD-00384,2024-08-12,North,Lucknow,Clothing,T-Shirt,3,726.74,0.05,2071.21,544.78,Retail Store,Small Business
+ORD-01247,2024-08-12,North,Chandigarh,Clothing,T-Shirt,2,617.48,0.1,1111.46,308.58,Retail Store,Small Business
+ORD-01295,2024-08-12,South,Bengaluru,Home,Office Chair,1,7962.95,0.0,7962.95,1760.78,Retail Store,Small Business
+ORD-01388,2024-08-12,North,Chandigarh,Home,Desk Lamp,2,1069.11,0.15,1817.49,506.84,Online,Enterprise
+ORD-01467,2024-08-12,South,Coimbatore,Clothing,Jacket,3,3510.67,0.05,10005.41,2401.7,Online,Enterprise
+ORD-00173,2024-08-13,South,Bengaluru,Home,Storage Box,2,669.02,0.05,1271.14,376.41,Marketplace,Consumer
+ORD-00497,2024-08-13,West,Mumbai,Clothing,Jeans,1,1673.16,0.25,1254.87,135.99,Online,Consumer
+ORD-01090,2024-08-13,North,Delhi,Clothing,T-Shirt,3,760.07,0.2,1824.17,449.2,Retail Store,Consumer
+ORD-00303,2024-08-14,North,Jaipur,Clothing,T-Shirt,1,630.11,0.0,630.11,233.18,Online,Small Business
+ORD-00787,2024-08-14,East,Patna,Office Supplies,Notebook Pack,1,255.37,0.0,255.37,90.92,Online,Small Business
+ORD-01369,2024-08-14,North,Lucknow,Electronics,Keyboard,2,1643.13,0.05,3121.95,327.73,Retail Store,Consumer
+ORD-00742,2024-08-16,West,Panaji,Electronics,Monitor,5,12294.63,0.1,55325.83,4925.97,Marketplace,Enterprise
+ORD-01403,2024-08-16,East,Patna,Office Supplies,Backpack,1,1727.49,0.15,1468.37,362.67,Retail Store,Consumer
+ORD-01465,2024-08-16,West,Ahmedabad,Books,Business Book,1,555.77,0.1,500.19,174.01,Marketplace,Consumer
+ORD-01074,2024-08-17,East,Patna,Office Supplies,Notebook Pack,5,261.97,0.15,1113.37,287.69,Online,Consumer
+ORD-01225,2024-08-17,West,Surat,Electronics,Monitor,1,13557.31,0.0,13557.31,3099.46,Online,Small Business
+ORD-01240,2024-08-18,South,Kochi,Electronics,Headphones,1,2713.77,0.05,2578.08,366.76,Marketplace,Enterprise
+ORD-00590,2024-08-19,East,Ranchi,Electronics,Keyboard,1,1568.11,0.0,1568.11,280.71,Online,Small Business
+ORD-01177,2024-08-19,West,Surat,Clothing,Jacket,1,3221.71,0.05,3060.62,648.83,Online,Small Business
+ORD-00801,2024-08-20,North,Lucknow,Books,Exam Guide,5,542.7,0.1,2442.15,710.49,Online,Consumer
+ORD-00247,2024-08-22,North,Dehradun,Clothing,Jeans,3,1801.7,0.0,5405.1,1352.59,Online,Enterprise
+ORD-00556,2024-08-22,West,Ahmedabad,Home,Water Bottle,5,483.67,0.1,2176.51,519.29,Marketplace,Consumer
+ORD-01276,2024-08-22,South,Hyderabad,Home,Storage Box,5,611.87,0.05,2906.38,663.54,Online,Consumer
+ORD-00535,2024-08-23,West,Pune,Electronics,Wireless Mouse,2,720.67,0.15,1225.14,159.05,Retail Store,Consumer
+ORD-00851,2024-08-24,South,Coimbatore,Electronics,Keyboard,1,1369.85,0.05,1301.36,269.13,Online,Consumer
+ORD-00910,2024-08-24,East,Bhubaneswar,Home,Storage Box,1,672.35,0.05,638.73,188.73,Online,Small Business
+ORD-01210,2024-08-24,East,Ranchi,Home,Office Chair,2,7851.57,0.05,14917.98,2615.33,Marketplace,Consumer
+ORD-00659,2024-08-25,West,Ahmedabad,Clothing,T-Shirt,1,666.26,0.0,666.26,243.33,Retail Store,Small Business
+ORD-00875,2024-08-25,North,Dehradun,Books,Business Book,2,656.95,0.1,1182.51,247.65,Retail Store,Consumer
+ORD-01412,2024-08-25,North,Delhi,Office Supplies,Notebook Pack,2,220.41,0.05,418.78,178.65,Online,Consumer
+ORD-01481,2024-08-25,South,Kochi,Home,Office Chair,3,7524.34,0.05,21444.37,3510.23,Marketplace,Small Business
+ORD-00494,2024-08-26,West,Pune,Home,Office Chair,1,7698.7,0.25,5774.02,175.72,Online,Consumer
+ORD-01241,2024-08-26,East,Ranchi,Office Supplies,Notebook Pack,3,257.66,0.15,657.03,162.08,Online,Consumer
+ORD-01544,2024-08-26,West,Ahmedabad,Electronics,Keyboard,1,1593.59,0.2,1274.87,85.88,Online,Consumer
+ORD-00407,2024-08-27,South,Coimbatore,Home,Storage Box,1,589.95,0.0,589.95,188.88,Retail Store,Small Business
+ORD-01056,2024-08-27,West,Pune,Books,Design Handbook,3,1070.78,0.1,2891.11,510.25,Retail Store,Consumer
+ORD-01057,2024-08-27,North,Delhi,Office Supplies,Pen Set,3,181.11,0.15,461.83,141.42,Online,Small Business
+ORD-01138,2024-08-27,North,Delhi,Home,Storage Box,1,688.47,0.25,516.35,60.49,Online,Consumer
+ORD-00841,2024-08-28,East,Ranchi,Electronics,Keyboard,2,1460.09,0.3,2044.13,-10.89,Marketplace,Consumer
+ORD-00951,2024-08-28,South,Chennai,Clothing,Jacket,4,2901.77,0.1,10446.37,1740.01,Online,Consumer
+ORD-00374,2024-08-29,South,Coimbatore,Home,Desk Lamp,1,1182.28,0.2,945.82,84.83,Marketplace,Consumer
+ORD-00423,2024-08-29,East,Patna,Electronics,Wireless Mouse,3,771.46,0.05,2198.66,359.12,Retail Store,Enterprise
+ORD-00572,2024-08-29,West,Ahmedabad,Office Supplies,Notebook Pack,2,283.65,0.1,510.57,188.15,Online,Consumer
+ORD-01297,2024-08-29,South,Chennai,Electronics,Wireless Mouse,2,718.64,0.15,1221.69,274.19,Online,Enterprise
+ORD-00322,2024-08-30,East,Kolkata,Clothing,Jacket,1,3158.19,0.15,2684.46,353.85,Retail Store,Consumer
+ORD-01453,2024-08-30,West,Panaji,Office Supplies,Notebook Pack,1,265.58,0.2,212.46,39.45,Online,Consumer
+ORD-00570,2024-08-31,West,Ahmedabad,Clothing,Jacket,1,3553.13,0.25,2664.85,320.95,Online,Consumer
+ORD-01213,2024-08-31,East,Bhubaneswar,Clothing,T-Shirt,1,725.62,0.15,616.78,142.77,Retail Store,Small Business
+ORD-00459,2024-09-01,South,Bengaluru,Books,Exam Guide,3,443.08,0.2,1063.39,201.67,Marketplace,Small Business
+ORD-00796,2024-09-01,South,Hyderabad,Home,Storage Box,1,644.57,0.1,580.11,136.17,Marketplace,Consumer
+ORD-00849,2024-09-02,West,Panaji,Electronics,Wireless Mouse,3,841.13,0.1,2271.05,273.65,Online,Small Business
+ORD-00900,2024-09-02,West,Mumbai,Clothing,Jeans,1,1664.11,0.05,1580.9,339.37,Online,Consumer
+ORD-01041,2024-09-02,West,Ahmedabad,Electronics,Keyboard,1,1640.13,0.05,1558.12,347.4,Marketplace,Consumer
+ORD-01577,2024-09-02,East,Ranchi,Books,Exam Guide,3,492.46,0.3,1034.17,154.36,Marketplace,Consumer
+ORD-00195,2024-09-03,West,Surat,Electronics,Wireless Mouse,4,757.54,0.1,2727.14,218.55,Online,Consumer
+ORD-00234,2024-09-03,North,Jaipur,Clothing,Jacket,4,2988.53,0.1,10758.71,2078.2,Online,Small Business
+ORD-00627,2024-09-03,North,Jaipur,Books,Data Science Book,3,953.47,0.05,2717.39,547.45,Marketplace,Consumer
+ORD-01189,2024-09-03,North,Delhi,Electronics,Keyboard,2,1485.89,0.0,2971.78,817.08,Retail Store,Consumer
+ORD-00051,2024-09-04,North,Delhi,Electronics,Headphones,2,2184.98,0.0,4369.96,922.62,Online,Consumer
+ORD-00397,2024-09-04,South,Coimbatore,Office Supplies,Whiteboard,1,1952.16,0.0,1952.16,531.71,Retail Store,Consumer
+ORD-01054,2024-09-04,North,Dehradun,Electronics,Keyboard,1,1322.97,0.1,1190.67,229.57,Marketplace,Consumer
+ORD-01262,2024-09-04,North,Lucknow,Home,Desk Lamp,1,1352.98,0.05,1285.33,409.3,Online,Consumer
+ORD-01366,2024-09-04,South,Chennai,Clothing,Jacket,2,2845.07,0.05,5405.63,1136.18,Marketplace,Consumer
+ORD-00287,2024-09-05,West,Surat,Electronics,Keyboard,3,1329.55,0.15,3390.35,454.45,Retail Store,Consumer
+ORD-00786,2024-09-05,North,Lucknow,Home,Storage Box,4,624.1,0.0,2496.4,780.68,Online,Enterprise
+ORD-00529,2024-09-06,South,Chennai,Books,Exam Guide,1,500.17,0.05,475.16,128.91,Marketplace,Small Business
+ORD-01018,2024-09-06,North,Dehradun,Office Supplies,Backpack,4,1437.26,0.2,4599.23,818.75,Retail Store,Consumer
+ORD-01055,2024-09-06,East,Ranchi,Home,Office Chair,1,8842.72,0.15,7516.31,832.47,Retail Store,Consumer
+ORD-00013,2024-09-07,East,Ranchi,Clothing,Sneakers,1,3107.31,0.25,2330.48,182.25,Online,Consumer
+ORD-00992,2024-09-07,North,Delhi,Books,Exam Guide,2,447.54,0.25,671.31,118.34,Online,Small Business
+ORD-01583,2024-09-07,South,Kochi,Home,Storage Box,2,661.55,0.1,1190.79,223.94,Retail Store,Small Business
+ORD-01003,2024-09-08,East,Bhubaneswar,Electronics,Headphones,1,2114.78,0.1,1903.3,467.23,Retail Store,Consumer
+ORD-01239,2024-09-08,North,Dehradun,Electronics,Wireless Mouse,2,714.84,0.0,1429.68,434.06,Online,Small Business
+ORD-00358,2024-09-09,South,Hyderabad,Books,Business Book,3,683.19,0.05,1947.09,588.83,Online,Small Business
+ORD-00866,2024-09-09,East,Bhubaneswar,Office Supplies,Pen Set,2,170.75,0.1,307.35,107.81,Online,Small Business
+ORD-01300,2024-09-09,South,Chennai,Home,Water Bottle,2,397.46,0.05,755.17,232.87,Retail Store,Consumer
+ORD-00254,2024-09-11,East,Patna,Home,Desk Lamp,2,1251.76,0.25,1877.64,236.63,Online,Consumer
+ORD-01029,2024-09-11,West,Ahmedabad,Books,Exam Guide,1,441.1,0.2,352.88,74.09,Retail Store,Small Business
+ORD-01113,2024-09-11,West,Pune,Clothing,T-Shirt,2,777.18,0.05,1476.64,394.95,Online,Consumer
+ORD-00310,2024-09-12,West,Surat,Electronics,Headphones,1,2259.69,0.05,2146.71,380.78,Marketplace,Small Business
+ORD-00517,2024-09-12,South,Coimbatore,Home,Storage Box,3,735.69,0.1,1986.36,220.87,Retail Store,Small Business
+ORD-00976,2024-09-12,South,Hyderabad,Clothing,Jacket,1,3484.5,0.15,2961.82,498.6,Retail Store,Enterprise
+ORD-01539,2024-09-12,East,Patna,Office Supplies,Pen Set,2,191.23,0.2,305.97,62.94,Online,Consumer
+ORD-01067,2024-09-13,East,Kolkata,Home,Office Chair,1,8134.34,0.0,8134.34,1567.0,Retail Store,Consumer
+ORD-00206,2024-09-14,West,Panaji,Electronics,Wireless Mouse,1,765.43,0.2,612.34,65.99,Online,Enterprise
+ORD-00654,2024-09-14,West,Pune,Home,Desk Lamp,5,1070.81,0.05,5086.35,1543.24,Online,Enterprise
+ORD-01045,2024-09-14,South,Bengaluru,Electronics,Wireless Mouse,1,802.41,0.1,722.17,138.64,Online,Consumer
+ORD-01150,2024-09-14,South,Coimbatore,Office Supplies,Pen Set,1,173.25,0.05,164.59,52.0,Marketplace,Consumer
+ORD-01317,2024-09-14,East,Kolkata,Clothing,Jeans,2,1899.76,0.1,3419.57,942.3,Online,Consumer
+ORD-01430,2024-09-14,North,Jaipur,Clothing,T-Shirt,3,730.49,0.05,2081.9,579.38,Online,Consumer
+ORD-00811,2024-09-15,East,Ranchi,Electronics,Wireless Mouse,2,865.75,0.0,1731.5,381.3,Online,Small Business
+ORD-01183,2024-09-15,North,Jaipur,Electronics,Keyboard,2,1651.05,0.25,2476.57,107.03,Marketplace,Consumer
+ORD-00207,2024-09-16,North,Delhi,Electronics,Monitor,1,14077.48,0.2,11261.98,1181.27,Retail Store,Consumer
+ORD-00974,2024-09-16,South,Coimbatore,Office Supplies,Backpack,1,1798.99,0.1,1619.09,335.01,Online,Enterprise
+ORD-01242,2024-09-16,North,Chandigarh,Home,Water Bottle,1,413.86,0.05,393.17,116.04,Marketplace,Small Business
+ORD-00648,2024-09-19,West,Surat,Clothing,Sneakers,1,3014.98,0.15,2562.73,307.06,Online,Consumer
+ORD-00657,2024-09-19,East,Patna,Office Supplies,Backpack,2,1430.65,0.2,2289.04,388.77,Online,Consumer
+ORD-01586,2024-09-19,South,Coimbatore,Office Supplies,Pen Set,1,172.54,0.1,155.29,54.02,Online,Consumer
+ORD-00265,2024-09-20,North,Delhi,Office Supplies,Whiteboard,2,2131.34,0.15,3623.28,426.16,Online,Consumer
+ORD-00511,2024-09-20,East,Kolkata,Electronics,Wireless Mouse,2,711.74,0.0,1423.48,308.4,Retail Store,Consumer
+ORD-00982,2024-09-21,East,Kolkata,Office Supplies,Backpack,1,1783.62,0.0,1783.62,349.41,Online,Consumer
+ORD-00037,2024-09-22,North,Delhi,Electronics,Keyboard,2,1546.98,0.1,2784.56,402.81,Online,Small Business
+ORD-01550,2024-09-23,North,Chandigarh,Home,Water Bottle,2,484.51,0.2,775.22,138.99,Retail Store,Small Business
+ORD-00477,2024-09-24,West,Panaji,Home,Office Chair,2,7630.61,0.0,15261.22,3897.87,Online,Consumer
+ORD-00893,2024-09-24,West,Surat,Home,Desk Lamp,3,1249.0,0.1,3372.3,682.96,Online,Enterprise
+ORD-01538,2024-09-24,West,Panaji,Books,Design Handbook,1,1202.11,0.0,1202.11,350.9,Online,Enterprise
+ORD-00748,2024-09-26,East,Guwahati,Clothing,Sneakers,1,2995.1,0.05,2845.34,728.76,Retail Store,Consumer
+ORD-01278,2024-09-26,East,Kolkata,Electronics,Monitor,2,12461.02,0.05,23675.94,4218.06,Online,Small Business
+ORD-01286,2024-09-26,South,Hyderabad,Office Supplies,Pen Set,1,199.43,0.2,159.54,32.12,Online,Small Business
+ORD-01476,2024-09-27,West,Surat,Clothing,Jacket,3,3122.6,0.2,7494.24,1219.38,Online,Consumer
+ORD-00054,2024-09-28,North,Delhi,Books,Business Book,3,537.56,0.1,1451.41,455.95,Marketplace,Consumer
+ORD-00293,2024-09-28,West,Surat,Office Supplies,Notebook Pack,2,262.36,0.3,367.3,48.66,Marketplace,Small Business
+ORD-00971,2024-09-29,West,Ahmedabad,Home,Desk Lamp,1,1344.33,0.15,1142.68,241.51,Online,Small Business
+ORD-00840,2024-09-30,West,Ahmedabad,Clothing,T-Shirt,1,623.21,0.1,560.89,177.63,Online,Small Business
+ORD-01145,2024-09-30,West,Panaji,Home,Water Bottle,5,443.21,0.1,1994.44,499.01,Retail Store,Consumer
+ORD-00751,2024-10-02,North,Dehradun,Home,Office Chair,5,7661.46,0.15,32561.21,3194.36,Retail Store,Small Business
+ORD-01464,2024-10-02,South,Kochi,Home,Storage Box,1,637.17,0.1,573.45,131.69,Online,Consumer
+ORD-00028,2024-10-03,East,Patna,Electronics,Headphones,3,2495.26,0.0,7485.78,1361.86,Online,Consumer
+ORD-00764,2024-10-03,East,Kolkata,Electronics,Keyboard,2,1400.51,0.05,2660.97,438.32,Retail Store,Consumer
+ORD-00856,2024-10-03,West,Mumbai,Clothing,Jeans,2,1909.0,0.0,3818.0,1071.53,Retail Store,Consumer
+ORD-01050,2024-10-03,West,Surat,Home,Office Chair,1,7977.59,0.1,7179.83,724.98,Retail Store,Consumer
+ORD-01306,2024-10-03,North,Delhi,Office Supplies,Notebook Pack,4,280.19,0.1,1008.68,334.32,Retail Store,Enterprise
+ORD-00537,2024-10-04,West,Surat,Clothing,Jacket,2,3294.41,0.2,5271.06,68.51,Online,Small Business
+ORD-01201,2024-10-04,North,Jaipur,Clothing,Jeans,2,1937.45,0.0,3874.9,1311.1,Online,Consumer
+ORD-00331,2024-10-05,West,Surat,Books,Design Handbook,5,1094.44,0.05,5198.59,1309.18,Online,Consumer
+ORD-00224,2024-10-06,West,Ahmedabad,Office Supplies,Pen Set,1,183.68,0.05,174.5,55.14,Retail Store,Consumer
+ORD-00615,2024-10-06,West,Surat,Home,Water Bottle,2,466.17,0.1,839.11,204.92,Online,Enterprise
+ORD-01185,2024-10-07,South,Hyderabad,Electronics,Monitor,1,13250.48,0.0,13250.48,1517.83,Online,Consumer
+ORD-01052,2024-10-08,East,Ranchi,Electronics,Monitor,3,14166.37,0.1,38249.2,3638.7,Online,Consumer
+ORD-01426,2024-10-08,West,Pune,Home,Office Chair,1,8751.44,0.0,8751.44,1101.19,Retail Store,Consumer
+ORD-01290,2024-10-09,West,Mumbai,Clothing,Jacket,1,3173.29,0.1,2855.96,246.04,Online,Small Business
+ORD-01298,2024-10-10,West,Ahmedabad,Electronics,Keyboard,1,1648.43,0.1,1483.59,191.62,Retail Store,Enterprise
+ORD-00950,2024-10-12,East,Patna,Home,Water Bottle,2,428.18,0.1,770.72,169.78,Retail Store,Consumer
+ORD-01599,2024-10-12,East,Ranchi,Office Supplies,Whiteboard,1,2234.46,0.05,2122.74,245.56,Retail Store,Consumer
+ORD-00205,2024-10-13,West,Panaji,Electronics,Keyboard,1,1394.45,0.0,1394.45,221.83,Online,Small Business
+ORD-00962,2024-10-13,East,Bhubaneswar,Clothing,Sneakers,1,2481.73,0.15,2109.47,336.38,Online,Small Business
+ORD-01425,2024-10-13,East,Guwahati,Home,Water Bottle,1,461.82,0.1,415.64,76.02,Retail Store,Small Business
+ORD-00129,2024-10-14,West,Mumbai,Electronics,Wireless Mouse,1,732.09,0.15,622.28,65.49,Retail Store,Consumer
+ORD-01126,2024-10-14,South,Bengaluru,Clothing,Jacket,2,3033.51,0.2,4853.62,771.15,Online,Consumer
+ORD-00050,2024-10-15,South,Hyderabad,Electronics,Headphones,5,2665.75,0.15,11329.44,2031.3,Online,Consumer
+ORD-00180,2024-10-15,West,Pune,Books,Data Science Book,2,900.72,0.15,1531.22,213.53,Online,Consumer
+ORD-00495,2024-10-15,East,Ranchi,Books,Exam Guide,1,529.3,0.05,502.83,120.38,Online,Consumer
+ORD-00852,2024-10-15,West,Panaji,Electronics,Monitor,1,13861.4,0.2,11089.12,912.48,Marketplace,Consumer
+ORD-00260,2024-10-16,East,Ranchi,Clothing,Sneakers,1,3113.73,0.0,3113.73,489.97,Retail Store,Consumer
+ORD-01595,2024-10-16,East,Kolkata,Office Supplies,Notebook Pack,1,265.31,0.05,252.04,76.14,Retail Store,Consumer
+ORD-01451,2024-10-17,South,Chennai,Office Supplies,Backpack,1,1817.23,0.15,1544.65,307.16,Online,Enterprise
+ORD-00118,2024-10-18,South,Bengaluru,Books,Exam Guide,1,523.04,0.0,523.04,176.39,Online,Consumer
+ORD-00975,2024-10-19,South,Coimbatore,Home,Storage Box,1,602.49,0.0,602.49,91.98,Retail Store,Consumer
+ORD-01203,2024-10-19,North,Dehradun,Office Supplies,Pen Set,3,162.53,0.05,463.21,143.92,Marketplace,Consumer
+ORD-00112,2024-10-20,North,Dehradun,Electronics,Wireless Mouse,1,890.84,0.05,846.3,138.01,Online,Consumer
+ORD-00491,2024-10-20,West,Mumbai,Books,Design Handbook,3,1144.25,0.0,3432.75,678.68,Online,Consumer
+ORD-00533,2024-10-20,North,Jaipur,Home,Desk Lamp,5,1122.09,0.15,4768.88,945.91,Online,Consumer
+ORD-01519,2024-10-20,South,Coimbatore,Electronics,Wireless Mouse,1,878.73,0.1,790.86,156.36,Online,Small Business
+ORD-00074,2024-10-21,South,Coimbatore,Home,Water Bottle,1,502.87,0.0,502.87,153.4,Retail Store,Consumer
+ORD-00091,2024-10-21,West,Ahmedabad,Electronics,Monitor,1,13537.99,0.15,11507.29,838.19,Online,Consumer
+ORD-00115,2024-10-21,South,Chennai,Electronics,Wireless Mouse,1,803.23,0.0,803.23,143.54,Retail Store,Consumer
+ORD-00961,2024-10-21,East,Ranchi,Clothing,Jacket,2,3605.79,0.05,6851.0,1651.86,Online,Enterprise
+ORD-01271,2024-10-21,South,Hyderabad,Office Supplies,Pen Set,3,173.95,0.1,469.66,164.73,Online,Enterprise
+ORD-01446,2024-10-21,South,Kochi,Clothing,Jeans,5,1889.62,0.25,7086.07,755.22,Online,Consumer
+ORD-00285,2024-10-24,West,Ahmedabad,Clothing,T-Shirt,1,705.81,0.3,494.07,40.36,Online,Enterprise
+ORD-00566,2024-10-25,West,Ahmedabad,Books,Exam Guide,2,564.64,0.1,1016.35,315.55,Online,Consumer
+ORD-00060,2024-10-26,North,Jaipur,Electronics,Wireless Mouse,2,863.64,0.0,1727.28,415.39,Online,Consumer
+ORD-00279,2024-10-26,West,Ahmedabad,Office Supplies,Notebook Pack,1,275.65,0.1,248.08,78.46,Online,Consumer
+ORD-00347,2024-10-26,North,Chandigarh,Office Supplies,Whiteboard,1,1959.58,0.1,1763.62,221.16,Online,Consumer
+ORD-00418,2024-10-26,South,Kochi,Books,Data Science Book,2,920.85,0.1,1657.53,491.83,Retail Store,Small Business
+ORD-00453,2024-10-26,North,Jaipur,Books,Exam Guide,2,547.95,0.15,931.52,228.11,Retail Store,Consumer
+ORD-00072,2024-10-28,South,Kochi,Home,Water Bottle,2,424.62,0.0,849.24,276.23,Online,Consumer
+ORD-00216,2024-10-28,West,Surat,Books,Exam Guide,1,543.54,0.2,434.83,104.13,Online,Small Business
+ORD-00498,2024-10-28,West,Surat,Clothing,Jeans,1,1870.45,0.15,1589.88,330.11,Online,Consumer
+ORD-00565,2024-10-28,South,Hyderabad,Clothing,T-Shirt,1,736.24,0.05,699.43,272.83,Marketplace,Consumer
+ORD-00085,2024-10-29,West,Pune,Electronics,Keyboard,1,1560.94,0.15,1326.8,140.69,Marketplace,Small Business
+ORD-00686,2024-10-29,South,Chennai,Home,Water Bottle,1,502.94,0.2,402.35,49.13,Marketplace,Consumer
+ORD-00830,2024-10-29,North,Chandigarh,Home,Desk Lamp,5,1156.28,0.05,5492.33,1419.8,Online,Consumer
+ORD-00845,2024-10-29,East,Bhubaneswar,Electronics,Wireless Mouse,1,738.54,0.05,701.61,132.43,Online,Consumer
+ORD-00947,2024-10-29,South,Kochi,Books,Design Handbook,4,1114.15,0.0,4456.6,1254.24,Retail Store,Consumer
+ORD-01118,2024-10-29,North,Delhi,Books,Data Science Book,1,956.42,0.05,908.6,236.48,Retail Store,Small Business
+ORD-01154,2024-10-29,South,Hyderabad,Electronics,Monitor,2,12011.83,0.15,20420.11,2609.58,Online,Consumer
+ORD-00355,2024-10-30,West,Ahmedabad,Clothing,Jeans,2,1795.89,0.05,3412.19,917.93,Online,Consumer
+ORD-00789,2024-10-30,South,Chennai,Books,Design Handbook,2,1204.82,0.15,2048.19,446.35,Online,Small Business
+ORD-01013,2024-10-30,West,Mumbai,Clothing,Sneakers,1,2558.06,0.0,2558.06,591.18,Marketplace,Small Business
+ORD-00261,2024-10-31,West,Panaji,Electronics,Headphones,3,2523.51,0.1,6813.48,1603.61,Online,Consumer
+ORD-01246,2024-10-31,South,Kochi,Home,Storage Box,1,630.39,0.0,630.39,198.88,Online,Consumer
+ORD-00724,2024-11-01,East,Bhubaneswar,Office Supplies,Whiteboard,1,1999.06,0.0,1999.06,502.79,Retail Store,Consumer
+ORD-01051,2024-11-01,South,Bengaluru,Books,Business Book,2,604.21,0.0,1208.42,374.0,Online,Small Business
+ORD-01142,2024-11-01,North,Jaipur,Books,Design Handbook,3,1210.26,0.0,3630.78,874.85,Retail Store,Small Business
+ORD-01536,2024-11-01,North,Dehradun,Clothing,Jacket,1,3589.63,0.0,3589.63,1117.6,Retail Store,Consumer
+ORD-00009,2024-11-03,East,Ranchi,Electronics,Monitor,2,11720.65,0.1,21097.17,846.82,Online,Consumer
+ORD-00363,2024-11-03,East,Bhubaneswar,Electronics,Monitor,5,11713.39,0.0,58566.95,6821.93,Online,Consumer
+ORD-00868,2024-11-03,South,Chennai,Books,Business Book,5,623.24,0.05,2960.39,1006.32,Online,Enterprise
+ORD-01362,2024-11-03,South,Coimbatore,Home,Storage Box,1,589.49,0.15,501.07,98.51,Online,Consumer
+ORD-01459,2024-11-03,East,Bhubaneswar,Office Supplies,Pen Set,1,159.54,0.0,159.54,65.85,Online,Consumer
+ORD-00367,2024-11-04,West,Surat,Books,Business Book,1,547.6,0.25,410.7,55.61,Marketplace,Small Business
+ORD-00169,2024-11-05,West,Panaji,Home,Water Bottle,2,430.66,0.1,775.19,162.03,Online,Small Business
+ORD-00571,2024-11-05,South,Bengaluru,Home,Water Bottle,4,428.69,0.1,1543.28,466.38,Marketplace,Small Business
+ORD-00930,2024-11-05,East,Ranchi,Books,Exam Guide,2,527.04,0.15,895.97,246.13,Online,Small Business
+ORD-01128,2024-11-06,North,Jaipur,Books,Design Handbook,1,1075.93,0.2,860.74,100.37,Retail Store,Consumer
+ORD-00469,2024-11-07,West,Pune,Electronics,Monitor,2,13656.13,0.2,21849.81,683.17,Online,Enterprise
+ORD-00835,2024-11-07,East,Guwahati,Books,Design Handbook,2,1190.19,0.1,2142.34,679.07,Online,Consumer
+ORD-01136,2024-11-07,South,Coimbatore,Home,Storage Box,5,650.15,0.2,2600.6,515.64,Marketplace,Enterprise
+ORD-01510,2024-11-07,South,Coimbatore,Books,Business Book,1,625.0,0.15,531.25,141.38,Online,Consumer
+ORD-01543,2024-11-08,North,Lucknow,Home,Storage Box,4,733.45,0.15,2493.73,469.17,Online,Consumer
+ORD-00991,2024-11-09,South,Chennai,Clothing,Sneakers,1,2909.99,0.15,2473.49,334.17,Online,Consumer
+ORD-01320,2024-11-09,North,Chandigarh,Office Supplies,Backpack,1,1446.65,0.1,1301.99,286.23,Online,Small Business
+ORD-01470,2024-11-09,South,Hyderabad,Electronics,Wireless Mouse,2,719.97,0.15,1223.95,95.37,Online,Consumer
+ORD-00018,2024-11-10,North,Delhi,Electronics,Monitor,3,13077.44,0.1,35309.09,4918.44,Retail Store,Enterprise
+ORD-00575,2024-11-10,West,Pune,Office Supplies,Notebook Pack,1,245.31,0.1,220.78,62.84,Online,Small Business
+ORD-00476,2024-11-11,South,Bengaluru,Home,Water Bottle,3,473.91,0.0,1421.73,454.23,Online,Small Business
+ORD-01416,2024-11-11,West,Ahmedabad,Books,Data Science Book,2,863.25,0.1,1553.85,353.57,Online,Enterprise
+ORD-00020,2024-11-12,North,Jaipur,Clothing,Jeans,1,2037.93,0.05,1936.03,466.43,Retail Store,Consumer
+ORD-00125,2024-11-12,West,Mumbai,Electronics,Keyboard,1,1434.01,0.2,1147.21,97.37,Retail Store,Small Business
+ORD-01084,2024-11-13,West,Pune,Office Supplies,Notebook Pack,4,272.3,0.0,1089.2,372.64,Online,Consumer
+ORD-00061,2024-11-14,East,Kolkata,Books,Business Book,1,631.1,0.2,504.88,131.02,Retail Store,Consumer
+ORD-00419,2024-11-14,North,Jaipur,Electronics,Monitor,2,12138.25,0.0,24276.5,3059.38,Online,Small Business
+ORD-00693,2024-11-14,East,Ranchi,Home,Water Bottle,3,444.59,0.15,1133.7,226.74,Retail Store,Consumer
+ORD-01410,2024-11-14,North,Lucknow,Books,Business Book,5,555.59,0.0,2777.95,843.67,Online,Consumer
+ORD-01565,2024-11-15,North,Lucknow,Books,Design Handbook,3,1107.37,0.0,3322.11,800.78,Online,Consumer
+ORD-00351,2024-11-17,East,Guwahati,Clothing,Jacket,3,3079.11,0.0,9237.33,2479.5,Online,Enterprise
+ORD-00544,2024-11-17,North,Delhi,Office Supplies,Pen Set,1,189.51,0.05,180.03,73.49,Marketplace,Small Business
+ORD-00660,2024-11-17,East,Patna,Home,Storage Box,4,587.46,0.0,2349.84,562.12,Marketplace,Enterprise
+ORD-00156,2024-11-18,West,Pune,Books,Business Book,1,575.9,0.0,575.9,182.57,Retail Store,Consumer
+ORD-00424,2024-11-18,North,Chandigarh,Electronics,Headphones,2,2494.96,0.1,4490.93,956.97,Online,Consumer
+ORD-00828,2024-11-18,West,Ahmedabad,Home,Storage Box,1,718.13,0.05,682.22,163.77,Marketplace,Consumer
+ORD-00289,2024-11-19,North,Dehradun,Clothing,Sneakers,1,2729.13,0.0,2729.13,554.65,Marketplace,Small Business
+ORD-00614,2024-11-19,North,Dehradun,Office Supplies,Backpack,5,1419.21,0.0,7096.05,1962.32,Online,Enterprise
+ORD-01216,2024-11-19,East,Patna,Clothing,Jeans,2,1853.78,0.2,2966.05,325.43,Online,Consumer
+ORD-01329,2024-11-20,East,Ranchi,Home,Desk Lamp,2,1282.62,0.25,1923.93,186.61,Online,Small Business
+ORD-00401,2024-11-21,South,Chennai,Home,Office Chair,3,8810.76,0.0,26432.28,5953.93,Online,Consumer
+ORD-00612,2024-11-21,North,Lucknow,Books,Design Handbook,3,1119.17,0.1,3021.76,707.86,Marketplace,Small Business
+ORD-00894,2024-11-21,West,Surat,Electronics,Headphones,4,2710.09,0.2,8672.29,891.91,Online,Consumer
+ORD-01097,2024-11-21,East,Patna,Electronics,Wireless Mouse,1,849.16,0.05,806.7,168.21,Online,Consumer
+ORD-01265,2024-11-21,East,Ranchi,Clothing,Sneakers,2,2996.96,0.15,5094.83,655.76,Retail Store,Consumer
+ORD-00416,2024-11-22,West,Panaji,Home,Storage Box,1,708.98,0.25,531.74,7.0,Online,Consumer
+ORD-00580,2024-11-22,North,Jaipur,Home,Water Bottle,1,502.45,0.1,452.2,100.12,Online,Small Business
+ORD-00804,2024-11-22,East,Ranchi,Clothing,Jeans,1,1635.67,0.15,1390.32,215.56,Online,Consumer
+ORD-01345,2024-11-22,North,Lucknow,Office Supplies,Whiteboard,4,1931.29,0.15,6566.39,1142.09,Online,Small Business
+ORD-00356,2024-11-23,West,Ahmedabad,Clothing,Sneakers,2,2986.2,0.05,5673.78,918.11,Online,Consumer
+ORD-00944,2024-11-23,North,Chandigarh,Home,Desk Lamp,1,1271.55,0.0,1271.55,390.6,Marketplace,Consumer
+ORD-01122,2024-11-23,North,Dehradun,Electronics,Wireless Mouse,3,871.5,0.05,2483.78,646.87,Retail Store,Small Business
+ORD-00300,2024-11-24,South,Chennai,Clothing,Sneakers,1,3097.43,0.05,2942.56,613.96,Online,Consumer
+ORD-00547,2024-11-24,East,Patna,Home,Water Bottle,1,413.49,0.15,351.47,60.01,Online,Small Business
+ORD-01027,2024-11-24,East,Patna,Office Supplies,Notebook Pack,1,226.93,0.2,181.54,37.27,Online,Consumer
+ORD-00466,2024-11-25,North,Chandigarh,Books,Data Science Book,1,900.78,0.15,765.66,162.91,Online,Small Business
+ORD-00781,2024-11-25,East,Patna,Home,Storage Box,3,643.4,0.05,1833.69,649.32,Online,Consumer
+ORD-00253,2024-11-26,North,Chandigarh,Clothing,Sneakers,2,3190.04,0.15,5423.07,1030.55,Online,Consumer
+ORD-00387,2024-11-26,South,Hyderabad,Books,Design Handbook,1,1067.23,0.05,1013.87,271.17,Online,Consumer
+ORD-00617,2024-11-26,North,Delhi,Books,Design Handbook,4,1024.46,0.15,3483.16,676.11,Marketplace,Enterprise
+ORD-00847,2024-11-26,North,Delhi,Home,Desk Lamp,1,1267.92,0.25,950.94,108.32,Online,Consumer
+ORD-00906,2024-11-26,East,Ranchi,Books,Design Handbook,1,1180.77,0.0,1180.77,417.29,Online,Small Business
+ORD-01244,2024-11-26,South,Kochi,Electronics,Keyboard,2,1347.02,0.1,2424.64,370.39,Online,Consumer
+ORD-01559,2024-11-26,East,Guwahati,Clothing,T-Shirt,3,703.55,0.15,1794.05,284.15,Retail Store,Consumer
+ORD-00197,2024-11-27,South,Coimbatore,Clothing,T-Shirt,1,745.75,0.2,596.6,79.66,Retail Store,Consumer
+ORD-00243,2024-11-28,South,Bengaluru,Home,Storage Box,1,601.82,0.1,541.64,119.56,Marketplace,Enterprise
+ORD-00684,2024-11-28,West,Mumbai,Clothing,Sneakers,2,2686.29,0.1,4835.32,709.4,Marketplace,Consumer
+ORD-00825,2024-11-28,West,Panaji,Office Supplies,Notebook Pack,5,234.45,0.05,1113.64,361.74,Retail Store,Consumer
+ORD-01224,2024-11-28,South,Kochi,Clothing,Jeans,1,1692.06,0.1,1522.85,379.84,Online,Consumer
+ORD-00850,2024-11-29,West,Ahmedabad,Office Supplies,Whiteboard,3,2153.48,0.15,5491.37,200.62,Online,Consumer
+ORD-01326,2024-12-01,East,Bhubaneswar,Office Supplies,Notebook Pack,3,247.44,0.15,630.97,179.82,Online,Consumer
+ORD-00979,2024-12-02,West,Ahmedabad,Clothing,Sneakers,2,2938.63,0.05,5583.4,990.42,Retail Store,Consumer
+ORD-00967,2024-12-03,North,Delhi,Office Supplies,Backpack,1,1699.43,0.1,1529.49,375.05,Online,Consumer
+ORD-01542,2024-12-03,North,Dehradun,Home,Office Chair,2,8552.68,0.0,17105.36,4774.18,Online,Enterprise
+ORD-01123,2024-12-04,South,Coimbatore,Office Supplies,Pen Set,3,178.08,0.1,480.82,179.89,Retail Store,Enterprise
+ORD-00092,2024-12-05,South,Kochi,Books,Business Book,2,664.47,0.2,1063.15,197.84,Retail Store,Enterprise
+ORD-00431,2024-12-05,South,Coimbatore,Office Supplies,Pen Set,2,195.09,0.15,331.65,95.53,Online,Consumer
+ORD-00754,2024-12-05,East,Ranchi,Clothing,Jeans,5,1690.28,0.1,7606.26,2047.28,Online,Consumer
+ORD-00360,2024-12-07,West,Surat,Clothing,Sneakers,1,3073.1,0.1,2765.79,559.32,Online,Small Business
+ORD-00980,2024-12-07,West,Mumbai,Electronics,Wireless Mouse,3,865.76,0.1,2337.55,505.94,Retail Store,Small Business
+ORD-01143,2024-12-07,North,Chandigarh,Office Supplies,Notebook Pack,4,277.15,0.0,1108.6,366.7,Marketplace,Consumer
+ORD-01281,2024-12-07,South,Bengaluru,Home,Storage Box,3,592.49,0.0,1777.47,445.19,Marketplace,Consumer
+ORD-00086,2024-12-08,West,Surat,Electronics,Wireless Mouse,1,797.06,0.15,677.5,62.47,Marketplace,Enterprise
+ORD-00462,2024-12-08,North,Chandigarh,Electronics,Wireless Mouse,1,738.45,0.0,738.45,118.02,Online,Consumer
+ORD-01285,2024-12-08,North,Lucknow,Office Supplies,Whiteboard,1,2151.91,0.0,2151.91,409.66,Online,Enterprise
+ORD-01507,2024-12-09,North,Chandigarh,Books,Data Science Book,2,958.86,0.1,1725.95,402.2,Retail Store,Small Business
+ORD-01217,2024-12-10,South,Chennai,Home,Office Chair,5,8585.5,0.1,38634.75,4136.35,Retail Store,Consumer
+ORD-01406,2024-12-10,East,Kolkata,Home,Desk Lamp,3,1272.13,0.05,3625.57,890.61,Retail Store,Small Business
+ORD-00436,2024-12-11,North,Jaipur,Electronics,Headphones,1,2342.91,0.15,1991.47,447.37,Retail Store,Consumer
+ORD-00738,2024-12-11,West,Panaji,Home,Storage Box,1,682.74,0.2,546.19,23.42,Online,Consumer
+ORD-00210,2024-12-12,North,Lucknow,Clothing,T-Shirt,1,734.63,0.1,661.17,174.02,Online,Consumer
+ORD-00251,2024-12-12,South,Kochi,Books,Design Handbook,4,1029.89,0.2,3295.65,809.0,Online,Consumer
+ORD-00674,2024-12-13,West,Pune,Books,Data Science Book,1,833.5,0.1,750.15,226.77,Marketplace,Consumer
+ORD-00790,2024-12-13,South,Bengaluru,Clothing,Jeans,1,1750.04,0.15,1487.53,207.63,Retail Store,Small Business
+ORD-00916,2024-12-13,East,Patna,Office Supplies,Notebook Pack,2,246.34,0.0,492.68,176.3,Online,Consumer
+ORD-00298,2024-12-14,South,Bengaluru,Office Supplies,Notebook Pack,2,233.04,0.0,466.08,176.95,Online,Consumer
+ORD-00646,2024-12-14,East,Guwahati,Office Supplies,Notebook Pack,4,277.46,0.0,1109.84,465.48,Retail Store,Consumer
+ORD-00771,2024-12-15,South,Hyderabad,Home,Water Bottle,2,510.77,0.0,1021.54,331.45,Online,Consumer
+ORD-01253,2024-12-15,West,Panaji,Electronics,Monitor,1,11412.01,0.0,11412.01,1740.84,Online,Consumer
+ORD-01526,2024-12-15,North,Dehradun,Electronics,Headphones,2,2467.65,0.1,4441.77,427.97,Online,Small Business
+ORD-00062,2024-12-16,East,Kolkata,Clothing,Jacket,1,2902.74,0.05,2757.6,581.35,Retail Store,Consumer
+ORD-00227,2024-12-16,West,Ahmedabad,Electronics,Keyboard,4,1603.87,0.15,5453.16,628.17,Online,Consumer
+ORD-00912,2024-12-16,North,Chandigarh,Office Supplies,Notebook Pack,4,284.01,0.1,1022.44,331.14,Online,Small Business
+ORD-01081,2024-12-16,West,Mumbai,Home,Water Bottle,3,476.72,0.05,1358.65,367.83,Online,Enterprise
+ORD-00723,2024-12-17,North,Dehradun,Electronics,Keyboard,1,1609.13,0.15,1367.76,52.9,Online,Consumer
+ORD-00456,2024-12-18,East,Bhubaneswar,Electronics,Keyboard,2,1628.81,0.1,2931.86,614.74,Online,Consumer
+ORD-00655,2024-12-18,North,Lucknow,Office Supplies,Whiteboard,1,1999.13,0.1,1799.22,364.36,Marketplace,Small Business
+ORD-01228,2024-12-18,South,Bengaluru,Clothing,Jacket,5,3153.06,0.0,15765.3,2536.63,Retail Store,Consumer
+ORD-01155,2024-12-19,East,Ranchi,Clothing,Jacket,2,3380.19,0.0,6760.38,1603.16,Retail Store,Consumer
+ORD-01408,2024-12-21,East,Patna,Electronics,Keyboard,1,1470.39,0.1,1323.35,146.81,Marketplace,Consumer
+ORD-01273,2024-12-22,North,Jaipur,Home,Office Chair,1,7226.46,0.0,7226.46,1688.03,Online,Consumer
+ORD-01361,2024-12-22,North,Chandigarh,Books,Exam Guide,1,556.34,0.05,528.52,163.57,Online,Consumer
+ORD-00814,2024-12-23,South,Kochi,Clothing,Jacket,2,3161.62,0.25,4742.43,313.19,Online,Small Business
+ORD-01017,2024-12-23,North,Chandigarh,Books,Business Book,1,530.16,0.0,530.16,188.05,Marketplace,Enterprise
+ORD-01514,2024-12-23,East,Bhubaneswar,Books,Business Book,1,627.27,0.05,595.91,180.36,Retail Store,Consumer
+ORD-01215,2024-12-24,South,Hyderabad,Home,Office Chair,1,8275.12,0.05,7861.36,1473.19,Marketplace,Consumer
+ORD-00444,2024-12-25,South,Hyderabad,Electronics,Wireless Mouse,2,783.2,0.2,1253.12,41.67,Retail Store,Small Business
+ORD-00509,2024-12-25,South,Bengaluru,Clothing,T-Shirt,2,672.71,0.1,1210.88,444.79,Online,Enterprise
+ORD-00460,2024-12-26,North,Delhi,Clothing,T-Shirt,2,661.95,0.1,1191.51,498.16,Retail Store,Small Business
+ORD-01093,2024-12-26,East,Bhubaneswar,Home,Office Chair,2,7344.95,0.15,12486.41,903.39,Retail Store,Consumer
+ORD-00642,2024-12-27,East,Kolkata,Office Supplies,Notebook Pack,1,239.69,0.3,167.78,40.84,Online,Consumer
+ORD-00996,2024-12-27,West,Panaji,Clothing,T-Shirt,2,761.0,0.15,1293.7,362.75,Marketplace,Consumer
+ORD-01373,2024-12-27,South,Chennai,Home,Office Chair,1,8880.35,0.15,7548.3,968.81,Marketplace,Consumer
+ORD-00250,2024-12-28,East,Bhubaneswar,Home,Desk Lamp,1,1274.4,0.05,1210.68,322.12,Marketplace,Consumer
+ORD-01438,2024-12-28,East,Guwahati,Clothing,Jacket,2,3111.05,0.1,5599.89,992.9,Online,Consumer
+ORD-01163,2024-12-29,North,Delhi,Office Supplies,Backpack,1,1720.38,0.0,1720.38,583.6,Online,Enterprise
+ORD-00438,2024-12-30,South,Chennai,Clothing,Sneakers,1,3009.62,0.2,2407.7,261.32,Retail Store,Enterprise
+ORD-01460,2024-12-30,North,Chandigarh,Home,Storage Box,3,706.08,0.2,1694.59,327.06,Retail Store,Consumer
+ORD-00506,2024-12-31,West,Pune,Books,Design Handbook,2,1010.09,0.0,2020.18,510.43,Retail Store,Consumer
+ORD-01516,2024-12-31,East,Patna,Home,Desk Lamp,1,1084.32,0.2,867.46,94.94,Retail Store,Small Business
+ORD-00727,2025-01-01,North,Dehradun,Home,Desk Lamp,2,1239.7,0.0,2479.4,660.15,Online,Consumer
+ORD-00885,2025-01-01,East,Ranchi,Electronics,Keyboard,4,1332.98,0.2,4265.54,580.86,Retail Store,Enterprise
+ORD-00174,2025-01-02,South,Hyderabad,Office Supplies,Notebook Pack,1,267.72,0.1,240.95,84.9,Retail Store,Enterprise
+ORD-00934,2025-01-02,South,Bengaluru,Books,Data Science Book,2,974.85,0.1,1754.73,443.83,Online,Small Business
+ORD-01140,2025-01-02,South,Coimbatore,Books,Business Book,1,610.91,0.0,610.91,193.39,Online,Consumer
+ORD-01146,2025-01-02,North,Delhi,Home,Office Chair,4,7355.78,0.15,25009.65,3191.14,Marketplace,Small Business
+ORD-00926,2025-01-03,West,Panaji,Home,Storage Box,2,616.37,0.15,1047.83,124.46,Retail Store,Small Business
+ORD-00940,2025-01-03,South,Chennai,Electronics,Wireless Mouse,2,843.44,0.0,1686.88,309.14,Retail Store,Consumer
+ORD-01070,2025-01-03,North,Chandigarh,Home,Desk Lamp,2,1117.66,0.15,1900.02,216.47,Marketplace,Consumer
+ORD-01597,2025-01-03,East,Patna,Electronics,Wireless Mouse,2,748.72,0.25,1123.08,-47.42,Online,Consumer
+ORD-00176,2025-01-04,East,Ranchi,Electronics,Keyboard,2,1639.69,0.1,2951.44,459.48,Marketplace,Consumer
+ORD-00177,2025-01-04,North,Dehradun,Clothing,Jacket,3,3293.17,0.2,7903.61,1375.54,Marketplace,Enterprise
+ORD-00562,2025-01-04,West,Surat,Home,Desk Lamp,1,1237.9,0.15,1052.22,258.32,Marketplace,Small Business
+ORD-00969,2025-01-05,South,Kochi,Clothing,Jeans,1,1928.36,0.0,1928.36,654.51,Online,Consumer
+ORD-00973,2025-01-05,East,Bhubaneswar,Electronics,Headphones,1,2412.78,0.2,1930.22,36.8,Retail Store,Small Business
+ORD-01195,2025-01-06,West,Ahmedabad,Office Supplies,Pen Set,1,178.43,0.15,151.67,34.61,Online,Small Business
+ORD-01336,2025-01-06,North,Delhi,Office Supplies,Backpack,2,1575.1,0.0,3150.2,802.19,Marketplace,Small Business
+ORD-00703,2025-01-07,South,Chennai,Electronics,Monitor,3,12215.65,0.15,31149.91,1324.94,Retail Store,Consumer
+ORD-00740,2025-01-07,North,Dehradun,Home,Desk Lamp,2,1310.01,0.0,2620.02,775.16,Retail Store,Consumer
+ORD-00795,2025-01-08,East,Ranchi,Electronics,Wireless Mouse,1,821.8,0.1,739.62,68.33,Online,Consumer
+ORD-00909,2025-01-09,South,Chennai,Home,Water Bottle,1,488.17,0.15,414.94,72.6,Online,Consumer
+ORD-01196,2025-01-09,East,Kolkata,Electronics,Headphones,3,2602.83,0.25,5856.37,327.68,Online,Consumer
+ORD-00111,2025-01-10,West,Mumbai,Clothing,Jeans,2,1630.77,0.1,2935.39,597.59,Online,Enterprise
+ORD-00465,2025-01-10,East,Ranchi,Clothing,Jacket,1,3515.53,0.0,3515.53,1003.64,Retail Store,Small Business
+ORD-00454,2025-01-11,South,Coimbatore,Electronics,Monitor,1,12701.79,0.15,10796.52,841.26,Retail Store,Consumer
+ORD-00457,2025-01-11,North,Delhi,Office Supplies,Pen Set,2,182.39,0.2,291.82,87.99,Online,Consumer
+ORD-00864,2025-01-11,South,Hyderabad,Clothing,T-Shirt,1,650.35,0.0,650.35,222.91,Online,Consumer
+ORD-00221,2025-01-12,West,Pune,Home,Desk Lamp,3,1106.4,0.15,2821.32,397.63,Marketplace,Small Business
+ORD-01485,2025-01-12,North,Delhi,Clothing,Jeans,3,1985.34,0.3,4169.21,453.72,Online,Consumer
+ORD-00701,2025-01-13,North,Delhi,Home,Office Chair,5,7678.39,0.25,28793.96,1894.82,Online,Consumer
+ORD-00044,2025-01-14,North,Dehradun,Home,Storage Box,1,595.1,0.15,505.83,75.63,Retail Store,Consumer
+ORD-00609,2025-01-14,South,Coimbatore,Books,Design Handbook,3,1244.16,0.2,2985.98,395.47,Retail Store,Consumer
+ORD-01022,2025-01-14,West,Surat,Books,Data Science Book,2,940.35,0.0,1880.7,460.77,Online,Consumer
+ORD-01111,2025-01-14,West,Panaji,Electronics,Headphones,4,2540.17,0.0,10160.68,1924.18,Marketplace,Small Business
+ORD-00757,2025-01-15,South,Kochi,Home,Office Chair,1,8605.99,0.0,8605.99,2226.36,Marketplace,Consumer
+ORD-00800,2025-01-15,South,Coimbatore,Books,Business Book,3,580.09,0.2,1392.22,344.79,Marketplace,Small Business
+ORD-00352,2025-01-16,East,Guwahati,Electronics,Wireless Mouse,1,907.89,0.0,907.89,261.06,Marketplace,Consumer
+ORD-00667,2025-01-16,North,Delhi,Office Supplies,Backpack,3,1599.98,0.2,3839.95,487.54,Online,Consumer
+ORD-00832,2025-01-16,West,Pune,Clothing,Jeans,1,1783.21,0.1,1604.89,357.05,Retail Store,Enterprise
+ORD-01312,2025-01-16,West,Ahmedabad,Office Supplies,Notebook Pack,1,281.34,0.1,253.21,72.42,Retail Store,Small Business
+ORD-01414,2025-01-16,South,Hyderabad,Office Supplies,Whiteboard,1,2273.17,0.2,1818.54,53.69,Retail Store,Enterprise
+ORD-01540,2025-01-16,South,Bengaluru,Clothing,Jeans,5,1923.59,0.0,9617.95,2976.51,Marketplace,Consumer
+ORD-00137,2025-01-17,South,Hyderabad,Office Supplies,Pen Set,2,201.66,0.2,322.66,92.65,Online,Consumer
+ORD-00192,2025-01-17,West,Surat,Home,Storage Box,2,734.09,0.1,1321.36,259.06,Retail Store,Small Business
+ORD-00737,2025-01-17,North,Delhi,Electronics,Wireless Mouse,1,810.84,0.15,689.21,24.85,Online,Enterprise
+ORD-00269,2025-01-18,North,Jaipur,Electronics,Headphones,1,2254.54,0.1,2029.09,310.02,Online,Consumer
+ORD-01349,2025-01-18,West,Pune,Home,Desk Lamp,2,1183.73,0.2,1893.97,259.49,Retail Store,Consumer
+ORD-00065,2025-01-19,North,Jaipur,Clothing,Jeans,1,1595.34,0.0,1595.34,543.08,Retail Store,Consumer
+ORD-01170,2025-01-19,East,Patna,Electronics,Headphones,2,2213.42,0.0,4426.84,1159.24,Online,Small Business
+ORD-00160,2025-01-20,North,Delhi,Books,Business Book,1,673.95,0.0,673.95,243.85,Retail Store,Consumer
+ORD-00339,2025-01-20,North,Chandigarh,Electronics,Monitor,2,11773.21,0.15,20014.46,371.52,Online,Consumer
+ORD-00528,2025-01-20,West,Surat,Office Supplies,Pen Set,2,160.82,0.2,257.31,78.37,Retail Store,Consumer
+ORD-00573,2025-01-20,South,Kochi,Clothing,Jeans,2,1656.41,0.0,3312.82,1184.11,Retail Store,Small Business
+ORD-01019,2025-01-20,East,Bhubaneswar,Electronics,Keyboard,1,1673.83,0.1,1506.45,256.33,Online,Consumer
+ORD-00446,2025-01-21,South,Chennai,Books,Design Handbook,1,992.57,0.15,843.68,254.43,Retail Store,Consumer
+ORD-00538,2025-01-21,South,Hyderabad,Electronics,Monitor,3,13242.81,0.0,39728.43,9355.1,Online,Small Business
+ORD-00858,2025-01-22,West,Panaji,Office Supplies,Whiteboard,1,2146.72,0.1,1932.05,314.73,Online,Enterprise
+ORD-00952,2025-01-22,North,Delhi,Home,Desk Lamp,2,1266.61,0.15,2153.24,388.76,Retail Store,Small Business
+ORD-00278,2025-01-23,South,Kochi,Clothing,Jeans,1,1829.66,0.1,1646.69,432.25,Online,Consumer
+ORD-00296,2025-01-23,East,Bhubaneswar,Office Supplies,Notebook Pack,2,260.49,0.0,520.98,216.38,Marketplace,Consumer
+ORD-01072,2025-01-23,East,Bhubaneswar,Clothing,Jacket,4,3205.33,0.0,12821.32,3349.06,Online,Consumer
+ORD-00577,2025-01-24,South,Coimbatore,Office Supplies,Notebook Pack,2,258.91,0.05,491.93,143.07,Marketplace,Consumer
+ORD-00697,2025-01-24,West,Mumbai,Books,Business Book,1,637.95,0.05,606.05,177.9,Marketplace,Consumer
+ORD-01024,2025-01-24,West,Pune,Clothing,Sneakers,1,3090.54,0.25,2317.9,12.96,Online,Consumer
+ORD-01302,2025-01-25,West,Panaji,Clothing,T-Shirt,2,752.76,0.2,1204.42,244.03,Retail Store,Consumer
+ORD-00897,2025-01-26,South,Chennai,Home,Office Chair,3,7609.8,0.1,20546.46,4021.43,Online,Consumer
+ORD-01280,2025-01-27,North,Chandigarh,Clothing,Jacket,1,3236.6,0.2,2589.28,336.21,Online,Consumer
+ORD-00099,2025-01-28,West,Ahmedabad,Electronics,Wireless Mouse,1,717.24,0.3,502.07,26.94,Online,Small Business
+ORD-00145,2025-01-28,North,Dehradun,Clothing,Jacket,3,2989.59,0.15,7623.45,1110.62,Retail Store,Consumer
+ORD-00267,2025-01-28,West,Surat,Home,Office Chair,2,7625.73,0.2,12201.17,732.22,Retail Store,Consumer
+ORD-00479,2025-01-28,East,Guwahati,Clothing,T-Shirt,3,719.59,0.0,2158.77,802.45,Online,Consumer
+ORD-01323,2025-01-28,West,Pune,Electronics,Headphones,4,2732.39,0.25,8197.17,379.68,Online,Consumer
+ORD-00141,2025-01-30,East,Bhubaneswar,Clothing,T-Shirt,3,619.72,0.2,1487.33,319.21,Marketplace,Small Business
+ORD-00437,2025-01-30,North,Delhi,Electronics,Headphones,1,2233.85,0.0,2233.85,563.42,Online,Consumer
+ORD-00831,2025-01-30,West,Pune,Clothing,Jeans,2,2042.49,0.25,3063.74,475.69,Online,Consumer
+ORD-00779,2025-01-31,South,Bengaluru,Books,Exam Guide,3,450.85,0.05,1284.92,407.69,Retail Store,Small Business
+ORD-00823,2025-01-31,West,Pune,Home,Desk Lamp,2,1069.58,0.1,1925.24,568.83,Retail Store,Consumer
+ORD-00661,2025-02-01,East,Patna,Home,Water Bottle,1,492.27,0.1,443.04,97.17,Marketplace,Consumer
+ORD-01287,2025-02-01,East,Patna,Home,Desk Lamp,2,1247.76,0.0,2495.52,749.04,Online,Consumer
+ORD-01503,2025-02-01,South,Coimbatore,Home,Office Chair,1,7646.47,0.2,6117.18,509.32,Retail Store,Small Business
+ORD-00432,2025-02-02,South,Bengaluru,Books,Exam Guide,2,463.75,0.1,834.75,224.03,Online,Consumer
+ORD-00741,2025-02-02,South,Hyderabad,Electronics,Keyboard,2,1325.5,0.1,2385.9,326.12,Online,Small Business
+ORD-00896,2025-02-03,North,Jaipur,Office Supplies,Backpack,2,1589.14,0.0,3178.28,1048.83,Online,Small Business
+ORD-00277,2025-02-04,East,Patna,Home,Storage Box,2,612.81,0.15,1041.78,265.67,Retail Store,Small Business
+ORD-00558,2025-02-04,South,Coimbatore,Clothing,Jeans,5,1709.14,0.05,8118.41,1881.84,Online,Consumer
+ORD-00623,2025-02-04,South,Kochi,Office Supplies,Whiteboard,2,1996.27,0.15,3393.66,376.08,Retail Store,Consumer
+ORD-00929,2025-02-04,West,Pune,Clothing,T-Shirt,2,659.63,0.2,1055.41,222.18,Marketplace,Small Business
+ORD-01508,2025-02-04,North,Dehradun,Clothing,Sneakers,2,2915.9,0.1,5248.62,765.09,Online,Consumer
+ORD-00628,2025-02-05,East,Bhubaneswar,Electronics,Headphones,1,2293.48,0.2,1834.78,315.97,Marketplace,Consumer
+ORD-00714,2025-02-06,East,Kolkata,Office Supplies,Notebook Pack,1,223.39,0.15,189.88,35.53,Marketplace,Enterprise
+ORD-01153,2025-02-06,West,Surat,Electronics,Keyboard,5,1522.82,0.0,7614.1,2359.33,Online,Small Business
+ORD-01249,2025-02-06,West,Panaji,Office Supplies,Pen Set,1,194.15,0.05,184.44,70.01,Online,Small Business
+ORD-00586,2025-02-08,East,Patna,Clothing,Jeans,4,2028.62,0.1,7303.03,1946.77,Retail Store,Consumer
+ORD-00997,2025-02-08,South,Kochi,Clothing,Jeans,3,1915.6,0.1,5172.12,1086.4,Retail Store,Consumer
+ORD-00398,2025-02-09,West,Pune,Home,Water Bottle,1,446.75,0.1,402.07,84.88,Marketplace,Consumer
+ORD-01600,2025-02-09,South,Hyderabad,Home,Office Chair,1,8291.26,0.05,7876.7,1160.55,Retail Store,Small Business
+ORD-01354,2025-02-10,East,Patna,Home,Storage Box,3,704.32,0.2,1690.37,341.87,Retail Store,Small Business
+ORD-01477,2025-02-10,South,Bengaluru,Clothing,Jacket,3,3162.11,0.0,9486.33,2056.09,Online,Small Business
+ORD-00461,2025-02-11,North,Jaipur,Clothing,Jacket,2,3411.33,0.2,5458.13,608.33,Online,Small Business
+ORD-01171,2025-02-12,South,Kochi,Home,Water Bottle,2,405.33,0.05,770.13,195.34,Retail Store,Small Business
+ORD-00411,2025-02-13,West,Ahmedabad,Books,Exam Guide,3,470.83,0.15,1200.62,243.42,Online,Consumer
+ORD-00560,2025-02-13,South,Kochi,Clothing,T-Shirt,1,708.73,0.05,673.29,262.56,Retail Store,Consumer
+ORD-00643,2025-02-13,North,Dehradun,Electronics,Monitor,3,12566.69,0.1,33930.06,2511.45,Online,Consumer
+ORD-01415,2025-02-13,South,Bengaluru,Electronics,Keyboard,1,1469.49,0.0,1469.49,300.05,Marketplace,Consumer
+ORD-00015,2025-02-14,South,Hyderabad,Clothing,Sneakers,4,2931.61,0.1,10553.8,2214.37,Marketplace,Consumer
+ORD-01330,2025-02-14,South,Hyderabad,Electronics,Wireless Mouse,2,894.33,0.15,1520.36,175.05,Retail Store,Enterprise
+ORD-01587,2025-02-14,West,Mumbai,Home,Water Bottle,1,496.91,0.25,372.68,52.39,Marketplace,Consumer
+ORD-00248,2025-02-15,West,Ahmedabad,Home,Storage Box,4,687.91,0.2,2201.31,276.85,Online,Small Business
+ORD-00963,2025-02-15,South,Chennai,Electronics,Wireless Mouse,4,807.54,0.2,2584.13,144.29,Online,Consumer
+ORD-00059,2025-02-16,West,Surat,Electronics,Keyboard,1,1488.87,0.15,1265.54,78.48,Online,Consumer
+ORD-00995,2025-02-16,North,Delhi,Office Supplies,Notebook Pack,3,257.36,0.2,617.66,140.97,Online,Enterprise
+ORD-01184,2025-02-16,East,Guwahati,Electronics,Headphones,4,2363.93,0.0,9455.72,1861.63,Online,Consumer
+ORD-01152,2025-02-17,West,Mumbai,Office Supplies,Notebook Pack,4,245.13,0.05,931.49,409.52,Online,Small Business
+ORD-00691,2025-02-18,North,Delhi,Home,Desk Lamp,4,1182.19,0.15,4019.45,920.71,Online,Enterprise
+ORD-00394,2025-02-19,South,Bengaluru,Books,Design Handbook,1,1220.97,0.2,976.78,183.83,Online,Small Business
+ORD-01478,2025-02-19,North,Delhi,Office Supplies,Backpack,2,1449.95,0.05,2754.9,850.48,Online,Consumer
+ORD-00484,2025-02-20,East,Kolkata,Home,Water Bottle,4,445.83,0.0,1783.32,607.14,Online,Small Business
+ORD-00036,2025-02-21,North,Lucknow,Electronics,Keyboard,1,1669.11,0.2,1335.29,143.17,Retail Store,Consumer
+ORD-01567,2025-02-21,East,Bhubaneswar,Electronics,Keyboard,4,1442.41,0.0,5769.64,1428.87,Retail Store,Consumer
+ORD-00035,2025-02-22,East,Patna,Clothing,Sneakers,1,2628.36,0.0,2628.36,797.73,Retail Store,Consumer
+ORD-00726,2025-02-22,North,Delhi,Electronics,Monitor,1,12991.84,0.15,11043.06,444.44,Marketplace,Consumer
+ORD-00986,2025-02-22,East,Ranchi,Office Supplies,Whiteboard,1,2330.8,0.05,2214.26,629.41,Online,Consumer
+ORD-01521,2025-02-22,North,Dehradun,Home,Office Chair,1,8642.2,0.0,8642.2,2436.81,Retail Store,Consumer
+ORD-01458,2025-02-23,East,Patna,Clothing,T-Shirt,1,781.16,0.2,624.93,111.38,Retail Store,Small Business
+ORD-01557,2025-02-23,East,Bhubaneswar,Office Supplies,Backpack,1,1606.06,0.05,1525.76,364.26,Retail Store,Consumer
+ORD-00563,2025-02-24,South,Kochi,Office Supplies,Backpack,4,1517.37,0.15,5159.06,1517.85,Retail Store,Small Business
+ORD-00683,2025-02-24,West,Ahmedabad,Electronics,Keyboard,5,1370.41,0.2,5481.64,433.22,Retail Store,Consumer
+ORD-00312,2025-02-26,East,Kolkata,Home,Storage Box,1,718.84,0.1,646.96,106.53,Online,Consumer
+ORD-01165,2025-02-26,East,Patna,Electronics,Headphones,2,2566.12,0.2,4105.79,382.61,Online,Small Business
+ORD-00027,2025-02-27,East,Ranchi,Clothing,Jacket,1,3606.95,0.25,2705.21,245.76,Online,Consumer
+ORD-00342,2025-02-28,South,Bengaluru,Office Supplies,Backpack,1,1650.18,0.2,1320.14,170.88,Online,Consumer
+ORD-01462,2025-02-28,West,Surat,Clothing,T-Shirt,1,704.95,0.0,704.95,265.67,Retail Store,Consumer
+ORD-00178,2025-03-01,West,Mumbai,Office Supplies,Notebook Pack,1,248.68,0.15,211.38,63.38,Retail Store,Small Business
+ORD-00522,2025-03-01,East,Ranchi,Home,Office Chair,1,8075.88,0.0,8075.88,1582.03,Marketplace,Consumer
+ORD-00551,2025-03-01,East,Ranchi,Clothing,Jeans,1,1705.13,0.1,1534.62,333.68,Marketplace,Consumer
+ORD-00602,2025-03-01,South,Kochi,Books,Business Book,1,670.29,0.05,636.78,192.36,Online,Consumer
+ORD-01176,2025-03-03,West,Pune,Books,Business Book,2,600.15,0.1,1080.27,339.11,Online,Consumer
+ORD-01235,2025-03-03,North,Dehradun,Electronics,Wireless Mouse,1,879.97,0.05,835.97,195.53,Online,Small Business
+ORD-01385,2025-03-04,South,Coimbatore,Office Supplies,Backpack,2,1770.57,0.2,2832.91,438.91,Retail Store,Consumer
+ORD-00473,2025-03-05,South,Coimbatore,Electronics,Monitor,2,11244.67,0.1,20240.41,1776.71,Retail Store,Consumer
+ORD-01212,2025-03-05,North,Delhi,Office Supplies,Whiteboard,1,1878.01,0.05,1784.11,236.12,Retail Store,Enterprise
+ORD-01308,2025-03-05,West,Ahmedabad,Books,Data Science Book,3,914.33,0.1,2468.69,541.6,Marketplace,Consumer
+ORD-00467,2025-03-06,West,Surat,Clothing,Jacket,1,3256.14,0.0,3256.14,863.7,Marketplace,Consumer
+ORD-01263,2025-03-06,West,Mumbai,Home,Storage Box,1,709.37,0.1,638.43,120.64,Retail Store,Enterprise
+ORD-00769,2025-03-07,East,Guwahati,Electronics,Monitor,2,14017.96,0.05,26634.12,6979.64,Online,Small Business
+ORD-01347,2025-03-07,West,Mumbai,Home,Desk Lamp,2,1156.71,0.15,1966.41,291.37,Marketplace,Consumer
+ORD-01257,2025-03-08,South,Hyderabad,Books,Design Handbook,2,1240.23,0.1,2232.41,919.32,Retail Store,Consumer
+ORD-01582,2025-03-08,South,Bengaluru,Home,Storage Box,1,602.13,0.0,602.13,160.3,Online,Enterprise
+ORD-00755,2025-03-09,South,Coimbatore,Books,Design Handbook,1,1028.2,0.3,719.74,9.14,Marketplace,Consumer
+ORD-00860,2025-03-09,South,Kochi,Clothing,T-Shirt,1,734.0,0.05,697.3,236.88,Online,Consumer
+ORD-00625,2025-03-10,South,Hyderabad,Office Supplies,Notebook Pack,1,257.17,0.05,244.31,68.85,Online,Consumer
+ORD-01590,2025-03-11,North,Delhi,Electronics,Monitor,4,12113.02,0.1,43606.87,3255.53,Marketplace,Consumer
+ORD-00215,2025-03-12,South,Coimbatore,Books,Exam Guide,2,498.86,0.05,947.83,320.42,Retail Store,Consumer
+ORD-01190,2025-03-13,West,Panaji,Books,Data Science Book,1,828.86,0.1,745.97,197.96,Online,Consumer
+ORD-01341,2025-03-13,West,Pune,Electronics,Monitor,2,13986.96,0.15,23777.83,1346.31,Marketplace,Consumer
+ORD-01418,2025-03-13,North,Chandigarh,Clothing,Jacket,2,3537.27,0.0,7074.54,2209.63,Online,Small Business
+ORD-00638,2025-03-14,East,Kolkata,Books,Design Handbook,1,1166.07,0.15,991.16,220.07,Marketplace,Enterprise
+ORD-01065,2025-03-14,South,Kochi,Home,Desk Lamp,2,1203.1,0.25,1804.65,32.13,Online,Small Business
+ORD-00103,2025-03-15,North,Jaipur,Home,Water Bottle,5,511.2,0.15,2172.6,351.48,Retail Store,Small Business
+ORD-00223,2025-03-15,South,Kochi,Books,Design Handbook,1,1132.16,0.15,962.34,145.54,Online,Consumer
+ORD-00878,2025-03-15,East,Guwahati,Home,Water Bottle,2,478.54,0.0,957.08,358.44,Online,Small Business
+ORD-00147,2025-03-16,North,Lucknow,Home,Water Bottle,1,462.35,0.15,393.0,131.32,Retail Store,Small Business
+ORD-00448,2025-03-16,South,Kochi,Clothing,Jeans,1,1933.26,0.05,1836.6,578.0,Retail Store,Consumer
+ORD-01110,2025-03-16,North,Lucknow,Electronics,Keyboard,1,1389.76,0.15,1181.3,136.88,Online,Small Business
+ORD-01556,2025-03-16,South,Bengaluru,Books,Data Science Book,2,908.03,0.1,1634.45,262.18,Marketplace,Consumer
+ORD-00676,2025-03-17,East,Kolkata,Home,Office Chair,2,8466.96,0.05,16087.22,2689.2,Retail Store,Consumer
+ORD-01059,2025-03-17,West,Mumbai,Clothing,Jeans,2,1593.15,0.0,3186.3,1101.69,Marketplace,Small Business
+ORD-00249,2025-03-18,East,Kolkata,Home,Office Chair,3,8500.44,0.1,22951.19,1992.37,Marketplace,Consumer
+ORD-01033,2025-03-18,East,Guwahati,Clothing,Sneakers,1,2528.72,0.15,2149.41,175.17,Online,Small Business
+ORD-00236,2025-03-19,West,Surat,Office Supplies,Pen Set,2,195.33,0.05,371.13,126.02,Marketplace,Enterprise
+ORD-00610,2025-03-19,East,Kolkata,Clothing,Sneakers,2,2467.77,0.0,4935.54,1064.56,Retail Store,Consumer
+ORD-01010,2025-03-19,North,Jaipur,Clothing,T-Shirt,2,652.89,0.15,1109.91,239.91,Retail Store,Consumer
+ORD-01389,2025-03-19,South,Kochi,Office Supplies,Whiteboard,1,1868.77,0.1,1681.89,244.41,Marketplace,Consumer
+ORD-00025,2025-03-20,South,Kochi,Books,Business Book,3,528.61,0.0,1585.83,544.39,Online,Consumer
+ORD-00695,2025-03-20,West,Ahmedabad,Office Supplies,Whiteboard,1,1874.72,0.2,1499.78,74.82,Marketplace,Small Business
+ORD-01151,2025-03-20,East,Bhubaneswar,Electronics,Headphones,1,2255.68,0.1,2030.11,351.93,Online,Consumer
+ORD-00225,2025-03-21,South,Chennai,Home,Desk Lamp,1,1316.81,0.15,1119.29,146.74,Online,Consumer
+ORD-00413,2025-03-21,North,Delhi,Electronics,Keyboard,4,1476.01,0.0,5904.04,1562.57,Online,Consumer
+ORD-00402,2025-03-22,East,Ranchi,Office Supplies,Pen Set,2,202.04,0.0,404.08,168.86,Marketplace,Small Business
+ORD-00664,2025-03-22,North,Jaipur,Electronics,Keyboard,1,1670.31,0.2,1336.25,88.42,Retail Store,Enterprise
+ORD-01386,2025-03-22,North,Delhi,Electronics,Headphones,1,2209.82,0.0,2209.82,624.59,Retail Store,Enterprise
+ORD-01255,2025-03-23,East,Bhubaneswar,Electronics,Keyboard,2,1508.05,0.1,2714.49,358.93,Retail Store,Consumer
+ORD-01344,2025-03-23,South,Coimbatore,Clothing,Jeans,2,1737.22,0.1,3127.0,603.49,Retail Store,Consumer
+ORD-00720,2025-03-24,West,Surat,Office Supplies,Notebook Pack,2,240.7,0.1,433.26,128.45,Online,Enterprise
+ORD-01028,2025-03-24,East,Kolkata,Home,Water Bottle,1,438.38,0.15,372.62,53.03,Retail Store,Small Business
+ORD-00131,2025-03-25,East,Guwahati,Electronics,Keyboard,1,1537.16,0.25,1152.87,73.99,Marketplace,Consumer
+ORD-00217,2025-03-25,West,Panaji,Electronics,Headphones,4,2511.59,0.05,9544.04,1992.84,Retail Store,Consumer
+ORD-00722,2025-03-25,West,Mumbai,Clothing,T-Shirt,1,792.02,0.0,792.02,247.85,Marketplace,Small Business
+ORD-00838,2025-03-25,North,Delhi,Office Supplies,Notebook Pack,2,251.07,0.05,477.03,180.67,Online,Consumer
+ORD-01439,2025-03-25,North,Dehradun,Office Supplies,Notebook Pack,2,262.44,0.15,446.15,72.53,Retail Store,Consumer
+ORD-01395,2025-03-26,West,Mumbai,Office Supplies,Pen Set,1,203.06,0.15,172.6,47.0,Retail Store,Small Business
+ORD-00409,2025-03-27,South,Hyderabad,Electronics,Monitor,2,12465.59,0.0,24931.18,5599.91,Online,Consumer
+ORD-01421,2025-03-27,West,Panaji,Books,Exam Guide,2,541.63,0.0,1083.26,363.56,Online,Consumer
+ORD-00144,2025-03-28,South,Kochi,Clothing,Jeans,4,1790.93,0.1,6447.35,1820.3,Marketplace,Consumer
+ORD-00770,2025-03-28,South,Bengaluru,Clothing,Jacket,2,3585.26,0.0,7170.52,1944.49,Marketplace,Small Business
+ORD-00167,2025-03-29,South,Bengaluru,Office Supplies,Backpack,1,1581.49,0.0,1581.49,455.43,Online,Consumer
+ORD-00440,2025-03-29,East,Guwahati,Clothing,Jacket,4,3328.58,0.0,13314.32,3412.24,Marketplace,Enterprise
+ORD-00675,2025-03-29,West,Ahmedabad,Clothing,Jeans,2,1782.69,0.05,3387.11,885.63,Retail Store,Enterprise
+ORD-00400,2025-03-30,South,Hyderabad,Clothing,Jacket,1,3496.67,0.0,3496.67,956.09,Online,Consumer
+ORD-00404,2025-03-31,West,Panaji,Electronics,Headphones,3,2209.06,0.25,4970.39,354.44,Online,Small Business
+ORD-00492,2025-04-03,North,Delhi,Clothing,Sneakers,1,2565.63,0.1,2309.07,286.26,Retail Store,Small Business
+ORD-00619,2025-04-03,West,Pune,Electronics,Monitor,1,11456.17,0.2,9164.94,602.92,Online,Consumer
+ORD-01296,2025-04-03,North,Delhi,Home,Water Bottle,2,494.89,0.0,989.78,385.38,Retail Store,Enterprise
+ORD-01342,2025-04-04,South,Bengaluru,Office Supplies,Pen Set,1,169.76,0.0,169.76,68.81,Retail Store,Consumer
+ORD-00346,2025-04-06,North,Chandigarh,Books,Exam Guide,2,445.7,0.0,891.4,320.78,Retail Store,Small Business
+ORD-00665,2025-04-06,East,Ranchi,Home,Desk Lamp,2,1216.79,0.05,2311.9,524.99,Online,Enterprise
+ORD-00117,2025-04-07,North,Chandigarh,Books,Exam Guide,3,482.1,0.1,1301.67,370.07,Retail Store,Consumer
+ORD-00863,2025-04-07,South,Bengaluru,Books,Exam Guide,3,471.81,0.15,1203.12,286.29,Retail Store,Consumer
+ORD-00886,2025-04-07,West,Ahmedabad,Home,Water Bottle,2,466.57,0.0,933.14,250.41,Marketplace,Small Business
+ORD-01419,2025-04-07,East,Kolkata,Office Supplies,Whiteboard,2,2189.33,0.05,4159.73,1010.48,Online,Consumer
+ORD-00292,2025-04-09,South,Chennai,Electronics,Wireless Mouse,3,907.43,0.0,2722.29,542.67,Online,Consumer
+ORD-00101,2025-04-10,South,Hyderabad,Office Supplies,Pen Set,1,201.27,0.0,201.27,87.2,Online,Enterprise
+ORD-00557,2025-04-10,South,Bengaluru,Home,Office Chair,5,7379.42,0.1,33207.39,6703.63,Marketplace,Small Business
+ORD-00564,2025-04-10,North,Chandigarh,Clothing,Jacket,1,2987.47,0.2,2389.98,169.05,Online,Consumer
+ORD-00208,2025-04-11,West,Ahmedabad,Books,Business Book,1,581.8,0.05,552.71,146.44,Retail Store,Consumer
+ORD-00350,2025-04-11,West,Panaji,Electronics,Wireless Mouse,3,831.92,0.1,2246.18,491.59,Online,Consumer
+ORD-00521,2025-04-11,South,Hyderabad,Office Supplies,Whiteboard,2,2233.74,0.1,4020.73,802.59,Retail Store,Consumer
+ORD-00725,2025-04-11,North,Chandigarh,Electronics,Wireless Mouse,2,804.56,0.1,1448.21,230.3,Marketplace,Consumer
+ORD-00124,2025-04-12,North,Delhi,Home,Water Bottle,3,506.47,0.0,1519.41,460.89,Retail Store,Consumer
+ORD-00530,2025-04-12,East,Ranchi,Home,Water Bottle,3,428.26,0.2,1027.82,173.34,Online,Consumer
+ORD-00302,2025-04-13,East,Kolkata,Electronics,Keyboard,1,1381.43,0.05,1312.36,196.15,Marketplace,Consumer
+ORD-00496,2025-04-13,West,Surat,Clothing,T-Shirt,1,637.23,0.1,573.51,172.38,Online,Small Business
+ORD-00066,2025-04-14,North,Delhi,Clothing,T-Shirt,1,727.07,0.1,654.36,253.39,Marketplace,Enterprise
+ORD-00447,2025-04-14,South,Kochi,Office Supplies,Pen Set,1,193.25,0.2,154.6,45.43,Online,Consumer
+ORD-00662,2025-04-15,North,Dehradun,Office Supplies,Notebook Pack,5,243.16,0.05,1155.01,399.42,Online,Consumer
+ORD-00777,2025-04-15,East,Guwahati,Clothing,T-Shirt,1,644.15,0.0,644.15,251.02,Marketplace,Consumer
+ORD-00377,2025-04-17,West,Surat,Office Supplies,Pen Set,3,163.44,0.0,490.32,209.05,Retail Store,Consumer
+ORD-00475,2025-04-17,North,Delhi,Home,Storage Box,3,662.49,0.0,1987.47,379.53,Online,Consumer
+ORD-01360,2025-04-18,South,Bengaluru,Electronics,Monitor,1,13557.76,0.0,13557.76,2170.47,Retail Store,Consumer
+ORD-00389,2025-04-20,South,Chennai,Electronics,Keyboard,1,1679.28,0.1,1511.35,138.34,Online,Small Business
+ORD-00808,2025-04-20,South,Chennai,Electronics,Wireless Mouse,1,762.3,0.1,686.07,82.55,Marketplace,Consumer
+ORD-00842,2025-04-21,East,Guwahati,Books,Business Book,2,647.06,0.1,1164.71,361.09,Online,Consumer
+ORD-00073,2025-04-22,East,Kolkata,Office Supplies,Notebook Pack,1,241.09,0.05,229.04,86.2,Online,Small Business
+ORD-00981,2025-04-22,North,Delhi,Office Supplies,Whiteboard,3,2208.81,0.1,5963.79,340.09,Online,Small Business
+ORD-01260,2025-04-22,East,Ranchi,Office Supplies,Backpack,3,1538.78,0.2,3693.07,467.73,Retail Store,Consumer
+ORD-01479,2025-04-22,North,Delhi,Clothing,Sneakers,3,3126.16,0.0,9378.48,2917.31,Online,Small Business
+ORD-01237,2025-04-23,North,Dehradun,Electronics,Wireless Mouse,1,831.73,0.15,706.97,58.88,Online,Consumer
+ORD-00594,2025-04-24,North,Lucknow,Clothing,T-Shirt,2,623.9,0.1,1123.02,292.4,Online,Small Business
+ORD-01102,2025-04-24,North,Delhi,Home,Storage Box,4,609.94,0.0,2439.76,660.63,Retail Store,Consumer
+ORD-01264,2025-04-24,North,Chandigarh,Office Supplies,Backpack,3,1817.94,0.05,5181.13,1475.1,Marketplace,Small Business
+ORD-00763,2025-04-25,North,Jaipur,Electronics,Keyboard,1,1430.21,0.05,1358.7,250.54,Retail Store,Consumer
+ORD-00209,2025-04-26,West,Ahmedabad,Electronics,Wireless Mouse,1,812.55,0.0,812.55,246.44,Marketplace,Consumer
+ORD-00238,2025-04-26,West,Surat,Books,Design Handbook,1,1109.07,0.0,1109.07,360.27,Online,Consumer
+ORD-01121,2025-04-26,West,Panaji,Books,Data Science Book,2,872.73,0.0,1745.46,629.2,Online,Small Business
+ORD-00634,2025-04-27,West,Ahmedabad,Home,Water Bottle,3,398.55,0.1,1076.09,265.3,Online,Small Business
+ORD-00729,2025-04-29,East,Patna,Clothing,Jacket,1,3405.46,0.05,3235.19,838.92,Online,Consumer
+ORD-01200,2025-04-29,West,Surat,Books,Exam Guide,1,457.19,0.2,365.75,64.43,Online,Small Business
+ORD-01289,2025-04-30,South,Chennai,Clothing,Jacket,1,3322.58,0.1,2990.32,515.83,Online,Consumer
+ORD-01530,2025-05-01,West,Ahmedabad,Home,Office Chair,4,8137.75,0.3,22785.7,-945.48,Online,Consumer
+ORD-00455,2025-05-03,West,Ahmedabad,Electronics,Keyboard,1,1601.16,0.2,1280.93,178.01,Retail Store,Consumer
+ORD-00539,2025-05-03,West,Surat,Electronics,Wireless Mouse,1,842.8,0.05,800.66,120.87,Retail Store,Small Business
+ORD-01105,2025-05-03,West,Mumbai,Electronics,Keyboard,1,1517.97,0.05,1442.07,246.38,Retail Store,Consumer
+ORD-01159,2025-05-04,North,Lucknow,Clothing,Sneakers,4,2520.19,0.15,8568.65,664.37,Retail Store,Consumer
+ORD-00783,2025-05-05,East,Patna,Clothing,Jeans,1,2028.19,0.15,1723.96,394.11,Online,Small Business
+ORD-00175,2025-05-06,East,Guwahati,Electronics,Headphones,3,2612.32,0.15,6661.42,1339.46,Marketplace,Small Business
+ORD-00784,2025-05-07,East,Patna,Clothing,T-Shirt,1,616.44,0.05,585.62,229.86,Retail Store,Consumer
+ORD-00410,2025-05-08,East,Ranchi,Office Supplies,Whiteboard,1,2330.58,0.05,2214.05,427.71,Online,Consumer
+ORD-00613,2025-05-08,South,Coimbatore,Office Supplies,Notebook Pack,1,283.48,0.0,283.48,106.4,Retail Store,Consumer
+ORD-00970,2025-05-08,North,Delhi,Electronics,Headphones,2,2249.46,0.0,4498.92,1091.1,Online,Enterprise
+ORD-00033,2025-05-09,North,Jaipur,Home,Office Chair,3,7454.25,0.2,17890.2,1140.01,Retail Store,Small Business
+ORD-00006,2025-05-10,North,Lucknow,Office Supplies,Backpack,2,1474.72,0.2,2359.55,154.09,Retail Store,Consumer
+ORD-00190,2025-05-10,West,Surat,Home,Office Chair,1,8130.21,0.25,6097.66,310.56,Online,Consumer
+ORD-00319,2025-05-10,East,Guwahati,Home,Office Chair,3,6957.42,0.0,20872.26,3717.28,Online,Small Business
+ORD-01001,2025-05-10,North,Delhi,Electronics,Monitor,2,11946.98,0.2,19115.17,798.19,Online,Small Business
+ORD-00567,2025-05-11,East,Ranchi,Books,Exam Guide,1,533.03,0.05,506.38,163.46,Marketplace,Consumer
+ORD-00966,2025-05-12,South,Kochi,Clothing,T-Shirt,5,774.48,0.25,2904.3,398.19,Marketplace,Enterprise
+ORD-00412,2025-05-13,North,Lucknow,Books,Design Handbook,5,1040.9,0.0,5204.5,1415.2,Online,Consumer
+ORD-00519,2025-05-13,West,Pune,Electronics,Monitor,5,12694.83,0.1,57126.74,4348.86,Online,Consumer
+ORD-00629,2025-05-13,East,Kolkata,Clothing,Sneakers,1,2558.98,0.15,2175.13,244.26,Online,Small Business
+ORD-01243,2025-05-14,South,Coimbatore,Home,Desk Lamp,2,1265.37,0.15,2151.13,270.22,Retail Store,Consumer
+ORD-01015,2025-05-15,East,Bhubaneswar,Home,Storage Box,2,574.52,0.1,1034.14,135.42,Retail Store,Consumer
+ORD-01532,2025-05-15,South,Bengaluru,Electronics,Headphones,1,2641.27,0.1,2377.14,557.52,Retail Store,Consumer
+ORD-00376,2025-05-16,South,Kochi,Electronics,Keyboard,1,1412.0,0.0,1412.0,286.5,Online,Consumer
+ORD-00837,2025-05-16,South,Coimbatore,Books,Exam Guide,3,486.61,0.0,1459.83,526.44,Retail Store,Consumer
+ORD-00597,2025-05-17,West,Panaji,Books,Design Handbook,1,1145.99,0.1,1031.39,284.13,Retail Store,Consumer
+ORD-00820,2025-05-17,West,Surat,Home,Desk Lamp,1,1272.62,0.1,1145.36,269.95,Marketplace,Enterprise
+ORD-00373,2025-05-18,West,Surat,Home,Storage Box,1,729.15,0.0,729.15,246.97,Online,Consumer
+ORD-00388,2025-05-18,East,Patna,Office Supplies,Pen Set,1,173.76,0.05,165.07,66.8,Marketplace,Small Business
+ORD-00068,2025-05-19,North,Chandigarh,Home,Water Bottle,2,503.98,0.0,1007.96,292.4,Marketplace,Consumer
+ORD-00813,2025-05-19,North,Dehradun,Office Supplies,Whiteboard,5,2355.07,0.1,10597.82,1565.06,Online,Consumer
+ORD-00829,2025-05-19,North,Delhi,Office Supplies,Whiteboard,1,2062.24,0.05,1959.13,354.44,Online,Consumer
+ORD-01472,2025-05-19,East,Bhubaneswar,Electronics,Headphones,2,2330.33,0.2,3728.53,506.2,Retail Store,Consumer
+ORD-01371,2025-05-20,North,Chandigarh,Electronics,Wireless Mouse,3,765.38,0.0,2296.14,461.43,Online,Enterprise
+ORD-00408,2025-05-21,North,Delhi,Office Supplies,Notebook Pack,3,226.28,0.1,610.96,184.13,Online,Enterprise
+ORD-00776,2025-05-21,East,Kolkata,Office Supplies,Backpack,1,1686.06,0.1,1517.45,185.06,Marketplace,Enterprise
+ORD-01301,2025-05-21,North,Lucknow,Electronics,Keyboard,1,1417.12,0.05,1346.26,224.63,Online,Consumer
+ORD-00677,2025-05-22,South,Hyderabad,Office Supplies,Notebook Pack,4,227.03,0.15,771.9,196.76,Marketplace,Consumer
+ORD-01391,2025-05-22,North,Dehradun,Office Supplies,Backpack,1,1457.07,0.2,1165.66,149.91,Online,Consumer
+ORD-01560,2025-05-22,West,Ahmedabad,Office Supplies,Whiteboard,3,2199.37,0.0,6598.11,1443.48,Retail Store,Small Business
+ORD-01545,2025-05-23,North,Jaipur,Clothing,Jeans,3,1767.01,0.15,4505.88,948.25,Retail Store,Consumer
+ORD-01293,2025-05-24,North,Chandigarh,Clothing,T-Shirt,1,774.38,0.2,619.5,130.41,Online,Small Business
+ORD-01483,2025-05-24,North,Dehradun,Clothing,Jeans,1,1760.18,0.15,1496.15,259.89,Online,Consumer
+ORD-01322,2025-05-25,East,Patna,Clothing,T-Shirt,4,707.6,0.2,2264.32,357.59,Online,Consumer
+ORD-00021,2025-05-26,North,Dehradun,Books,Exam Guide,2,477.08,0.2,763.33,187.35,Retail Store,Consumer
+ORD-00733,2025-05-28,West,Surat,Electronics,Wireless Mouse,5,885.66,0.05,4206.89,791.07,Online,Small Business
+ORD-01333,2025-05-29,East,Patna,Clothing,T-Shirt,1,707.72,0.15,601.56,81.45,Marketplace,Consumer
+ORD-01368,2025-05-29,East,Guwahati,Electronics,Monitor,2,13442.3,0.15,22851.91,1752.85,Marketplace,Consumer
+ORD-00357,2025-05-30,South,Kochi,Books,Business Book,4,592.94,0.15,2016.0,398.33,Online,Consumer
+ORD-01254,2025-05-30,East,Kolkata,Clothing,Jacket,1,3584.03,0.1,3225.63,624.12,Marketplace,Enterprise
+ORD-01367,2025-05-30,North,Jaipur,Electronics,Headphones,1,2299.94,0.15,1954.95,347.9,Online,Consumer
+ORD-00957,2025-05-31,West,Mumbai,Books,Design Handbook,2,1175.96,0.05,2234.32,613.99,Online,Consumer
+ORD-01384,2025-06-01,West,Mumbai,Office Supplies,Pen Set,1,172.13,0.2,137.7,32.74,Marketplace,Consumer
+ORD-01495,2025-06-01,West,Ahmedabad,Home,Water Bottle,3,440.67,0.0,1322.01,486.41,Online,Enterprise
+ORD-00481,2025-06-02,North,Chandigarh,Home,Desk Lamp,1,1312.87,0.0,1312.87,469.56,Online,Enterprise
+ORD-00731,2025-06-02,West,Pune,Home,Water Bottle,2,508.14,0.0,1016.28,283.83,Retail Store,Small Business
+ORD-01355,2025-06-02,East,Kolkata,Office Supplies,Whiteboard,1,2250.85,0.05,2138.31,490.84,Retail Store,Consumer
+ORD-00290,2025-06-03,East,Ranchi,Electronics,Wireless Mouse,1,845.0,0.0,845.0,212.6,Retail Store,Enterprise
+ORD-01012,2025-06-03,North,Chandigarh,Clothing,T-Shirt,4,760.2,0.1,2736.72,776.89,Online,Consumer
+ORD-01319,2025-06-03,South,Coimbatore,Books,Design Handbook,2,1128.47,0.0,2256.94,671.3,Online,Small Business
+ORD-01375,2025-06-03,East,Guwahati,Office Supplies,Backpack,1,1787.18,0.05,1697.82,425.54,Online,Consumer
+ORD-00246,2025-06-04,West,Mumbai,Office Supplies,Backpack,3,1740.88,0.0,5222.64,1317.42,Online,Consumer
+ORD-00656,2025-06-04,East,Guwahati,Home,Desk Lamp,1,1337.34,0.05,1270.47,341.34,Retail Store,Consumer
+ORD-00670,2025-06-04,East,Patna,Home,Storage Box,1,720.73,0.2,576.58,105.65,Online,Consumer
+ORD-00354,2025-06-05,East,Patna,Clothing,T-Shirt,1,783.79,0.0,783.79,268.64,Online,Consumer
+ORD-01014,2025-06-05,North,Dehradun,Office Supplies,Notebook Pack,2,267.19,0.15,454.22,129.41,Retail Store,Enterprise
+ORD-01219,2025-06-05,East,Ranchi,Books,Data Science Book,1,807.91,0.2,646.33,84.25,Marketplace,Small Business
+ORD-00707,2025-06-06,West,Ahmedabad,Books,Data Science Book,1,971.97,0.2,777.58,117.11,Retail Store,Small Business
+ORD-00965,2025-06-06,East,Guwahati,Office Supplies,Backpack,1,1517.81,0.15,1290.14,145.8,Online,Small Business
+ORD-01087,2025-06-06,West,Surat,Books,Business Book,1,592.78,0.15,503.86,122.83,Online,Consumer
+ORD-00978,2025-06-07,West,Mumbai,Home,Office Chair,3,7360.23,0.0,22080.69,4520.61,Retail Store,Small Business
+ORD-01214,2025-06-08,North,Dehradun,Home,Desk Lamp,1,1107.22,0.1,996.5,254.42,Online,Small Business
+ORD-00200,2025-06-11,South,Kochi,Home,Desk Lamp,3,1172.8,0.1,3166.56,652.08,Retail Store,Small Business
+ORD-00441,2025-06-11,North,Dehradun,Office Supplies,Whiteboard,1,2392.23,0.2,1913.78,100.53,Online,Small Business
+ORD-00531,2025-06-11,South,Bengaluru,Books,Business Book,2,621.77,0.0,1243.54,438.91,Online,Consumer
+ORD-01186,2025-06-11,West,Mumbai,Office Supplies,Pen Set,2,174.35,0.0,348.7,145.88,Marketplace,Small Business
+ORD-01221,2025-06-11,East,Bhubaneswar,Electronics,Headphones,1,2375.8,0.0,2375.8,806.88,Online,Small Business
+ORD-00739,2025-06-12,East,Patna,Home,Office Chair,2,7076.55,0.05,13445.44,1445.36,Online,Consumer
+ORD-01338,2025-06-12,North,Lucknow,Clothing,T-Shirt,1,655.33,0.0,655.33,220.96,Retail Store,Small Business
+ORD-00636,2025-06-13,East,Bhubaneswar,Electronics,Keyboard,2,1346.24,0.05,2557.86,428.38,Retail Store,Consumer
+ORD-01490,2025-06-13,West,Panaji,Clothing,Sneakers,2,2558.45,0.2,4093.52,567.28,Retail Store,Consumer
+ORD-00515,2025-06-14,South,Chennai,Home,Storage Box,1,672.34,0.0,672.34,180.26,Online,Small Business
+ORD-00921,2025-06-14,West,Mumbai,Electronics,Monitor,2,11166.99,0.0,22333.98,2692.95,Retail Store,Consumer
+ORD-00941,2025-06-14,West,Panaji,Home,Water Bottle,5,433.62,0.15,1842.88,265.35,Retail Store,Consumer
+ORD-00045,2025-06-16,West,Mumbai,Office Supplies,Backpack,2,1599.38,0.05,3038.82,734.54,Online,Small Business
+ORD-00154,2025-06-16,West,Ahmedabad,Clothing,Jeans,1,2017.29,0.1,1815.56,252.02,Marketplace,Small Business
+ORD-00753,2025-06-16,South,Bengaluru,Home,Desk Lamp,2,1104.86,0.2,1767.78,263.24,Retail Store,Consumer
+ORD-01394,2025-06-16,South,Bengaluru,Electronics,Monitor,2,11387.07,0.05,21635.43,2909.42,Marketplace,Small Business
+ORD-01486,2025-06-16,South,Hyderabad,Electronics,Keyboard,2,1696.68,0.1,3054.02,251.22,Retail Store,Small Business
+ORD-00080,2025-06-17,North,Dehradun,Books,Exam Guide,2,567.3,0.0,1134.6,445.92,Retail Store,Consumer
+ORD-00734,2025-06-17,East,Ranchi,Home,Water Bottle,1,472.24,0.1,425.02,101.67,Marketplace,Consumer
+ORD-00933,2025-06-17,East,Kolkata,Home,Storage Box,2,661.19,0.15,1124.02,279.49,Online,Consumer
+ORD-01400,2025-06-17,South,Hyderabad,Home,Storage Box,1,686.37,0.05,652.05,150.41,Retail Store,Small Business
+ORD-00799,2025-06-18,North,Chandigarh,Books,Business Book,4,606.03,0.15,2060.5,495.91,Retail Store,Consumer
+ORD-00746,2025-06-19,South,Chennai,Clothing,Sneakers,2,2956.77,0.15,5026.51,955.93,Marketplace,Consumer
+ORD-00480,2025-06-20,East,Patna,Home,Desk Lamp,2,1323.46,0.15,2249.88,439.8,Marketplace,Consumer
+ORD-00651,2025-06-20,North,Jaipur,Home,Office Chair,5,8705.12,0.0,43525.6,9465.42,Retail Store,Small Business
+ORD-00758,2025-06-20,South,Hyderabad,Office Supplies,Backpack,4,1719.47,0.0,6877.88,1209.55,Online,Consumer
+ORD-01079,2025-06-20,North,Chandigarh,Clothing,Jeans,2,1934.73,0.2,3095.57,462.08,Marketplace,Enterprise
+ORD-00273,2025-06-21,South,Coimbatore,Electronics,Headphones,3,2524.12,0.15,6436.51,891.56,Marketplace,Consumer
+ORD-00341,2025-06-21,South,Hyderabad,Electronics,Headphones,1,2310.59,0.05,2195.06,550.69,Online,Small Business
+ORD-01505,2025-06-21,East,Patna,Office Supplies,Notebook Pack,5,221.2,0.15,940.1,240.55,Online,Consumer
+ORD-00188,2025-06-22,East,Guwahati,Electronics,Monitor,1,12400.38,0.0,12400.38,2389.48,Retail Store,Consumer
+ORD-00891,2025-06-22,East,Ranchi,Home,Storage Box,1,693.11,0.1,623.8,147.85,Retail Store,Consumer
+ORD-01469,2025-06-22,South,Coimbatore,Books,Business Book,2,619.07,0.15,1052.42,345.28,Online,Consumer
+ORD-00029,2025-06-23,East,Bhubaneswar,Electronics,Keyboard,3,1425.74,0.15,3635.64,47.39,Retail Store,Small Business
+ORD-00067,2025-06-23,South,Bengaluru,Clothing,Jeans,2,2019.82,0.05,3837.66,1085.6,Online,Consumer
+ORD-00450,2025-06-23,East,Ranchi,Clothing,T-Shirt,5,660.33,0.2,2641.32,338.92,Online,Small Business
+ORD-00869,2025-06-23,East,Patna,Electronics,Headphones,5,2384.85,0.0,11924.25,3457.85,Online,Consumer
+ORD-01245,2025-06-23,North,Lucknow,Home,Storage Box,3,635.73,0.0,1907.19,540.51,Online,Small Business
+ORD-00730,2025-06-24,West,Mumbai,Clothing,Jeans,1,1834.61,0.15,1559.42,292.27,Retail Store,Consumer
+ORD-01107,2025-06-24,North,Dehradun,Electronics,Wireless Mouse,3,711.34,0.1,1920.62,233.19,Marketplace,Consumer
+ORD-00063,2025-06-25,North,Lucknow,Clothing,Jacket,4,3196.84,0.1,11508.62,2273.24,Online,Consumer
+ORD-00649,2025-06-25,North,Delhi,Books,Business Book,3,548.71,0.0,1646.13,623.6,Online,Small Business
+ORD-00993,2025-06-25,South,Coimbatore,Books,Business Book,4,630.44,0.2,2017.41,321.02,Online,Small Business
+ORD-01139,2025-06-25,East,Ranchi,Electronics,Headphones,2,2664.95,0.1,4796.91,1000.62,Online,Consumer
+ORD-00294,2025-06-27,South,Hyderabad,Electronics,Keyboard,1,1657.01,0.25,1242.76,82.31,Online,Consumer
+ORD-00426,2025-06-27,South,Chennai,Office Supplies,Pen Set,1,184.05,0.2,147.24,34.25,Marketplace,Consumer
+ORD-00162,2025-06-28,South,Coimbatore,Office Supplies,Backpack,1,1809.14,0.05,1718.68,506.48,Online,Consumer
+ORD-00272,2025-06-29,West,Ahmedabad,Electronics,Wireless Mouse,4,799.28,0.0,3197.12,755.64,Marketplace,Consumer
+ORD-01447,2025-06-29,East,Ranchi,Office Supplies,Whiteboard,3,1954.07,0.15,4982.88,643.72,Retail Store,Consumer
+ORD-00052,2025-06-30,West,Pune,Electronics,Headphones,1,2448.44,0.15,2081.17,222.23,Retail Store,Small Business
+ORD-01002,2025-06-30,West,Pune,Clothing,Jeans,2,1952.02,0.0,3904.04,993.26,Marketplace,Consumer
+ORD-01578,2025-06-30,South,Hyderabad,Office Supplies,Backpack,2,1482.94,0.1,2669.29,748.22,Online,Consumer
+ORD-00166,2025-07-01,East,Bhubaneswar,Home,Desk Lamp,1,1324.06,0.05,1257.86,370.79,Online,Consumer
+ORD-00568,2025-07-01,North,Chandigarh,Electronics,Keyboard,3,1518.91,0.05,4328.89,979.71,Online,Consumer
+ORD-01270,2025-07-01,East,Bhubaneswar,Clothing,Sneakers,3,2593.57,0.1,7002.64,1141.3,Online,Consumer
+ORD-00257,2025-07-02,East,Kolkata,Office Supplies,Pen Set,4,161.56,0.25,484.68,133.7,Online,Consumer
+ORD-00266,2025-07-02,East,Patna,Electronics,Keyboard,1,1623.54,0.0,1623.54,309.0,Retail Store,Consumer
+ORD-00523,2025-07-02,West,Panaji,Electronics,Keyboard,1,1518.59,0.25,1138.94,-96.62,Online,Consumer
+ORD-01359,2025-07-02,North,Chandigarh,Books,Business Book,1,580.22,0.15,493.19,91.11,Online,Consumer
+ORD-00415,2025-07-03,South,Chennai,Electronics,Keyboard,2,1487.48,0.05,2826.21,410.41,Online,Enterprise
+ORD-01115,2025-07-03,South,Kochi,Office Supplies,Notebook Pack,1,273.06,0.25,204.8,38.4,Online,Consumer
+ORD-01334,2025-07-03,South,Bengaluru,Office Supplies,Notebook Pack,1,248.07,0.15,210.86,38.79,Marketplace,Consumer
+ORD-00385,2025-07-04,North,Dehradun,Home,Storage Box,3,612.8,0.2,1470.72,178.7,Retail Store,Consumer
+ORD-00082,2025-07-05,East,Patna,Home,Desk Lamp,1,1273.84,0.15,1082.76,223.6,Marketplace,Enterprise
+ORD-00791,2025-07-05,South,Hyderabad,Electronics,Headphones,1,2662.77,0.2,2130.22,163.8,Online,Consumer
+ORD-00792,2025-07-05,East,Kolkata,Home,Desk Lamp,3,1335.41,0.0,4006.23,1293.29,Retail Store,Enterprise
+ORD-01346,2025-07-05,North,Jaipur,Clothing,T-Shirt,1,684.32,0.1,615.89,145.65,Online,Enterprise
+ORD-00369,2025-07-06,South,Kochi,Home,Water Bottle,1,396.5,0.0,396.5,126.56,Online,Small Business
+ORD-00508,2025-07-06,East,Bhubaneswar,Office Supplies,Notebook Pack,2,248.36,0.0,496.72,164.53,Retail Store,Consumer
+ORD-01584,2025-07-06,East,Ranchi,Home,Office Chair,1,7501.23,0.1,6751.11,785.64,Online,Consumer
+ORD-00865,2025-07-07,East,Ranchi,Electronics,Keyboard,1,1492.73,0.2,1194.18,8.98,Online,Consumer
+ORD-01064,2025-07-07,East,Guwahati,Clothing,Jacket,1,3354.46,0.15,2851.29,393.2,Marketplace,Consumer
+ORD-01137,2025-07-07,West,Mumbai,Clothing,Jacket,3,3604.46,0.25,8110.04,237.92,Marketplace,Enterprise
+ORD-01404,2025-07-07,South,Kochi,Home,Office Chair,1,6989.61,0.05,6640.13,1070.99,Online,Small Business
+ORD-00146,2025-07-09,West,Panaji,Home,Water Bottle,1,484.72,0.15,412.01,87.63,Marketplace,Consumer
+ORD-00434,2025-07-09,East,Bhubaneswar,Office Supplies,Backpack,1,1495.33,0.0,1495.33,474.7,Retail Store,Enterprise
+ORD-00500,2025-07-09,South,Bengaluru,Clothing,Jeans,2,2019.94,0.0,4039.88,1074.32,Online,Consumer
+ORD-00584,2025-07-09,South,Hyderabad,Home,Office Chair,3,8312.69,0.05,23691.17,3332.43,Online,Consumer
+ORD-00843,2025-07-09,East,Ranchi,Clothing,T-Shirt,2,646.97,0.15,1099.85,361.62,Online,Consumer
+ORD-01039,2025-07-09,South,Kochi,Clothing,Jacket,1,3413.13,0.2,2730.5,389.32,Retail Store,Small Business
+ORD-00706,2025-07-11,North,Lucknow,Clothing,Jacket,2,3177.77,0.15,5402.21,912.42,Online,Consumer
+ORD-01429,2025-07-11,East,Kolkata,Books,Business Book,3,666.35,0.1,1799.15,553.86,Online,Consumer
+ORD-01533,2025-07-11,East,Patna,Clothing,Jacket,1,3392.26,0.05,3222.65,745.83,Marketplace,Consumer
+ORD-01572,2025-07-11,North,Dehradun,Clothing,Jeans,1,1676.25,0.0,1676.25,467.93,Marketplace,Consumer
+ORD-00880,2025-07-12,North,Dehradun,Clothing,Sneakers,1,2684.8,0.2,2147.84,375.35,Retail Store,Consumer
+ORD-01089,2025-07-12,North,Delhi,Clothing,Jeans,1,1690.6,0.1,1521.54,320.83,Marketplace,Enterprise
+ORD-01223,2025-07-12,South,Chennai,Office Supplies,Whiteboard,1,1903.22,0.0,1903.22,457.94,Marketplace,Consumer
+ORD-01376,2025-07-12,North,Lucknow,Electronics,Headphones,4,2297.81,0.0,9191.24,2351.26,Marketplace,Small Business
+ORD-01436,2025-07-12,North,Lucknow,Office Supplies,Pen Set,4,192.41,0.2,615.71,104.87,Retail Store,Consumer
+ORD-00382,2025-07-13,East,Guwahati,Office Supplies,Pen Set,4,176.27,0.2,564.06,142.2,Marketplace,Small Business
+ORD-00853,2025-07-13,East,Patna,Office Supplies,Notebook Pack,4,271.51,0.2,868.83,180.25,Online,Consumer
+ORD-01078,2025-07-13,West,Mumbai,Clothing,T-Shirt,2,690.15,0.0,1380.3,456.22,Marketplace,Consumer
+ORD-01547,2025-07-13,East,Patna,Home,Office Chair,3,7424.43,0.2,17818.63,2615.88,Marketplace,Consumer
+ORD-01086,2025-07-14,North,Chandigarh,Books,Business Book,2,590.5,0.1,1062.9,342.68,Retail Store,Small Business
+ORD-01149,2025-07-14,West,Surat,Clothing,T-Shirt,2,697.67,0.2,1116.27,137.03,Marketplace,Consumer
+ORD-00047,2025-07-15,South,Bengaluru,Home,Desk Lamp,1,1126.29,0.0,1126.29,241.09,Retail Store,Consumer
+ORD-01509,2025-07-15,West,Surat,Electronics,Headphones,4,2232.21,0.1,8035.96,1634.26,Marketplace,Consumer
+ORD-00003,2025-07-16,South,Chennai,Office Supplies,Pen Set,1,201.99,0.0,201.99,70.79,Retail Store,Small Business
+ORD-00478,2025-07-16,East,Guwahati,Clothing,Jeans,2,1851.68,0.2,2962.69,471.18,Marketplace,Small Business
+ORD-00883,2025-07-16,South,Chennai,Office Supplies,Pen Set,1,186.82,0.05,177.48,55.1,Online,Consumer
+ORD-01098,2025-07-16,East,Patna,Office Supplies,Pen Set,1,194.81,0.2,155.85,22.57,Retail Store,Consumer
+ORD-00232,2025-07-17,South,Chennai,Home,Water Bottle,2,451.51,0.05,857.87,238.52,Online,Small Business
+ORD-00427,2025-07-17,West,Ahmedabad,Home,Office Chair,2,7445.82,0.15,12657.89,930.7,Online,Consumer
+ORD-01106,2025-07-17,North,Dehradun,Books,Data Science Book,1,831.65,0.0,831.65,224.93,Online,Small Business
+ORD-01229,2025-07-17,North,Dehradun,Office Supplies,Pen Set,1,178.15,0.2,142.52,38.52,Online,Consumer
+ORD-00026,2025-07-18,East,Kolkata,Electronics,Keyboard,2,1668.32,0.15,2836.14,282.55,Online,Consumer
+ORD-00647,2025-07-18,North,Jaipur,Electronics,Monitor,1,13966.97,0.1,12570.27,366.82,Online,Enterprise
+ORD-01304,2025-07-18,West,Panaji,Home,Desk Lamp,4,1189.67,0.0,4758.68,1216.69,Retail Store,Small Business
+ORD-01076,2025-07-19,South,Coimbatore,Home,Storage Box,4,683.62,0.15,2324.31,372.1,Online,Consumer
+ORD-00023,2025-07-20,West,Surat,Office Supplies,Pen Set,1,204.99,0.15,174.24,51.06,Online,Small Business
+ORD-00187,2025-07-20,South,Coimbatore,Home,Office Chair,1,8140.8,0.15,6919.68,891.52,Online,Consumer
+ORD-00344,2025-07-20,West,Panaji,Clothing,Jeans,2,1632.25,0.2,2611.6,429.1,Online,Small Business
+ORD-00024,2025-07-21,East,Kolkata,Office Supplies,Backpack,3,1697.84,0.1,4584.17,1353.26,Retail Store,Enterprise
+ORD-00666,2025-07-21,North,Delhi,Books,Data Science Book,2,971.01,0.0,1942.02,733.72,Retail Store,Consumer
+ORD-00280,2025-07-23,East,Kolkata,Office Supplies,Notebook Pack,2,245.84,0.0,491.68,171.67,Online,Small Business
+ORD-00150,2025-07-24,East,Guwahati,Electronics,Wireless Mouse,2,735.93,0.0,1471.86,325.34,Online,Consumer
+ORD-00229,2025-07-24,West,Ahmedabad,Clothing,Sneakers,2,3109.76,0.15,5286.59,720.76,Marketplace,Consumer
+ORD-00365,2025-07-25,East,Patna,Books,Exam Guide,1,502.83,0.2,402.26,74.24,Marketplace,Small Business
+ORD-01025,2025-07-25,West,Pune,Books,Design Handbook,4,1237.65,0.1,4455.54,1097.4,Online,Consumer
+ORD-00126,2025-07-26,South,Bengaluru,Clothing,Jeans,1,1898.44,0.1,1708.6,338.59,Online,Small Business
+ORD-00872,2025-07-26,West,Surat,Electronics,Keyboard,2,1415.07,0.1,2547.13,369.07,Online,Consumer
+ORD-01162,2025-07-27,North,Delhi,Books,Business Book,3,634.53,0.0,1903.59,538.79,Online,Consumer
+ORD-00767,2025-07-28,North,Jaipur,Electronics,Monitor,5,14135.2,0.05,67142.2,7719.89,Online,Consumer
+ORD-01413,2025-07-28,South,Coimbatore,Office Supplies,Backpack,2,1448.02,0.1,2606.44,358.33,Marketplace,Consumer
+ORD-00123,2025-07-29,West,Pune,Electronics,Monitor,1,13604.38,0.15,11563.72,78.12,Online,Consumer
+ORD-00182,2025-07-29,West,Panaji,Office Supplies,Notebook Pack,2,260.99,0.15,443.68,109.73,Online,Small Business
+ORD-00222,2025-07-29,West,Surat,Clothing,T-Shirt,1,648.94,0.2,519.15,111.14,Retail Store,Consumer
+ORD-00884,2025-07-29,South,Kochi,Clothing,T-Shirt,1,632.23,0.05,600.62,159.69,Marketplace,Small Business
+ORD-00925,2025-07-30,North,Chandigarh,Electronics,Wireless Mouse,1,830.0,0.15,705.5,108.87,Marketplace,Consumer
+ORD-00715,2025-07-31,North,Delhi,Books,Business Book,1,559.44,0.2,447.55,117.07,Online,Consumer
+ORD-00899,2025-08-03,West,Pune,Electronics,Wireless Mouse,1,824.29,0.15,700.65,116.53,Marketplace,Consumer
+ORD-01316,2025-08-03,East,Patna,Books,Business Book,2,577.87,0.05,1097.95,406.8,Retail Store,Consumer
+ORD-00096,2025-08-04,East,Bhubaneswar,Clothing,Jacket,2,2950.93,0.05,5606.77,1379.42,Online,Consumer
+ORD-00196,2025-08-04,South,Chennai,Electronics,Keyboard,1,1709.63,0.0,1709.63,350.78,Online,Enterprise
+ORD-00283,2025-08-04,North,Chandigarh,Home,Storage Box,2,611.61,0.15,1039.74,208.2,Retail Store,Consumer
+ORD-01512,2025-08-04,North,Chandigarh,Electronics,Keyboard,3,1475.96,0.1,3985.09,479.79,Online,Consumer
+ORD-00193,2025-08-05,South,Bengaluru,Electronics,Headphones,1,2340.85,0.05,2223.81,488.29,Online,Consumer
+ORD-00364,2025-08-05,South,Bengaluru,Electronics,Monitor,1,13739.01,0.0,13739.01,1736.94,Online,Consumer
+ORD-00185,2025-08-06,West,Mumbai,Books,Design Handbook,2,974.66,0.05,1851.85,471.23,Online,Small Business
+ORD-00552,2025-08-06,East,Kolkata,Electronics,Wireless Mouse,3,753.98,0.2,1809.55,40.3,Online,Consumer
+ORD-01071,2025-08-06,South,Bengaluru,Office Supplies,Pen Set,1,189.37,0.2,151.5,38.98,Retail Store,Consumer
+ORD-00281,2025-08-07,West,Pune,Electronics,Wireless Mouse,2,729.38,0.2,1167.01,180.04,Retail Store,Consumer
+ORD-00371,2025-08-07,East,Kolkata,Books,Business Book,2,547.1,0.15,930.07,210.18,Retail Store,Enterprise
+ORD-01108,2025-08-07,North,Dehradun,Home,Water Bottle,2,480.4,0.05,912.76,259.7,Online,Small Business
+ORD-01267,2025-08-07,North,Chandigarh,Electronics,Keyboard,4,1709.63,0.2,5470.82,60.01,Retail Store,Consumer
+ORD-00805,2025-08-08,South,Bengaluru,Electronics,Monitor,5,14094.63,0.0,70473.15,12043.8,Online,Consumer
+ORD-01325,2025-08-08,East,Kolkata,Home,Storage Box,1,602.75,0.0,602.75,158.24,Online,Small Business
+ORD-00100,2025-08-09,West,Pune,Office Supplies,Backpack,3,1408.34,0.0,4225.02,897.22,Marketplace,Consumer
+ORD-00618,2025-08-09,West,Pune,Home,Water Bottle,1,430.13,0.1,387.12,73.73,Online,Consumer
+ORD-01109,2025-08-09,South,Hyderabad,Office Supplies,Backpack,3,1614.68,0.1,4359.64,577.51,Retail Store,Consumer
+ORD-00603,2025-08-11,North,Dehradun,Office Supplies,Pen Set,2,191.48,0.15,325.52,88.4,Retail Store,Consumer
+ORD-00513,2025-08-12,West,Surat,Electronics,Keyboard,4,1363.19,0.15,4634.85,770.43,Marketplace,Small Business
+ORD-01006,2025-08-12,North,Chandigarh,Home,Office Chair,2,8860.41,0.0,17720.82,2763.51,Retail Store,Consumer
+ORD-01088,2025-08-12,North,Delhi,Books,Business Book,2,549.67,0.2,879.47,156.99,Retail Store,Small Business
+ORD-01553,2025-08-12,South,Coimbatore,Home,Office Chair,1,7867.09,0.0,7867.09,1843.33,Retail Store,Small Business
+ORD-00569,2025-08-13,West,Ahmedabad,Home,Storage Box,4,683.63,0.1,2461.07,489.27,Online,Small Business
+ORD-00633,2025-08-13,South,Chennai,Electronics,Keyboard,1,1542.58,0.1,1388.32,131.81,Retail Store,Consumer
+ORD-00046,2025-08-15,East,Bhubaneswar,Office Supplies,Backpack,2,1480.79,0.2,2369.26,308.07,Online,Small Business
+ORD-00668,2025-08-15,North,Delhi,Office Supplies,Notebook Pack,1,232.14,0.15,197.32,41.13,Retail Store,Consumer
+ORD-00854,2025-08-15,South,Hyderabad,Office Supplies,Whiteboard,1,2328.34,0.15,1979.09,273.71,Retail Store,Enterprise
+ORD-00308,2025-08-16,West,Ahmedabad,Clothing,Sneakers,1,2832.81,0.1,2549.53,414.47,Online,Consumer
+ORD-00008,2025-08-18,South,Coimbatore,Books,Exam Guide,3,518.81,0.1,1400.79,267.36,Retail Store,Consumer
+ORD-00201,2025-08-18,North,Lucknow,Books,Exam Guide,3,552.51,0.1,1491.78,391.04,Retail Store,Consumer
+ORD-01192,2025-08-19,East,Kolkata,Home,Water Bottle,3,415.97,0.2,998.33,209.26,Retail Store,Enterprise
+ORD-00255,2025-08-21,East,Patna,Home,Water Bottle,1,488.18,0.2,390.54,96.6,Retail Store,Small Business
+ORD-01174,2025-08-21,South,Hyderabad,Books,Data Science Book,1,930.47,0.15,790.9,214.78,Marketplace,Small Business
+ORD-00164,2025-08-22,North,Dehradun,Electronics,Wireless Mouse,5,826.52,0.05,3925.97,585.71,Retail Store,Consumer
+ORD-00690,2025-08-25,East,Ranchi,Clothing,Jeans,5,1757.69,0.1,7909.61,1761.55,Retail Store,Small Business
+ORD-01043,2025-08-25,West,Panaji,Books,Design Handbook,1,1248.9,0.15,1061.57,208.11,Marketplace,Small Business
+ORD-01156,2025-08-25,East,Patna,Electronics,Monitor,2,13792.05,0.1,24825.69,1688.05,Online,Consumer
+ORD-01437,2025-08-25,East,Patna,Electronics,Wireless Mouse,1,831.25,0.1,748.12,115.12,Marketplace,Small Business
+ORD-00321,2025-08-26,East,Ranchi,Office Supplies,Pen Set,1,181.83,0.0,181.83,79.22,Online,Small Business
+ORD-01023,2025-08-26,East,Ranchi,Office Supplies,Whiteboard,1,2268.98,0.25,1701.74,14.21,Online,Small Business
+ORD-00340,2025-08-27,North,Delhi,Office Supplies,Notebook Pack,3,266.45,0.05,759.38,273.88,Online,Consumer
+ORD-01423,2025-08-27,South,Bengaluru,Clothing,Jacket,1,2869.69,0.0,2869.69,854.69,Online,Consumer
+ORD-01466,2025-08-27,East,Bhubaneswar,Books,Design Handbook,1,1110.58,0.2,888.46,82.09,Retail Store,Consumer
+ORD-01535,2025-08-27,West,Pune,Electronics,Monitor,4,13708.47,0.2,43867.1,2994.35,Marketplace,Consumer
+ORD-00323,2025-08-28,East,Kolkata,Home,Water Bottle,4,475.83,0.05,1808.15,643.95,Retail Store,Small Business
+ORD-00240,2025-08-29,South,Chennai,Electronics,Wireless Mouse,3,859.21,0.1,2319.87,385.89,Online,Consumer
+ORD-00430,2025-08-29,North,Jaipur,Office Supplies,Pen Set,1,163.7,0.0,163.7,60.01,Online,Small Business
+ORD-01522,2025-08-30,East,Bhubaneswar,Clothing,Jeans,1,1850.81,0.0,1850.81,601.14,Online,Consumer
+ORD-00181,2025-08-31,East,Ranchi,Office Supplies,Notebook Pack,1,225.75,0.05,214.46,63.35,Marketplace,Small Business
+ORD-00425,2025-08-31,South,Bengaluru,Clothing,Jacket,2,3160.22,0.2,5056.35,739.77,Retail Store,Consumer
+ORD-00540,2025-08-31,North,Jaipur,Office Supplies,Pen Set,2,192.98,0.0,385.96,141.92,Retail Store,Consumer
+ORD-01461,2025-08-31,South,Chennai,Books,Data Science Book,4,934.72,0.05,3551.94,796.96,Online,Consumer
+ORD-01475,2025-08-31,North,Delhi,Clothing,Sneakers,3,2633.0,0.1,7109.1,1170.08,Online,Consumer
+ORD-00873,2025-09-01,West,Ahmedabad,Office Supplies,Backpack,1,1787.78,0.05,1698.39,376.1,Retail Store,Consumer
+ORD-01339,2025-09-01,North,Dehradun,Office Supplies,Pen Set,2,198.65,0.1,357.57,123.0,Marketplace,Small Business
+ORD-00030,2025-09-02,North,Dehradun,Books,Data Science Book,3,1016.55,0.2,2439.72,623.85,Marketplace,Consumer
+ORD-01283,2025-09-02,North,Delhi,Clothing,Sneakers,1,2834.66,0.05,2692.93,699.78,Marketplace,Small Business
+ORD-01496,2025-09-02,East,Ranchi,Clothing,T-Shirt,2,727.03,0.0,1454.06,550.27,Retail Store,Consumer
+ORD-00307,2025-09-03,West,Ahmedabad,Home,Office Chair,1,7362.74,0.15,6258.33,854.84,Online,Consumer
+ORD-01166,2025-09-04,East,Patna,Office Supplies,Notebook Pack,3,253.02,0.1,683.15,245.89,Marketplace,Enterprise
+ORD-00031,2025-09-06,West,Ahmedabad,Books,Data Science Book,2,848.47,0.05,1612.09,517.96,Online,Small Business
+ORD-00259,2025-09-06,South,Bengaluru,Electronics,Wireless Mouse,3,886.45,0.15,2260.45,310.11,Marketplace,Consumer
+ORD-00372,2025-09-07,North,Delhi,Home,Water Bottle,2,459.52,0.15,781.18,164.55,Online,Consumer
+ORD-00908,2025-09-07,East,Guwahati,Electronics,Monitor,3,11214.24,0.05,31960.58,3729.1,Marketplace,Enterprise
+ORD-01348,2025-09-07,North,Jaipur,Home,Desk Lamp,2,1118.28,0.2,1789.25,420.39,Retail Store,Consumer
+ORD-01441,2025-09-07,West,Pune,Home,Office Chair,4,8649.56,0.0,34598.24,6847.67,Marketplace,Consumer
+ORD-00802,2025-09-08,North,Chandigarh,Home,Water Bottle,1,471.5,0.2,377.2,65.45,Online,Consumer
+ORD-01080,2025-09-09,South,Hyderabad,Home,Storage Box,2,590.5,0.15,1003.85,175.37,Marketplace,Consumer
+ORD-01585,2025-09-09,South,Bengaluru,Clothing,Jeans,2,1613.96,0.0,3227.92,850.17,Online,Small Business
+ORD-00116,2025-09-10,South,Hyderabad,Office Supplies,Notebook Pack,3,282.38,0.0,847.14,272.29,Marketplace,Small Business
+ORD-00429,2025-09-10,North,Chandigarh,Electronics,Wireless Mouse,1,863.9,0.15,734.31,73.78,Retail Store,Consumer
+ORD-00798,2025-09-10,East,Ranchi,Electronics,Monitor,2,13711.47,0.1,24680.65,1681.39,Online,Consumer
+ORD-00857,2025-09-11,North,Delhi,Books,Design Handbook,3,1137.16,0.2,2729.18,337.68,Retail Store,Consumer
+ORD-01562,2025-09-11,East,Ranchi,Clothing,Sneakers,1,3083.98,0.15,2621.38,561.3,Marketplace,Consumer
+ORD-00134,2025-09-12,West,Pune,Home,Desk Lamp,2,1309.5,0.2,2095.2,289.65,Marketplace,Consumer
+ORD-00606,2025-09-12,South,Kochi,Books,Data Science Book,3,920.71,0.05,2624.02,559.45,Online,Consumer
+ORD-00736,2025-09-12,East,Bhubaneswar,Books,Business Book,1,575.68,0.1,518.11,167.58,Online,Consumer
+ORD-01581,2025-09-12,East,Patna,Office Supplies,Pen Set,2,201.98,0.05,383.76,131.1,Retail Store,Enterprise
+ORD-00510,2025-09-13,North,Lucknow,Electronics,Keyboard,2,1457.31,0.0,2914.62,461.2,Marketplace,Small Business
+ORD-00578,2025-09-13,South,Hyderabad,Clothing,T-Shirt,1,711.71,0.1,640.54,119.97,Online,Consumer
+ORD-00718,2025-09-13,East,Bhubaneswar,Electronics,Headphones,4,2233.75,0.05,8488.25,1688.15,Online,Consumer
+ORD-01127,2025-09-13,West,Surat,Clothing,Sneakers,1,3087.9,0.0,3087.9,768.1,Retail Store,Enterprise
+ORD-01275,2025-09-13,East,Patna,Electronics,Keyboard,1,1560.7,0.2,1248.56,103.06,Online,Consumer
+ORD-00132,2025-09-14,South,Kochi,Office Supplies,Backpack,4,1465.53,0.05,5569.01,1678.7,Online,Consumer
+ORD-00766,2025-09-14,East,Bhubaneswar,Electronics,Wireless Mouse,1,752.36,0.1,677.12,160.24,Online,Small Business
+ORD-01119,2025-09-14,North,Lucknow,Home,Desk Lamp,1,1088.55,0.25,816.41,130.68,Online,Consumer
+ORD-00984,2025-09-15,North,Chandigarh,Clothing,Jeans,2,1688.99,0.15,2871.28,427.42,Retail Store,Consumer
+ORD-00867,2025-09-16,North,Chandigarh,Office Supplies,Whiteboard,1,2036.09,0.0,2036.09,622.28,Retail Store,Small Business
+ORD-01504,2025-09-16,South,Hyderabad,Home,Desk Lamp,1,1219.79,0.0,1219.79,256.77,Retail Store,Small Business
+ORD-00948,2025-09-17,West,Panaji,Office Supplies,Backpack,1,1633.26,0.05,1551.6,404.74,Marketplace,Consumer
+ORD-00179,2025-09-18,North,Lucknow,Office Supplies,Whiteboard,1,2326.51,0.05,2210.18,509.69,Retail Store,Consumer
+ORD-00378,2025-09-18,South,Bengaluru,Clothing,Jacket,1,3199.35,0.05,3039.38,631.39,Online,Consumer
+ORD-00785,2025-09-18,South,Hyderabad,Office Supplies,Whiteboard,2,2225.7,0.0,4451.4,1318.31,Retail Store,Enterprise
+ORD-01112,2025-09-18,South,Chennai,Home,Water Bottle,1,489.68,0.1,440.71,134.74,Online,Consumer
+ORD-00139,2025-09-19,North,Delhi,Books,Exam Guide,1,487.37,0.0,487.37,166.36,Online,Small Business
+ORD-01251,2025-09-19,West,Pune,Electronics,Monitor,4,13354.15,0.1,48074.94,5759.71,Marketplace,Consumer
+ORD-00532,2025-09-20,South,Bengaluru,Books,Design Handbook,2,1027.4,0.0,2054.8,613.38,Marketplace,Consumer
+ORD-00762,2025-09-20,East,Bhubaneswar,Electronics,Headphones,2,2611.38,0.2,4178.21,604.09,Retail Store,Consumer
+ORD-00942,2025-09-20,South,Bengaluru,Office Supplies,Whiteboard,5,1985.68,0.15,8439.14,1132.38,Retail Store,Enterprise
+ORD-01358,2025-09-20,West,Panaji,Clothing,Jeans,5,1943.76,0.15,8260.98,1835.0,Retail Store,Consumer
+ORD-00064,2025-09-21,South,Chennai,Books,Data Science Book,1,915.8,0.05,870.01,254.76,Online,Consumer
+ORD-01133,2025-09-21,North,Jaipur,Electronics,Wireless Mouse,1,820.03,0.0,820.03,222.82,Online,Consumer
+ORD-00949,2025-09-22,East,Kolkata,Office Supplies,Notebook Pack,1,265.99,0.0,265.99,94.92,Marketplace,Enterprise
+ORD-01494,2025-09-22,East,Patna,Books,Data Science Book,1,977.94,0.0,977.94,368.31,Online,Consumer
+ORD-00256,2025-09-24,West,Mumbai,Books,Business Book,2,559.44,0.0,1118.88,423.88,Retail Store,Small Business
+ORD-00673,2025-09-24,North,Jaipur,Office Supplies,Pen Set,2,200.81,0.0,401.62,183.22,Retail Store,Consumer
+ORD-00681,2025-09-24,South,Chennai,Electronics,Headphones,1,2216.13,0.1,1994.52,276.27,Online,Small Business
+ORD-01549,2025-09-24,North,Jaipur,Home,Water Bottle,1,413.91,0.0,413.91,152.53,Online,Consumer
+ORD-00263,2025-09-25,South,Coimbatore,Home,Desk Lamp,2,1116.92,0.15,1898.76,322.96,Online,Consumer
+ORD-00270,2025-09-25,East,Ranchi,Electronics,Keyboard,1,1440.17,0.0,1440.17,347.43,Online,Consumer
+ORD-00140,2025-09-26,North,Delhi,Electronics,Keyboard,3,1589.83,0.2,3815.59,166.84,Online,Consumer
+ORD-01474,2025-09-26,North,Lucknow,Clothing,T-Shirt,3,694.69,0.1,1875.66,525.42,Online,Consumer
+ORD-01279,2025-09-27,North,Lucknow,Office Supplies,Backpack,4,1620.79,0.05,6159.0,1246.38,Online,Small Business
+ORD-01340,2025-09-27,East,Bhubaneswar,Home,Desk Lamp,2,1192.5,0.0,2385.0,724.66,Retail Store,Consumer
+ORD-01350,2025-09-27,North,Jaipur,Electronics,Keyboard,1,1611.0,0.05,1530.45,366.97,Online,Consumer
+ORD-00641,2025-09-28,South,Hyderabad,Books,Data Science Book,1,823.74,0.1,741.37,208.11,Online,Consumer
+ORD-01226,2025-09-29,West,Surat,Office Supplies,Pen Set,3,204.19,0.0,612.57,228.07,Online,Small Business
+ORD-01409,2025-09-29,West,Panaji,Office Supplies,Whiteboard,2,2261.68,0.1,4071.02,757.06,Retail Store,Consumer
+ORD-01554,2025-09-29,North,Lucknow,Home,Water Bottle,1,426.49,0.15,362.52,86.28,Online,Consumer
+ORD-00705,2025-09-30,North,Chandigarh,Home,Desk Lamp,1,1256.4,0.1,1130.76,294.68,Retail Store,Consumer
+ORD-00158,2025-10-02,West,Pune,Books,Business Book,4,603.54,0.05,2293.45,720.93,Marketplace,Small Business
+ORD-00218,2025-10-02,North,Chandigarh,Electronics,Wireless Mouse,1,874.88,0.05,831.14,94.62,Marketplace,Consumer
+ORD-01272,2025-10-02,East,Bhubaneswar,Home,Desk Lamp,1,1079.07,0.05,1025.12,299.95,Online,Small Business
+ORD-01130,2025-10-04,South,Chennai,Office Supplies,Notebook Pack,1,251.01,0.05,238.46,56.77,Online,Small Business
+ORD-00939,2025-10-05,East,Bhubaneswar,Office Supplies,Pen Set,4,165.76,0.05,629.89,265.11,Online,Consumer
+ORD-00348,2025-10-06,West,Panaji,Home,Desk Lamp,2,1192.48,0.1,2146.46,439.9,Retail Store,Small Business
+ORD-00379,2025-10-06,South,Bengaluru,Home,Office Chair,3,7387.47,0.0,22162.41,3720.03,Online,Small Business
+ORD-00381,2025-10-06,East,Kolkata,Clothing,Sneakers,1,3097.26,0.05,2942.4,610.76,Online,Enterprise
+ORD-00039,2025-10-07,North,Jaipur,Electronics,Monitor,1,12661.22,0.05,12028.16,1180.19,Retail Store,Small Business
+ORD-00228,2025-10-07,East,Guwahati,Clothing,Jacket,3,3454.86,0.1,9328.12,1877.58,Retail Store,Small Business
+ORD-00274,2025-10-09,West,Pune,Clothing,Jeans,2,1780.99,0.2,2849.58,409.43,Online,Enterprise
+ORD-00812,2025-10-09,West,Pune,Electronics,Headphones,1,2702.5,0.05,2567.38,407.94,Retail Store,Consumer
+ORD-01528,2025-10-09,North,Chandigarh,Clothing,Sneakers,1,2706.8,0.1,2436.12,244.76,Online,Consumer
+ORD-01513,2025-10-10,East,Ranchi,Clothing,Jeans,2,1653.88,0.0,3307.76,1020.09,Retail Store,Small Business
+ORD-00306,2025-10-11,East,Bhubaneswar,Clothing,Jeans,3,1744.2,0.1,4709.34,1009.55,Marketplace,Consumer
+ORD-01269,2025-10-11,North,Lucknow,Clothing,Jacket,2,2884.92,0.1,5192.86,928.75,Marketplace,Consumer
+ORD-01374,2025-10-11,East,Ranchi,Office Supplies,Whiteboard,3,1960.28,0.0,5880.84,1239.25,Marketplace,Consumer
+ORD-01501,2025-10-11,South,Chennai,Books,Design Handbook,1,1037.57,0.05,985.69,294.03,Online,Consumer
+ORD-01517,2025-10-12,North,Jaipur,Electronics,Monitor,5,11853.19,0.2,47412.76,702.46,Retail Store,Enterprise
+ORD-00595,2025-10-13,North,Dehradun,Electronics,Keyboard,2,1515.03,0.0,3030.06,599.77,Online,Small Business
+ORD-00620,2025-10-14,East,Patna,Electronics,Keyboard,1,1466.94,0.0,1466.94,388.35,Online,Enterprise
+ORD-01134,2025-10-15,East,Kolkata,Books,Design Handbook,1,1112.53,0.15,945.65,161.45,Marketplace,Small Business
+ORD-01082,2025-10-16,East,Ranchi,Office Supplies,Backpack,4,1729.54,0.0,6918.16,2212.42,Online,Consumer
+ORD-01206,2025-10-16,North,Chandigarh,Electronics,Keyboard,1,1379.62,0.0,1379.62,439.17,Online,Small Business
+ORD-00631,2025-10-17,South,Coimbatore,Office Supplies,Pen Set,3,194.15,0.05,553.33,236.07,Retail Store,Consumer
+ORD-01365,2025-10-17,East,Kolkata,Clothing,Jacket,1,2967.24,0.05,2818.88,777.46,Retail Store,Consumer
+ORD-00043,2025-10-18,North,Jaipur,Books,Business Book,5,607.92,0.1,2735.64,835.03,Online,Consumer
+ORD-01233,2025-10-18,West,Mumbai,Electronics,Keyboard,4,1477.68,0.05,5615.18,883.46,Retail Store,Enterprise
+ORD-01250,2025-10-18,East,Ranchi,Office Supplies,Backpack,2,1623.66,0.1,2922.59,484.46,Retail Store,Enterprise
+ORD-01420,2025-10-18,East,Guwahati,Office Supplies,Backpack,1,1554.02,0.2,1243.22,94.91,Marketplace,Small Business
+ORD-00990,2025-10-19,West,Surat,Books,Data Science Book,3,800.46,0.05,2281.31,657.29,Online,Consumer
+ORD-01397,2025-10-19,South,Kochi,Clothing,Jacket,4,3051.94,0.2,9766.21,1159.15,Retail Store,Enterprise
+ORD-00318,2025-10-22,East,Kolkata,Books,Exam Guide,1,481.06,0.25,360.8,67.99,Online,Consumer
+ORD-00626,2025-10-22,North,Lucknow,Home,Storage Box,2,596.9,0.05,1134.11,284.71,Retail Store,Small Business
+ORD-00881,2025-10-22,North,Jaipur,Home,Water Bottle,2,398.72,0.2,637.95,65.71,Retail Store,Enterprise
+ORD-00504,2025-10-24,South,Chennai,Clothing,T-Shirt,3,727.19,0.1,1963.41,608.55,Online,Consumer
+ORD-00550,2025-10-24,South,Bengaluru,Clothing,Sneakers,1,2553.5,0.0,2553.5,561.08,Online,Small Business
+ORD-00710,2025-10-24,North,Dehradun,Clothing,Jeans,2,1821.6,0.1,3278.88,869.43,Online,Enterprise
+ORD-01007,2025-10-24,North,Jaipur,Office Supplies,Backpack,3,1524.92,0.0,4574.76,1272.96,Online,Consumer
+ORD-00098,2025-10-25,North,Delhi,Electronics,Keyboard,1,1616.8,0.15,1374.28,300.6,Online,Small Business
+ORD-00390,2025-10-27,West,Surat,Office Supplies,Pen Set,3,175.15,0.0,525.45,219.16,Online,Small Business
+ORD-01314,2025-10-27,East,Patna,Electronics,Headphones,4,2559.05,0.15,8700.77,1733.55,Online,Small Business
+ORD-00953,2025-10-28,North,Chandigarh,Home,Water Bottle,2,404.86,0.2,647.78,114.37,Online,Small Business
+ORD-01049,2025-10-28,East,Bhubaneswar,Office Supplies,Backpack,1,1715.63,0.15,1458.29,292.48,Online,Enterprise
+ORD-01315,2025-10-28,East,Patna,Electronics,Keyboard,5,1376.58,0.0,6882.9,1627.21,Online,Small Business
+ORD-00002,2025-10-29,South,Bengaluru,Clothing,Jacket,1,3626.86,0.15,3082.83,405.85,Marketplace,Consumer
+ORD-00184,2025-10-29,South,Kochi,Home,Water Bottle,3,457.4,0.0,1372.2,373.52,Marketplace,Consumer
+ORD-00130,2025-11-01,North,Dehradun,Clothing,Sneakers,3,2772.92,0.1,7486.88,1286.39,Online,Consumer
+ORD-00202,2025-11-01,East,Ranchi,Office Supplies,Pen Set,2,178.55,0.15,303.54,71.9,Retail Store,Consumer
+ORD-00245,2025-11-01,North,Lucknow,Clothing,Jeans,2,1806.9,0.2,2891.04,474.84,Marketplace,Consumer
+ORD-01135,2025-11-01,North,Lucknow,Office Supplies,Backpack,1,1794.56,0.15,1525.38,170.84,Marketplace,Enterprise
+ORD-01440,2025-11-02,East,Ranchi,Office Supplies,Notebook Pack,2,228.53,0.0,457.06,149.08,Online,Consumer
+ORD-01531,2025-11-02,East,Kolkata,Home,Desk Lamp,3,1366.71,0.1,3690.12,786.21,Retail Store,Consumer
+ORD-00549,2025-11-03,East,Guwahati,Books,Data Science Book,1,811.56,0.1,730.4,174.87,Online,Small Business
+ORD-00001,2025-11-04,North,Lucknow,Books,Exam Guide,3,544.75,0.2,1307.4,119.77,Retail Store,Consumer
+ORD-00320,2025-11-04,South,Hyderabad,Office Supplies,Whiteboard,1,2164.14,0.1,1947.73,364.11,Retail Store,Consumer
+ORD-00458,2025-11-04,North,Dehradun,Clothing,T-Shirt,1,700.13,0.1,630.12,178.01,Online,Consumer
+ORD-00645,2025-11-04,North,Chandigarh,Clothing,Sneakers,2,2908.72,0.2,4653.95,542.28,Retail Store,Consumer
+ORD-01231,2025-11-04,West,Surat,Electronics,Wireless Mouse,1,840.32,0.15,714.27,61.17,Online,Consumer
+ORD-00076,2025-11-05,West,Ahmedabad,Home,Office Chair,2,8027.76,0.05,15252.74,3332.04,Online,Small Business
+ORD-00601,2025-11-05,West,Ahmedabad,Clothing,Sneakers,2,3010.86,0.1,5419.55,804.18,Online,Consumer
+ORD-01230,2025-11-05,West,Panaji,Electronics,Headphones,1,2520.73,0.05,2394.69,548.06,Retail Store,Small Business
+ORD-00405,2025-11-06,North,Chandigarh,Office Supplies,Notebook Pack,5,242.88,0.2,971.52,194.82,Online,Consumer
+ORD-00692,2025-11-07,South,Chennai,Office Supplies,Whiteboard,2,2386.16,0.2,3817.86,418.61,Retail Store,Consumer
+ORD-00700,2025-11-07,West,Pune,Home,Storage Box,2,648.2,0.0,1296.4,329.51,Marketplace,Small Business
+ORD-00772,2025-11-08,North,Lucknow,Clothing,Jacket,1,3346.32,0.05,3179.0,531.87,Online,Enterprise
+ORD-01095,2025-11-08,East,Guwahati,Clothing,T-Shirt,2,767.67,0.15,1305.04,336.93,Online,Small Business
+ORD-01169,2025-11-08,North,Dehradun,Office Supplies,Pen Set,2,166.15,0.0,332.3,162.57,Online,Consumer
+ORD-01343,2025-11-08,North,Lucknow,Clothing,Jacket,2,2819.7,0.15,4793.49,937.3,Marketplace,Small Business
+ORD-00295,2025-11-09,West,Pune,Office Supplies,Whiteboard,1,2091.84,0.1,1882.66,337.2,Online,Enterprise
+ORD-00442,2025-11-09,East,Patna,Electronics,Wireless Mouse,1,870.49,0.2,696.39,64.74,Online,Consumer
+ORD-00743,2025-11-09,East,Bhubaneswar,Office Supplies,Backpack,1,1685.11,0.25,1263.83,78.45,Marketplace,Small Business
+ORD-01032,2025-11-09,West,Ahmedabad,Books,Exam Guide,5,556.06,0.2,2224.24,440.72,Marketplace,Consumer
+ORD-01068,2025-11-09,South,Coimbatore,Books,Business Book,5,671.2,0.2,2684.8,669.01,Online,Consumer
+ORD-00113,2025-11-10,South,Chennai,Home,Desk Lamp,2,1330.38,0.2,2128.61,393.7,Online,Consumer
+ORD-00443,2025-11-10,East,Patna,Books,Business Book,1,634.21,0.2,507.37,113.14,Online,Enterprise
+ORD-00696,2025-11-10,East,Ranchi,Clothing,Jacket,4,2818.15,0.0,11272.6,1745.52,Retail Store,Consumer
+ORD-00888,2025-11-10,East,Kolkata,Electronics,Wireless Mouse,2,801.08,0.05,1522.05,408.39,Online,Consumer
+ORD-00932,2025-11-10,South,Coimbatore,Home,Office Chair,1,7558.08,0.15,6424.37,1100.48,Retail Store,Enterprise
+ORD-01092,2025-11-10,East,Guwahati,Clothing,T-Shirt,1,790.64,0.15,672.04,141.15,Online,Consumer
+ORD-01180,2025-11-10,West,Ahmedabad,Electronics,Keyboard,1,1355.77,0.05,1287.98,299.58,Online,Consumer
+ORD-01236,2025-11-10,South,Chennai,Electronics,Headphones,3,2240.7,0.15,5713.78,831.47,Online,Consumer
+ORD-00534,2025-11-12,South,Kochi,Clothing,Sneakers,4,2791.44,0.0,11165.76,2096.79,Retail Store,Small Business
+ORD-01073,2025-11-13,East,Patna,Clothing,T-Shirt,3,704.08,0.0,2112.24,764.64,Online,Enterprise
+ORD-00239,2025-11-14,East,Ranchi,Electronics,Headphones,1,2664.0,0.0,2664.0,599.36,Retail Store,Consumer
+ORD-01008,2025-11-15,North,Jaipur,Home,Water Bottle,2,491.27,0.2,786.03,195.08,Marketplace,Consumer
+ORD-01204,2025-11-15,North,Jaipur,Books,Data Science Book,4,891.22,0.1,3208.39,832.16,Online,Small Business
+ORD-00721,2025-11-16,West,Surat,Clothing,Jacket,2,3026.55,0.05,5750.44,1744.25,Retail Store,Small Business
+ORD-00152,2025-11-17,South,Coimbatore,Office Supplies,Backpack,1,1776.53,0.1,1598.88,242.12,Marketplace,Consumer
+ORD-00353,2025-11-17,South,Bengaluru,Clothing,Sneakers,3,2864.13,0.1,7733.15,694.45,Online,Consumer
+ORD-00543,2025-11-17,East,Ranchi,Office Supplies,Backpack,2,1813.19,0.15,3082.42,512.1,Marketplace,Small Business
+ORD-01277,2025-11-17,East,Bhubaneswar,Electronics,Headphones,1,2356.07,0.0,2356.07,751.27,Marketplace,Enterprise
+ORD-00488,2025-11-18,South,Chennai,Electronics,Keyboard,2,1373.22,0.05,2609.12,581.34,Online,Consumer
+ORD-01181,2025-11-18,East,Bhubaneswar,Books,Exam Guide,1,496.43,0.25,372.32,80.41,Marketplace,Consumer
+ORD-00874,2025-11-19,South,Kochi,Home,Water Bottle,3,405.15,0.05,1154.68,348.79,Online,Small Business
+ORD-00110,2025-11-20,West,Mumbai,Office Supplies,Pen Set,3,196.21,0.0,588.63,211.37,Retail Store,Small Business
+ORD-00756,2025-11-20,South,Chennai,Electronics,Wireless Mouse,1,739.98,0.25,554.99,70.35,Marketplace,Consumer
+ORD-00262,2025-11-21,East,Kolkata,Office Supplies,Backpack,2,1587.7,0.0,3175.4,969.83,Retail Store,Consumer
+ORD-00505,2025-11-21,West,Panaji,Clothing,Jacket,1,2939.73,0.15,2498.77,233.97,Online,Consumer
+ORD-01037,2025-11-21,West,Panaji,Home,Desk Lamp,2,1215.6,0.1,2188.08,281.63,Retail Store,Consumer
+ORD-01523,2025-11-21,East,Patna,Office Supplies,Notebook Pack,2,248.62,0.1,447.52,127.95,Marketplace,Consumer
+ORD-00922,2025-11-22,East,Guwahati,Office Supplies,Backpack,1,1752.56,0.15,1489.68,221.03,Retail Store,Consumer
+ORD-00241,2025-11-23,West,Ahmedabad,Office Supplies,Backpack,1,1594.93,0.05,1515.18,449.04,Retail Store,Consumer
+ORD-00761,2025-11-23,North,Chandigarh,Books,Design Handbook,3,1069.87,0.25,2407.21,368.11,Online,Consumer
+ORD-01238,2025-11-23,North,Dehradun,Home,Desk Lamp,3,1280.29,0.05,3648.83,864.4,Marketplace,Consumer
+ORD-01402,2025-11-24,West,Ahmedabad,Electronics,Keyboard,1,1437.22,0.2,1149.78,68.59,Retail Store,Enterprise
+ORD-01487,2025-11-24,North,Dehradun,Office Supplies,Notebook Pack,1,228.12,0.15,193.9,49.58,Retail Store,Consumer
+ORD-01268,2025-11-25,West,Mumbai,Office Supplies,Backpack,2,1484.95,0.05,2821.4,724.88,Online,Consumer
+ORD-00702,2025-11-26,North,Lucknow,Home,Office Chair,5,8885.75,0.25,33321.56,-877.46,Marketplace,Small Business
+ORD-00375,2025-11-27,West,Ahmedabad,Electronics,Keyboard,1,1358.52,0.1,1222.67,128.99,Online,Consumer
+ORD-00640,2025-11-27,East,Patna,Office Supplies,Backpack,2,1436.4,0.2,2298.24,435.32,Retail Store,Consumer
+ORD-00806,2025-11-27,North,Lucknow,Electronics,Headphones,4,2638.46,0.15,8970.76,1425.2,Retail Store,Consumer
+ORD-00999,2025-11-27,North,Lucknow,Office Supplies,Pen Set,1,167.98,0.2,134.38,37.1,Online,Consumer
+ORD-01443,2025-11-27,East,Kolkata,Electronics,Headphones,1,2323.48,0.0,2323.48,722.44,Online,Small Business
+ORD-01399,2025-11-29,North,Delhi,Clothing,Jacket,2,3433.64,0.1,6180.55,1732.59,Retail Store,Consumer
+ORD-00288,2025-12-01,South,Chennai,Home,Water Bottle,1,473.29,0.0,473.29,150.32,Marketplace,Consumer
+ORD-00445,2025-12-02,East,Kolkata,Home,Storage Box,2,733.22,0.0,1466.44,506.34,Online,Consumer
+ORD-00639,2025-12-02,North,Lucknow,Books,Design Handbook,1,1017.66,0.0,1017.66,382.25,Retail Store,Small Business
+ORD-00895,2025-12-02,North,Lucknow,Books,Data Science Book,1,929.43,0.05,882.96,270.67,Retail Store,Consumer
+ORD-00011,2025-12-03,South,Kochi,Home,Storage Box,1,731.56,0.05,694.98,168.01,Online,Consumer
+ORD-00183,2025-12-03,East,Kolkata,Clothing,Jacket,3,2881.11,0.15,7346.83,1055.36,Retail Store,Consumer
+ORD-00198,2025-12-03,East,Patna,Office Supplies,Whiteboard,5,1987.11,0.25,7451.66,358.72,Marketplace,Consumer
+ORD-00435,2025-12-03,North,Jaipur,Electronics,Keyboard,3,1461.06,0.2,3506.54,54.18,Retail Store,Enterprise
+ORD-00553,2025-12-03,West,Ahmedabad,Electronics,Wireless Mouse,3,751.78,0.2,1804.27,141.82,Online,Consumer
+ORD-00464,2025-12-04,East,Guwahati,Home,Storage Box,1,586.34,0.2,469.07,85.22,Online,Consumer
+ORD-00014,2025-12-06,West,Panaji,Office Supplies,Backpack,3,1692.13,0.0,5076.39,1647.81,Retail Store,Consumer
+ORD-01157,2025-12-06,East,Kolkata,Electronics,Monitor,1,12393.09,0.1,11153.78,2374.31,Marketplace,Consumer
+ORD-00489,2025-12-07,South,Chennai,Clothing,T-Shirt,3,681.11,0.1,1839.0,409.62,Retail Store,Consumer
+ORD-01310,2025-12-07,West,Pune,Office Supplies,Backpack,1,1603.02,0.05,1522.87,262.49,Retail Store,Small Business
+ORD-01561,2025-12-07,West,Pune,Office Supplies,Notebook Pack,4,237.74,0.2,760.77,213.21,Retail Store,Consumer
+ORD-00463,2025-12-08,North,Jaipur,Office Supplies,Notebook Pack,1,271.04,0.0,271.04,80.81,Online,Consumer
+ORD-01164,2025-12-08,West,Pune,Electronics,Wireless Mouse,4,743.22,0.05,2824.24,470.19,Online,Enterprise
+ORD-00083,2025-12-09,South,Chennai,Office Supplies,Notebook Pack,1,268.25,0.05,254.84,62.88,Online,Consumer
+ORD-00744,2025-12-09,North,Dehradun,Electronics,Wireless Mouse,1,803.66,0.0,803.66,143.54,Online,Consumer
+ORD-01160,2025-12-09,North,Delhi,Books,Business Book,1,565.52,0.15,480.69,114.31,Online,Enterprise
+ORD-00708,2025-12-10,West,Pune,Books,Data Science Book,1,884.0,0.2,707.2,85.85,Online,Consumer
+ORD-00712,2025-12-10,North,Delhi,Books,Design Handbook,4,1227.97,0.1,4420.69,1246.49,Marketplace,Consumer
+ORD-00749,2025-12-10,West,Mumbai,Books,Exam Guide,2,552.59,0.0,1105.18,366.28,Online,Consumer
+ORD-00936,2025-12-10,North,Chandigarh,Electronics,Headphones,3,2463.36,0.0,7390.08,1665.13,Retail Store,Consumer
+ORD-01125,2025-12-10,West,Pune,Home,Water Bottle,1,399.89,0.05,379.9,118.93,Retail Store,Enterprise
+ORD-01593,2025-12-10,North,Lucknow,Office Supplies,Backpack,1,1714.82,0.2,1371.86,69.25,Online,Consumer
+ORD-00311,2025-12-11,South,Coimbatore,Clothing,T-Shirt,1,657.07,0.0,657.07,241.46,Retail Store,Consumer
+ORD-00316,2025-12-11,North,Jaipur,Home,Storage Box,1,618.59,0.0,618.59,188.99,Online,Enterprise
+ORD-01382,2025-12-11,South,Coimbatore,Electronics,Headphones,4,2203.57,0.0,8814.28,2349.62,Retail Store,Enterprise
+ORD-00937,2025-12-12,North,Jaipur,Office Supplies,Pen Set,1,169.98,0.1,152.98,34.5,Retail Store,Consumer
+ORD-00155,2025-12-13,North,Delhi,Electronics,Headphones,4,2618.81,0.25,7856.43,878.71,Online,Small Business
+ORD-00485,2025-12-14,East,Guwahati,Electronics,Monitor,2,11312.25,0.05,21493.27,2830.94,Online,Consumer
+ORD-00589,2025-12-14,South,Chennai,Electronics,Headphones,4,2420.21,0.15,8228.71,211.6,Retail Store,Enterprise
+ORD-00954,2025-12-14,South,Hyderabad,Electronics,Wireless Mouse,1,819.46,0.0,819.46,183.56,Retail Store,Consumer
+ORD-00914,2025-12-15,South,Chennai,Office Supplies,Notebook Pack,4,222.93,0.1,802.55,282.73,Retail Store,Consumer
+ORD-01117,2025-12-16,North,Lucknow,Electronics,Wireless Mouse,1,764.52,0.1,688.07,84.9,Retail Store,Enterprise
+ORD-00226,2025-12-17,North,Chandigarh,Office Supplies,Notebook Pack,2,278.84,0.15,474.03,120.02,Retail Store,Consumer
+ORD-00877,2025-12-17,West,Surat,Home,Desk Lamp,4,1359.57,0.1,4894.45,1024.22,Marketplace,Consumer
+ORD-01053,2025-12-17,South,Bengaluru,Home,Water Bottle,2,423.6,0.0,847.2,235.87,Online,Small Business
+ORD-00890,2025-12-18,South,Coimbatore,Books,Exam Guide,1,517.99,0.0,517.99,217.95,Online,Consumer
+ORD-00070,2025-12-19,South,Bengaluru,Clothing,T-Shirt,5,738.69,0.0,3693.45,1144.82,Online,Small Business
+ORD-00889,2025-12-19,South,Kochi,Electronics,Monitor,1,12711.57,0.2,10169.26,-60.32,Online,Consumer
+ORD-00161,2025-12-20,South,Kochi,Electronics,Headphones,1,2495.78,0.05,2370.99,515.58,Retail Store,Small Business
+ORD-00204,2025-12-20,West,Pune,Electronics,Monitor,2,12615.54,0.0,25231.08,4639.24,Retail Store,Small Business
+ORD-00393,2025-12-20,North,Jaipur,Clothing,Jacket,4,3162.67,0.1,11385.61,3154.01,Marketplace,Small Business
+ORD-00585,2025-12-20,East,Bhubaneswar,Office Supplies,Backpack,1,1577.42,0.0,1577.42,425.24,Retail Store,Consumer
+ORD-00019,2025-12-21,North,Delhi,Office Supplies,Whiteboard,3,2126.32,0.0,6378.96,1625.48,Online,Consumer
+ORD-00546,2025-12-21,North,Lucknow,Clothing,Jeans,4,2025.23,0.0,8100.92,2218.01,Retail Store,Consumer
+ORD-00548,2025-12-21,East,Bhubaneswar,Electronics,Headphones,1,2391.97,0.25,1793.98,222.65,Online,Consumer
+ORD-00579,2025-12-21,West,Pune,Office Supplies,Pen Set,3,162.21,0.1,437.97,129.59,Marketplace,Consumer
+ORD-00923,2025-12-21,West,Mumbai,Clothing,Jacket,1,2982.59,0.2,2386.07,272.4,Online,Consumer
+ORD-01452,2025-12-21,West,Ahmedabad,Clothing,Jacket,1,3032.61,0.1,2729.35,404.19,Online,Consumer
+ORD-00171,2025-12-22,West,Pune,Home,Office Chair,1,8795.24,0.05,8355.48,1989.59,Online,Consumer
+ORD-00212,2025-12-22,North,Delhi,Clothing,Sneakers,1,2637.06,0.05,2505.21,481.26,Online,Consumer
+ORD-00778,2025-12-22,East,Bhubaneswar,Electronics,Keyboard,1,1645.01,0.15,1398.26,246.05,Online,Small Business
+ORD-00902,2025-12-22,East,Patna,Home,Storage Box,1,738.47,0.15,627.7,73.56,Marketplace,Small Business
+ORD-00935,2025-12-22,East,Kolkata,Books,Business Book,2,598.9,0.1,1078.02,314.5,Online,Consumer
+ORD-01324,2025-12-22,South,Bengaluru,Books,Exam Guide,2,560.23,0.2,896.37,235.82,Marketplace,Consumer
+ORD-01574,2025-12-22,North,Delhi,Office Supplies,Pen Set,2,179.44,0.0,358.88,174.32,Online,Enterprise
+ORD-01401,2025-12-23,North,Dehradun,Clothing,Jeans,2,1706.81,0.1,3072.26,625.07,Online,Consumer
+ORD-00334,2025-12-24,West,Surat,Office Supplies,Notebook Pack,2,241.06,0.25,361.59,75.3,Online,Small Business
+ORD-00526,2025-12-24,South,Bengaluru,Home,Water Bottle,2,434.4,0.1,781.92,165.23,Online,Consumer
+ORD-01321,2025-12-24,West,Panaji,Clothing,Sneakers,4,3046.49,0.2,9748.77,797.4,Online,Consumer
+ORD-01518,2025-12-24,North,Chandigarh,Office Supplies,Whiteboard,1,2218.03,0.0,2218.03,656.61,Marketplace,Consumer
+ORD-01066,2025-12-25,West,Ahmedabad,Office Supplies,Notebook Pack,1,237.16,0.1,213.44,75.38,Online,Consumer
+ORD-01493,2025-12-25,East,Kolkata,Clothing,Jeans,1,1984.1,0.05,1884.89,527.99,Online,Small Business
+ORD-01592,2025-12-25,East,Bhubaneswar,Electronics,Keyboard,1,1528.6,0.15,1299.31,110.75,Online,Consumer
+ORD-00079,2025-12-26,North,Dehradun,Clothing,Sneakers,1,3062.33,0.15,2602.98,437.13,Retail Store,Consumer
+ORD-01016,2025-12-26,West,Mumbai,Electronics,Headphones,2,2712.37,0.1,4882.27,1035.62,Retail Store,Consumer
+ORD-00038,2025-12-27,South,Bengaluru,Clothing,Jeans,3,1983.51,0.2,4760.42,806.97,Online,Consumer
+ORD-00524,2025-12-27,East,Ranchi,Clothing,Jacket,1,3409.89,0.0,3409.89,663.85,Online,Small Business
+ORD-01096,2025-12-27,North,Chandigarh,Home,Water Bottle,1,427.05,0.2,341.64,35.89,Retail Store,Consumer
+ORD-01422,2025-12-28,West,Pune,Clothing,T-Shirt,1,751.62,0.05,714.04,270.63,Retail Store,Small Business
+ORD-00421,2025-12-29,South,Bengaluru,Books,Business Book,4,552.36,0.15,1878.02,415.01,Online,Consumer
+ORD-01303,2025-12-30,North,Lucknow,Books,Data Science Book,1,826.71,0.05,785.37,219.85,Online,Small Business
+ORD-00007,2025-12-31,North,Chandigarh,Books,Design Handbook,1,1135.36,0.1,1021.82,209.4,Online,Small Business
+ORD-00449,2025-12-31,North,Dehradun,Electronics,Monitor,1,12784.19,0.15,10866.56,-176.72,Online,Enterprise
+ORD-00512,2025-12-31,South,Coimbatore,Office Supplies,Notebook Pack,4,244.61,0.1,880.6,255.72,Marketplace,Consumer
+ORD-01222,2025-12-31,East,Kolkata,Electronics,Monitor,1,12547.16,0.05,11919.8,2087.06,Online,Small Business

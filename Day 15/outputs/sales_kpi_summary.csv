@@ -1,0 +1,8 @@
+metric,value
+records,1600
+date_start,2024-01-01
+date_end,2025-12-31
+total_sales_inr,6574552.38
+total_profit_inr,1093106.36
+average_order_sales_inr,4109.1
+negative_profit_order_count,9
