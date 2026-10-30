@@ -1,0 +1,12 @@
+{
+  "project": "Power BI E-commerce Sales Dashboard Starter",
+  "generated": "2026-10-30",
+  "synthetic_data": true,
+  "rows": {
+    "sales": 900,
+    "products": 36,
+    "customers": 80,
+    "regions": 4,
+    "targets": 96
+  }
+}

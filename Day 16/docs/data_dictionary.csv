@@ -1,0 +1,18 @@
+Table,Column,Description
+FactSales,SalesID,Unique ID for each order line
+FactSales,OrderID,Order number; intentionally repeats across line items
+FactSales,OrderDate,Date the order was placed
+FactSales,ShipDate,Date the line shipped
+FactSales,CustomerID,Foreign key to DimCustomer
+FactSales,ProductID,Foreign key to DimProduct
+FactSales,RegionID,Foreign key to DimRegion
+FactSales,Quantity,Units sold on the line
+FactSales,UnitPrice,Selling unit price before discount
+FactSales,UnitCost,Unit cost
+FactSales,DiscountPct,Discount fraction; 0.10 means 10%
+DimProduct,ProductID,Unique product key
+DimCustomer,CustomerID,Unique customer key
+DimRegion,RegionID,Unique region key
+FactSalesTargets,month_start,First day of target month
+FactSalesTargets,region_id,Region key
+FactSalesTargets,target_sales,Monthly target amount in INR

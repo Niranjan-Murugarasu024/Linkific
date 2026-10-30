@@ -1,0 +1,59 @@
+// Create these as MEASURES (Modeling > New measure), not calculated columns.
+// Table names below assume you used the names in the README.
+
+Total Sales =
+SUMX (
+    FactSales,
+    FactSales[Quantity] * FactSales[UnitPrice] * ( 1 - FactSales[DiscountPct] )
+)
+
+Total Cost =
+SUMX ( FactSales, FactSales[Quantity] * FactSales[UnitCost] )
+
+Total Profit =
+[Total Sales] - [Total Cost]
+
+Profit Margin % =
+DIVIDE ( [Total Profit], [Total Sales], 0 )
+
+Total Units =
+SUM ( FactSales[Quantity] )
+
+Total Orders =
+DISTINCTCOUNT ( FactSales[OrderID] )
+
+Average Order Value =
+DIVIDE ( [Total Sales], [Total Orders], 0 )
+
+Average Discount % =
+AVERAGE ( FactSales[DiscountPct] )
+
+Sales Target =
+SUM ( FactSalesTargets[target_sales] )
+
+Target Variance =
+[Total Sales] - [Sales Target]
+
+Target Attainment % =
+DIVIDE ( [Total Sales], [Sales Target], 0 )
+
+Sales YTD =
+TOTALYTD ( [Total Sales], DimDate[Date] )
+
+Sales Previous Year =
+CALCULATE ( [Total Sales], DATEADD ( DimDate[Date], -1, YEAR ) )
+
+Sales YoY Growth % =
+DIVIDE ( [Total Sales] - [Sales Previous Year], [Sales Previous Year], 0 )
+
+// Optional: create as a calculated table after FactSales is loaded.
+// Then mark DimDate as the date table using DimDate[Date].
+DimDate =
+ADDCOLUMNS (
+    CALENDAR ( DATE ( 2025, 1, 1 ), DATE ( 2026, 12, 31 ) ),
+    "Year", YEAR ( [Date] ),
+    "Month Number", MONTH ( [Date] ),
+    "Month", FORMAT ( [Date], "MMM" ),
+    "Year Month", FORMAT ( [Date], "YYYY-MM" ),
+    "Quarter", "Q" & FORMAT ( [Date], "Q" )
+)
