@@ -1,0 +1,195 @@
+/*
+ADVANCED POWER BI DAX LIBRARY
+Model expected:
+FactSales, DimProducts, DimCustomer, DimRegion, FactSalesTargets, DimDate
+
+Create each calculated column or measure separately in Power BI Desktop.
+Verify exact table/column/measure names before pasting.
+DiscountPct is assumed to be stored as a decimal (0.10 = 10%).
+*/
+
+// ============================================================
+// A. CALCULATED COLUMN: row-level value stored at model refresh
+// ============================================================
+
+Line Net Sales =
+    FactSales[Quantity]
+        * FactSales[UnitPrice]
+        * ( 1 - FactSales[DiscountPct] )
+
+// ============================================================
+// B. COLUMN / MEASURE RECONCILIATION
+// ============================================================
+
+Total Sales (Column Check) =
+    SUM ( FactSales[Line Net Sales] )
+
+Sales Reconciliation Difference =
+    [Total Sales] - [Total Sales (Column Check)]
+
+// ============================================================
+// C. ITERATORS: SUMX / AVERAGEX
+// ============================================================
+
+Average Sales Line Value =
+    AVERAGEX (
+        FactSales,
+        FactSales[Quantity]
+            * FactSales[UnitPrice]
+            * ( 1 - FactSales[DiscountPct] )
+    )
+
+Sales on Multi-Unit Lines =
+    CALCULATE (
+        [Total Sales],
+        FILTER ( FactSales, FactSales[Quantity] >= 3 )
+    )
+
+// ============================================================
+// D. CALCULATE / FILTER CONTEXT
+// ============================================================
+
+East Region Sales =
+    CALCULATE (
+        [Total Sales],
+        DimRegion[RegionName] = "East"
+    )
+
+Sales All Products =
+    CALCULATE (
+        [Total Sales],
+        ALL ( DimProducts )
+    )
+
+Product Sales Contribution % =
+    DIVIDE (
+        [Total Sales],
+        [Sales All Products],
+        0
+    )
+
+Category Sales - Keep Category =
+    CALCULATE (
+        [Total Sales],
+        ALLEXCEPT ( DimProducts, DimProducts[Category] )
+    )
+
+// ============================================================
+// E. TIME INTELLIGENCE
+// Requires a marked, continuous DimDate and active relationship
+// DimDate[Date] -> FactSales[OrderDate].
+// ============================================================
+
+Sales Previous Year =
+    CALCULATE (
+        [Total Sales],
+        SAMEPERIODLASTYEAR ( DimDate[Date] )
+    )
+
+YoY Sales Difference =
+    [Total Sales] - [Sales Previous Year]
+
+YoY Growth % =
+    IF (
+        ISBLANK ( [Sales Previous Year] ),
+        BLANK (),
+        DIVIDE ( [YoY Sales Difference], [Sales Previous Year] )
+    )
+
+Sales YTD =
+    TOTALYTD ( [Total Sales], DimDate[Date] )
+
+Sales QTD =
+    TOTALQTD ( [Total Sales], DimDate[Date] )
+
+Sales MTD =
+    TOTALMTD ( [Total Sales], DimDate[Date] )
+
+// ============================================================
+// F. RUNNING TOTAL
+// ALLSELECTED(DimDate) removes the current chart row while
+// respecting external date selections such as the Year slicer.
+// ============================================================
+
+Running Total Sales =
+VAR LastVisibleDate =
+    MAX ( DimDate[Date] )
+RETURN
+    CALCULATE (
+        [Total Sales],
+        FILTER (
+            ALLSELECTED ( DimDate ),
+            DimDate[Date] <= LastVisibleDate
+        )
+    )
+
+// ============================================================
+// G. THREE-MONTH MOVING AVERAGE OF MONTHLY SALES
+// Returns blank until three complete months are available.
+// Use with DimDate[Year Month] on a monthly visual axis.
+// ============================================================
+
+Sales 3M Moving Average =
+VAR LastVisibleDate =
+    MAX ( DimDate[Date] )
+VAR PeriodStart =
+    EOMONTH ( LastVisibleDate, -3 ) + 1
+VAR PeriodEnd =
+    EOMONTH ( LastVisibleDate, 0 )
+VAR PeriodMonths =
+    CALCULATETABLE (
+        VALUES ( DimDate[Year Month] ),
+        REMOVEFILTERS ( DimDate ),
+        DimDate[Date] >= PeriodStart,
+        DimDate[Date] <= PeriodEnd
+    )
+RETURN
+    IF (
+        COUNTROWS ( PeriodMonths ) < 3,
+        BLANK (),
+        AVERAGEX (
+            PeriodMonths,
+            CALCULATE ( [Total Sales] )
+        )
+    )
+
+// ============================================================
+// H. RANKING
+// ALLSELECTED keeps report-level selections while comparing
+// products/regions within the currently selected population.
+// ============================================================
+
+Product Revenue Rank =
+IF (
+    ISINSCOPE ( DimProducts[ProductName] ),
+    RANKX (
+        ALLSELECTED ( DimProducts[ProductName] ),
+        [Total Sales],
+        ,
+        DESC,
+        DENSE
+    )
+)
+
+Region Sales Rank =
+IF (
+    ISINSCOPE ( DimRegion[RegionName] ),
+    RANKX (
+        ALLSELECTED ( DimRegion[RegionName] ),
+        [Total Sales],
+        ,
+        DESC,
+        DENSE
+    )
+)
+
+// ============================================================
+// I. OPTIONAL DYNAMIC TITLES
+// ============================================================
+
+Selected Product Title =
+    "Product Details – "
+        & SELECTEDVALUE (
+            DimProducts[ProductName],
+            "Multiple or no products selected"
+        )
