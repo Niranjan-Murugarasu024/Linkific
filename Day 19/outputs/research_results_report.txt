@@ -1,0 +1,32 @@
+DAY 19 — RESEARCH ANALYSIS REPORT
+================================
+Dataset: synthetic educational data; no real customers are represented.
+Research question: Is satisfaction associated with repeat-purchase intention?
+
+Sample size: 120
+Valid correlation pairs: 120
+
+DESCRIPTIVES
+Satisfaction mean: 3.617
+Repeat intention mean: 3.633
+Delivery rating mean: 3.450
+
+CORRELATION
+Pearson r = 0.554
+p-value = 0.000000
+This describes linear association in synthetic data; it does not establish causation.
+
+GROUP COMPARISON
+Lower satisfaction (<=3): n=47, mean repeat intention=3.106
+Higher satisfaction (>=4): n=73, mean repeat intention=3.973
+Welch t=4.995, p=0.000003
+Cohen's d (higher minus lower)=0.968
+Decision: statistically significant at alpha=0.05.
+
+INTERPRETATION CHECKLIST
+- Statistical significance is not practical importance.
+- Report effect size and group means, not only p-value.
+- A non-significant result does not prove no relationship.
+- Synthetic data cannot generalize to actual shoppers.
+- Grouping ordinal scores loses information.
+- Cross-sectional self-report data cannot establish causal influence.

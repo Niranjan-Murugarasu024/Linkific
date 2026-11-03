@@ -1,0 +1,14 @@
+,value
+dataset_note,Synthetic practice data; not real customer evidence.
+n_total,120
+n_valid_correlation,120
+pearson_r,0.5538469207507255
+pearson_p_value,5.327124013463725e-11
+lower_group_n,47
+lower_group_mean,3.106382978723404
+higher_group_n,73
+higher_group_mean,3.9726027397260273
+welch_t_statistic,4.995252450541747
+welch_p_value,3.024642435000699e-06
+cohen_d_higher_minus_lower,0.9683949667128697
+alpha,0.05

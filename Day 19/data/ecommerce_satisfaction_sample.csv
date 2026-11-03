@@ -1,0 +1,121 @@
+respondent_id,age_band,purchase_frequency,satisfaction,repeat_intention,delivery_rating,consent
+SYN001,55+,1-2 times/month,4,4,3,True
+SYN002,55+,1-2 times/month,3,2,3,True
+SYN003,18-24,3-5 times/month,3,3,3,True
+SYN004,18-24,6+ times/month,5,5,5,True
+SYN005,18-24,3-5 times/month,2,1,2,True
+SYN006,45-54,1-2 times/month,3,4,4,True
+SYN007,25-34,3-5 times/month,5,3,4,True
+SYN008,18-24,3-5 times/month,5,4,5,True
+SYN009,18-24,3-5 times/month,3,4,4,True
+SYN010,55+,Less than monthly,4,5,3,True
+SYN011,55+,6+ times/month,4,3,4,True
+SYN012,45-54,1-2 times/month,5,4,5,True
+SYN013,45-54,1-2 times/month,4,3,2,True
+SYN014,35-44,1-2 times/month,3,3,2,True
+SYN015,45-54,Less than monthly,4,4,4,True
+SYN016,18-24,Less than monthly,2,2,2,True
+SYN017,45-54,1-2 times/month,4,4,4,True
+SYN018,18-24,1-2 times/month,4,5,5,True
+SYN019,55+,3-5 times/month,5,5,5,True
+SYN020,55+,1-2 times/month,5,5,4,True
+SYN021,18-24,3-5 times/month,3,3,4,True
+SYN022,55+,1-2 times/month,4,4,4,True
+SYN023,35-44,3-5 times/month,4,5,4,True
+SYN024,55+,1-2 times/month,4,4,3,True
+SYN025,18-24,6+ times/month,4,3,4,True
+SYN026,18-24,1-2 times/month,3,5,3,True
+SYN027,45-54,3-5 times/month,5,4,5,True
+SYN028,35-44,6+ times/month,3,4,4,True
+SYN029,45-54,3-5 times/month,2,2,1,True
+SYN030,45-54,3-5 times/month,5,5,5,True
+SYN031,25-34,1-2 times/month,3,3,4,True
+SYN032,55+,Less than monthly,5,5,5,True
+SYN033,45-54,Less than monthly,4,4,4,True
+SYN034,55+,3-5 times/month,4,3,3,True
+SYN035,55+,3-5 times/month,3,4,3,True
+SYN036,45-54,3-5 times/month,2,3,1,True
+SYN037,35-44,Less than monthly,3,4,2,True
+SYN038,35-44,Less than monthly,4,3,3,True
+SYN039,55+,Less than monthly,5,2,5,True
+SYN040,45-54,Less than monthly,2,2,2,True
+SYN041,55+,1-2 times/month,4,3,3,True
+SYN042,55+,1-2 times/month,4,3,4,True
+SYN043,35-44,3-5 times/month,4,4,3,True
+SYN044,18-24,3-5 times/month,4,5,4,True
+SYN045,45-54,Less than monthly,5,5,5,True
+SYN046,18-24,Less than monthly,4,4,5,True
+SYN047,45-54,6+ times/month,3,4,2,True
+SYN048,18-24,3-5 times/month,5,4,5,True
+SYN049,18-24,3-5 times/month,3,4,3,True
+SYN050,45-54,1-2 times/month,2,4,2,True
+SYN051,55+,Less than monthly,5,4,5,True
+SYN052,45-54,1-2 times/month,3,4,4,True
+SYN053,55+,1-2 times/month,4,3,4,True
+SYN054,35-44,Less than monthly,4,4,5,True
+SYN055,45-54,1-2 times/month,4,4,4,True
+SYN056,45-54,Less than monthly,4,4,4,True
+SYN057,18-24,Less than monthly,4,4,3,True
+SYN058,55+,Less than monthly,4,5,3,True
+SYN059,35-44,1-2 times/month,4,3,4,True
+SYN060,18-24,3-5 times/month,4,3,4,True
+SYN061,45-54,1-2 times/month,1,2,2,True
+SYN062,45-54,1-2 times/month,4,3,3,True
+SYN063,45-54,3-5 times/month,1,1,1,True
+SYN064,45-54,6+ times/month,4,5,3,True
+SYN065,25-34,3-5 times/month,3,3,3,True
+SYN066,18-24,3-5 times/month,4,3,4,True
+SYN067,18-24,3-5 times/month,3,4,5,True
+SYN068,35-44,3-5 times/month,5,4,4,True
+SYN069,25-34,6+ times/month,4,5,3,True
+SYN070,35-44,1-2 times/month,5,5,4,True
+SYN071,35-44,3-5 times/month,4,4,4,True
+SYN072,55+,6+ times/month,3,3,3,True
+SYN073,55+,3-5 times/month,5,4,3,True
+SYN074,25-34,3-5 times/month,3,3,3,True
+SYN075,55+,3-5 times/month,1,2,1,True
+SYN076,45-54,1-2 times/month,5,4,4,True
+SYN077,55+,1-2 times/month,4,5,4,True
+SYN078,35-44,6+ times/month,3,4,3,True
+SYN079,35-44,1-2 times/month,3,3,3,True
+SYN080,35-44,3-5 times/month,4,5,4,True
+SYN081,18-24,1-2 times/month,5,4,4,True
+SYN082,25-34,1-2 times/month,1,3,2,True
+SYN083,35-44,6+ times/month,4,5,2,True
+SYN084,55+,1-2 times/month,5,5,5,True
+SYN085,45-54,3-5 times/month,4,4,3,True
+SYN086,55+,1-2 times/month,5,4,5,True
+SYN087,55+,6+ times/month,3,5,5,True
+SYN088,18-24,6+ times/month,2,2,1,True
+SYN089,35-44,3-5 times/month,4,4,5,True
+SYN090,35-44,3-5 times/month,3,3,2,True
+SYN091,35-44,3-5 times/month,3,5,3,True
+SYN092,45-54,1-2 times/month,4,3,4,True
+SYN093,45-54,6+ times/month,4,4,4,True
+SYN094,55+,Less than monthly,4,2,4,True
+SYN095,45-54,1-2 times/month,2,4,1,True
+SYN096,18-24,Less than monthly,4,5,4,True
+SYN097,25-34,3-5 times/month,2,4,1,True
+SYN098,55+,1-2 times/month,4,3,3,True
+SYN099,45-54,1-2 times/month,3,3,4,True
+SYN100,18-24,3-5 times/month,4,4,4,True
+SYN101,45-54,1-2 times/month,5,5,5,True
+SYN102,55+,Less than monthly,1,2,1,True
+SYN103,55+,3-5 times/month,3,3,4,True
+SYN104,25-34,1-2 times/month,5,5,4,True
+SYN105,55+,1-2 times/month,3,3,3,True
+SYN106,55+,3-5 times/month,2,2,2,True
+SYN107,45-54,1-2 times/month,4,3,4,True
+SYN108,35-44,1-2 times/month,5,3,5,True
+SYN109,35-44,3-5 times/month,1,2,2,True
+SYN110,35-44,Less than monthly,4,3,2,True
+SYN111,55+,3-5 times/month,5,3,5,True
+SYN112,18-24,3-5 times/month,3,3,3,True
+SYN113,55+,1-2 times/month,3,3,3,True
+SYN114,35-44,1-2 times/month,2,2,2,True
+SYN115,25-34,3-5 times/month,4,4,3,True
+SYN116,35-44,1-2 times/month,5,3,5,True
+SYN117,45-54,1-2 times/month,2,3,2,True
+SYN118,25-34,Less than monthly,2,4,1,True
+SYN119,18-24,3-5 times/month,5,5,5,True
+SYN120,18-24,3-5 times/month,4,4,5,True
