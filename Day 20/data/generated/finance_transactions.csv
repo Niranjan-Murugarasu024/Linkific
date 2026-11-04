@@ -1,0 +1,51 @@
+transaction_id,account_id,transaction_date,transaction_type,amount,merchant,description,channel,status
+1,239,2024-03-31,debit,10308.17,Garrett-Edwards,Company hospital everything fly.,card,posted
+2,1039,2025-11-16,debit,349.38,"Morrison, Conley and Johnson",Local back public anyone.,card,posted
+3,645,2025-12-03,credit,170.9,Mathis-Reid,Family lay what.,bank_transfer,posted
+4,1144,2024-03-26,credit,344.08,"Green, Lewis and Williams",Bank sell successful white goal.,upi,posted
+5,311,2024-08-01,debit,10127.45,Scott-Gutierrez,Capital theory sense identify under.,upi,posted
+6,1794,2024-03-03,credit,173.05,Richardson LLC,Mind staff second.,upi,posted
+7,1409,2024-04-25,debit,1958.36,"Johnson, Brown and Chavez",Officer body since final.,bank_transfer,posted
+8,1346,2025-09-30,credit,9242.41,Terry Ltd,His face door in think almost.,atm,posted
+9,1113,2024-08-11,debit,668.96,Perez and Sons,Environment interesting meeting deep how.,atm,pending
+10,667,2025-08-09,credit,1550.98,"Alexander, Clark and Roth",Red thought build usually consumer contain.,bank_transfer,posted
+11,712,2025-09-17,debit,6050.01,Barron-Alvarez,Politics simply pass side laugh positive.,atm,posted
+12,1408,2024-03-16,credit,325.64,Murphy-Shaw,Put space another likely day.,atm,posted
+13,1581,2025-03-12,debit,567.21,Harris-Frazier,Recent really than mean.,atm,posted
+14,534,2024-11-26,credit,219.54,Archer-Johnson,Sometimes point summer such PM.,card,posted
+15,840,2024-02-27,credit,1292.28,"Taylor, Poole and Benson",Energy task institution.,card,pending
+16,1257,2023-02-13,debit,239.77,"Hubbard, Gardner and Morales",Ahead hospital cost article attorney.,atm,posted
+17,1444,2025-11-28,debit,1464.49,Lane Ltd,Listen want oil.,upi,posted
+18,407,2024-04-14,credit,3151.56,Wang PLC,Bag yet staff us make no.,bank_transfer,posted
+19,1866,2024-05-24,debit,731.16,Park-Church,Significant do bed scene.,card,posted
+20,42,2023-03-28,credit,1111.6,Ferguson LLC,Energy if factor air responsibility option.,upi,posted
+21,50,2023-03-11,credit,2430.54,"Mckay, Young and Wilkerson",Whatever few writer own.,bank_transfer,posted
+22,1666,2024-07-06,debit,1536.5,Rodriguez LLC,Particular industry agree herself conference pay.,card,posted
+23,1034,2023-07-15,debit,2896.17,"Gonzales, Smith and Green",Most when even no mention simply.,online,posted
+24,398,2023-02-17,debit,2792.9,"Hartman, Cain and Terry",Letter much increase.,bank_transfer,posted
+25,416,2025-08-23,credit,300.87,"Dalton, Smith and Walters",Professional question gas population.,atm,posted
+26,191,2025-12-28,credit,780.32,"Shields, Blake and Morse",Here surface think.,online,posted
+27,36,2025-07-15,debit,6228.31,"Mccall, Barrett and Valenzuela",Behavior ability vote simple boy approach.,upi,posted
+28,51,2025-09-03,debit,2767.27,"Madden, Gutierrez and Evans",They data message much military.,online,posted
+29,637,2023-06-21,debit,178.32,Gibson Group,More over increase.,card,posted
+30,426,2025-04-05,debit,1329.31,Curtis LLC,Successful for water produce.,online,posted
+31,1072,2025-04-23,credit,212.08,Ellis PLC,Process whole week contain positive place.,bank_transfer,posted
+32,1709,2024-07-03,credit,4670.79,Jones PLC,Institution or both.,upi,posted
+33,1628,2026-08-28,debit,1242.93,"Wilkerson, Cruz and Rodriguez",Image car newspaper most subject drive.,upi,posted
+34,1452,2023-06-16,debit,1329.64,Bryant Ltd,Yes instead pull think.,card,posted
+35,159,2024-02-09,debit,1144.62,Adams-Nguyen,High prepare politics free miss start.,atm,posted
+36,233,2026-07-06,credit,4633.51,Yoder-Miller,Save far product.,online,posted
+37,1534,2025-06-10,debit,837.2,"Thomas, Martin and Mcdowell",Imagine affect bed unit.,bank_transfer,posted
+38,1803,2025-01-31,debit,1224.41,Ellis and Sons,Consumer travel now.,online,posted
+39,290,2026-06-11,debit,1158.82,Morrow-Mcintosh,Economic heavy set.,bank_transfer,posted
+40,515,2023-10-05,debit,365.78,Anderson LLC,Heart card share ready.,upi,posted
+41,1699,2023-11-04,debit,224.81,Bell and Sons,Eight senior record spring smile.,atm,posted
+42,12,2023-07-12,debit,1763.03,Frazier-Arellano,Still evening theory member chair.,online,posted
+43,194,2023-05-17,credit,1961.61,Sawyer-Hudson,Eat hard voice hundred charge culture.,bank_transfer,posted
+44,1810,2025-05-22,credit,487.71,Hall Inc,Idea less simple wife imagine.,online,posted
+45,753,2026-08-06,debit,7096.73,"Jones, Watson and Collins",Whose talk project company security week.,upi,posted
+46,313,2024-06-22,credit,2007.27,Jacobs Group,Close improve people action.,online,posted
+47,1633,2026-04-27,debit,268.92,Sanders-Levy,On computer throughout help world training.,online,posted
+48,1654,2026-06-13,debit,574.88,"Sandoval, Moore and Melendez",Social safe easy fly need local.,upi,posted
+49,974,2023-04-17,credit,44.52,Hawkins-Marshall,Late cost trouble its feeling east.,upi,posted
+50,901,2025-10-21,debit,1741.11,"Thompson, Mills and Camacho",Time spend believe customer.,card,posted
