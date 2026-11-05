@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+logs/
+data/raw/*
+data/processed/*
+data/warehouse/*
+!.gitkeep

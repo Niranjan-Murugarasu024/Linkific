@@ -1,0 +1,16 @@
+project:
+  name: day21-multi-source-pipeline
+  output_dir: data
+sources:
+  jsonplaceholder:
+    base_url: https://jsonplaceholder.typicode.com
+    endpoint: /users
+  dummyjson:
+    base_url: https://dummyjson.com
+    endpoint: /products
+  restcountries:
+    base_url: https://restcountries.com/v3.1
+    endpoint: /all?fields=name,cca2,region,population
+pipeline:
+  retries: 3
+  timeout_seconds: 20

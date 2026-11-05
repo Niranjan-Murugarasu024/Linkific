@@ -1,0 +1,12 @@
+requests
+pandas
+sqlalchemy
+psycopg2-binary
+openpyxl
+pyarrow
+fastavro
+beautifulsoup4
+lxml
+python-dotenv
+PyYAML
+paramiko

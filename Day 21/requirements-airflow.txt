@@ -1,0 +1,13 @@
+# Install inside an Airflow image/environment compatible with your Airflow version.
+# Do not pip-install Airflow independently into an arbitrary Python environment.
+pandas
+requests
+sqlalchemy
+psycopg2-binary
+openpyxl
+pyarrow
+fastavro
+beautifulsoup4
+lxml
+python-dotenv
+paramiko

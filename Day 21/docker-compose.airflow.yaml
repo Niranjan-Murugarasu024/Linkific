@@ -1,0 +1,21 @@
+# Learning setup: Airflow standalone container, local project mounted into dags.
+# For production, use the official multi-service Airflow Compose deployment and a metadata DB.
+services:
+  airflow:
+    image: apache/airflow:2.10.5
+    container_name: day21-airflow
+    command: standalone
+    ports:
+      - "8080:8080"
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+      AIRFLOW__CORE__EXECUTOR: SequentialExecutor
+      PYTHONPATH: /opt/airflow/project
+      DAY21_PROJECT_DIR: /opt/airflow/project
+      _PIP_ADDITIONAL_REQUIREMENTS: "pandas requests sqlalchemy psycopg2-binary openpyxl pyarrow fastavro beautifulsoup4 lxml python-dotenv paramiko"
+      WAREHOUSE_URL: "${WAREHOUSE_URL:?Set WAREHOUSE_URL in the project .env file}"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./:/opt/airflow/project
+    working_dir: /opt/airflow/project
