@@ -1,0 +1,21 @@
+region_id,region_name,state,country
+R-01,Chennai,Tamil Nadu,India
+R-02,Coimbatore,Tamil Nadu,India
+R-03,Bengaluru,Karnataka,India
+R-04,Mysuru,Karnataka,India
+R-05,Hyderabad,Telangana,India
+R-06,Warangal,Telangana,India
+R-07,Mumbai,Maharashtra,India
+R-08,Pune,Maharashtra,India
+R-09,Kochi,Kerala,India
+R-10,Thiruvananthapuram,Kerala,India
+R-11,Jaipur,Rajasthan,India
+R-12,Jodhpur,Rajasthan,India
+R-13,Ahmedabad,Gujarat,India
+R-14,Surat,Gujarat,India
+R-15,Lucknow,Uttar Pradesh,India
+R-16,Kanpur,Uttar Pradesh,India
+R-17,Bhopal,Madhya Pradesh,India
+R-18,Indore,Madhya Pradesh,India
+R-19,Patna,Bihar,India
+R-20,Ranchi,Jharkhand,India
