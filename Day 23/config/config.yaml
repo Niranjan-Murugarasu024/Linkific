@@ -1,0 +1,5 @@
+apis:
+  jsonplaceholder: {base_url: "https://jsonplaceholder.typicode.com", endpoint: "/posts", page_size: 10}
+  dummyjson: {base_url: "https://dummyjson.com", endpoint: "/products", page_size: 10}
+  countries: {base_url: "https://restcountries.com", endpoint: "/v3.1/all", fields: "name,cca2,capital,region,population"}
+scraping: {url: "https://books.toscrape.com/", max_pages: 2}

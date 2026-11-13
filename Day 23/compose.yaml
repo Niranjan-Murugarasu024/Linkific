@@ -1,0 +1,25 @@
+services:
+  airflow:
+    build:
+      context: .
+      args:
+        AIRFLOW_VERSION: "2.9.3"
+    working_dir: /opt/airflow/project
+    environment:
+      AIRFLOW_HOME: /opt/airflow
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+      AIRFLOW__CORE__EXECUTOR: SequentialExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      DAY23_PROJECT_DIR: /opt/airflow/project
+      PYTHONPATH: /opt/airflow/project
+    ports:
+      - "8080:8080"
+    volumes:
+      - airflow-home:/opt/airflow
+      - ./:/opt/airflow/project
+      - ./airflow:/opt/airflow/dags
+    command: standalone
+    restart: unless-stopped
+
+volumes:
+  airflow-home:
