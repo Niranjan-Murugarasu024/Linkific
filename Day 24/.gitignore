@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+reports/validation_report_*.json
+reports/validation_report_*.txt

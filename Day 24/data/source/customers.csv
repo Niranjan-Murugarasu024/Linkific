@@ -1,0 +1,81 @@
+customer_id,full_name,email,city,state,country,region_code,segment,updated_at
+1001,Vikram Iyer,customer1001@example.com,Bengaluru,Karnataka,India,SOUTH,Home Office,2023-03-28
+1002,Sanjay Patel,customer1002@example.com,Bhopal,Madhya Pradesh,India,CENTRAL,Corporate,2023-07-07
+1003,Aarav Singh,customer1003@example.com,Bhopal,Madhya Pradesh,India,CENTRAL,Small Business,2023-02-26
+1004,Sanjay Rao,customer1004@example.com,Jaipur,Rajasthan,India,NORTH,Small Business,2023-10-06
+1005,Aarav Murthy,customer1005@example.com,Bhopal,Madhya Pradesh,India,CENTRAL,Small Business,2023-08-26
+1006,Rohan Reddy,customer1006@example.com,Kochi,Kerala,India,SOUTH,Consumer,2023-05-02
+1007,Meera Rao,customer1007@example.com,Coimbatore,Tamil Nadu,India,SOUTH,Small Business,2023-01-06
+1008,Ira Reddy,customer1008@example.com,Bhubaneswar,Odisha,India,EAST,Home Office,2023-06-24
+1009,Priya Sharma,customer1009@example.com,Bengaluru,Karnataka,India,SOUTH,Small Business,2023-10-13
+1010,Aditya Das,customer1010@example.com,Jaipur,Rajasthan,India,NORTH,Corporate,2023-07-07
+1011,Arjun Reddy,customer1011@example.com,Kochi,Kerala,India,SOUTH,Corporate,2023-01-22
+1012,Arjun Kapoor,customer1012@example.com,Coimbatore,Tamil Nadu,India,SOUTH,Small Business,2023-11-13
+1013,Meera Kapoor,customer1013@example.com,Coimbatore,Tamil Nadu,India,SOUTH,Consumer,2023-03-29
+1014,Ishaan Kapoor,customer1014@example.com,Coimbatore,Tamil Nadu,India,SOUTH,Small Business,2023-04-03
+1015,Vikram Menon,customer1015@example.com,New Delhi,Delhi,India,NORTH,Consumer,2023-03-14
+1016,Vikram Gupta,customer1016@example.com,Bhubaneswar,Odisha,India,EAST,Corporate,2023-02-22
+1017,Aarav Nair,customer1017@example.com,Kolkata,West Bengal,India,EAST,Consumer,2023-06-28
+1018,Ishaan Iyer,customer1018@example.com,New Delhi,Delhi,India,NORTH,Corporate,2023-12-15
+1019,Diya Sharma,customer1019@example.com,Hyderabad,Telangana,India,SOUTH,Small Business,2023-05-18
+1020,Ananya Nair,customer1020@example.com,Jaipur,Rajasthan,India,NORTH,Corporate,2023-07-07
+1021,Sanjay Rao,customer1021@example.com,Chennai,Tamil Nadu,India,SOUTH,Home Office,2023-08-20
+1022,Meera Kapoor,customer1022@example.com,New Delhi,Delhi,India,NORTH,Corporate,2023-04-02
+1023,Ira Reddy,customer1023@example.com,Mumbai,Maharashtra,India,WEST,Consumer,2023-12-21
+1024,Vikram Iyer,customer1024@example.com,Pune,Maharashtra,India,WEST,Corporate,2023-08-30
+1025,Aditya Sharma,customer1025@example.com,Bhopal,Madhya Pradesh,India,CENTRAL,Consumer,2023-09-28
+1026,Priya Sharma,customer1026@example.com,Ahmedabad,Gujarat,India,WEST,Home Office,2023-11-01
+1027,Kiran Gupta,customer1027@example.com,Kolkata,West Bengal,India,EAST,Home Office,2023-12-23
+1028,Tara Gupta,customer1028@example.com,Jaipur,Rajasthan,India,NORTH,Corporate,2023-07-05
+1029,Ishaan Patel,customer1029@example.com,Bhubaneswar,Odisha,India,EAST,Small Business,2023-05-22
+1030,Nila Patel,customer1030@example.com,Pune,Maharashtra,India,WEST,Small Business,2023-10-28
+1031,Ishaan Menon,customer1031@example.com,Kolkata,West Bengal,India,EAST,Home Office,2023-04-21
+1032,Arjun Gupta,customer1032@example.com,Mumbai,Maharashtra,India,WEST,Home Office,2023-04-12
+1033,Priya Murthy,customer1033@example.com,Bengaluru,Karnataka,India,SOUTH,Small Business,2023-07-04
+1034,Diya Das,customer1034@example.com,Bhubaneswar,Odisha,India,EAST,Consumer,2023-01-18
+1035,Aditya Iyer,customer1035@example.com,Chennai,Tamil Nadu,India,SOUTH,Home Office,2023-04-09
+1036,Vikram Nair,customer1036@example.com,Indore,Madhya Pradesh,India,CENTRAL,Home Office,2023-06-05
+1037,Meera Gupta,customer1037@example.com,Indore,Madhya Pradesh,India,CENTRAL,Consumer,2023-01-21
+1038,Aditya Nair,customer1038@example.com,Mumbai,Maharashtra,India,WEST,Small Business,2023-02-09
+1039,Priya Iyer,customer1039@example.com,Ahmedabad,Gujarat,India,WEST,Home Office,2023-06-05
+1040,Vikram Sharma,customer1040@example.com,Ahmedabad,Gujarat,India,WEST,Consumer,2023-05-03
+1041,Kavya Menon,customer1041@example.com,Indore,Madhya Pradesh,India,CENTRAL,Small Business,2023-03-18
+1042,Kavya Murthy,customer1042@example.com,Ahmedabad,Gujarat,India,WEST,Home Office,2023-10-24
+1043,Priya Das,customer1043@example.com,Mumbai,Maharashtra,India,WEST,Consumer,2023-06-14
+1044,Aditya Rao,customer1044@example.com,Patna,Bihar,India,EAST,Corporate,2023-11-27
+1045,Rohan Rao,customer1045@example.com,Pune,Maharashtra,India,WEST,Consumer,2023-01-05
+1046,Ananya Singh,customer1046@example.com,Chennai,Tamil Nadu,India,SOUTH,Corporate,2023-06-08
+1047,Kiran Menon,customer1047@example.com,Patna,Bihar,India,EAST,Consumer,2023-04-10
+1048,Nila Kapoor,customer1048@example.com,Chennai,Tamil Nadu,India,SOUTH,Corporate,2023-07-25
+1049,Sanjay Iyer,customer1049@example.com,Patna,Bihar,India,EAST,Home Office,2023-12-10
+1050,Tara Nair,customer1050@example.com,Mumbai,Maharashtra,India,WEST,Small Business,2023-05-28
+1051,Aarav Gupta,customer1051@example.com,Kochi,Kerala,India,SOUTH,Consumer,2023-01-04
+1052,Aditya Murthy,customer1052@example.com,Lucknow,Uttar Pradesh,India,NORTH,Consumer,2023-10-05
+1053,Aarav Murthy,customer1053@example.com,Lucknow,Uttar Pradesh,India,NORTH,Consumer,2023-06-10
+1054,Meera Patel,customer1054@example.com,Hyderabad,Telangana,India,SOUTH,Consumer,2023-05-18
+1055,Sanjay Gupta,customer1055@example.com,Coimbatore,Tamil Nadu,India,SOUTH,Consumer,2023-05-17
+1056,Arjun Gupta,customer1056@example.com,Patna,Bihar,India,EAST,Small Business,2023-12-01
+1057,Tara Nair,customer1057@example.com,Patna,Bihar,India,EAST,Small Business,2023-04-01
+1058,Priya Nair,customer1058@example.com,Coimbatore,Tamil Nadu,India,SOUTH,Consumer,2023-04-02
+1059,Ananya Kapoor,customer1059@example.com,Bhopal,Madhya Pradesh,India,CENTRAL,Home Office,2023-05-13
+1060,Diya Murthy,customer1060@example.com,Jaipur,Rajasthan,India,NORTH,Corporate,2023-12-09
+1061,Arjun Sharma,customer1061@example.com,Mumbai,Maharashtra,India,WEST,Small Business,2023-08-20
+1062,Kavya Kapoor,customer1062@example.com,Hyderabad,Telangana,India,SOUTH,Small Business,2023-03-30
+1063,Ananya Menon,customer1063@example.com,Jaipur,Rajasthan,India,NORTH,Home Office,2023-06-26
+1064,Diya Nair,customer1064@example.com,Indore,Madhya Pradesh,India,CENTRAL,Home Office,2023-07-08
+1065,Tara Das,customer1065@example.com,Mumbai,Maharashtra,India,WEST,Corporate,2023-07-16
+1066,Vikram Patel,customer1066@example.com,Chennai,Tamil Nadu,India,SOUTH,Consumer,2023-05-07
+1067,Vikram Gupta,customer1067@example.com,Indore,Madhya Pradesh,India,CENTRAL,Small Business,2023-10-11
+1068,Ananya Nair,customer1068@example.com,Bhubaneswar,Odisha,India,EAST,Small Business,2023-01-12
+1069,Priya Reddy,customer1069@example.com,Kolkata,West Bengal,India,EAST,Corporate,2023-10-19
+1070,Ishaan Reddy,customer1070@example.com,Indore,Madhya Pradesh,India,CENTRAL,Consumer,2023-12-18
+1071,Diya Rao,customer1071@example.com,Coimbatore,Tamil Nadu,India,SOUTH,Corporate,2023-01-28
+1072,Arjun Rao,customer1072@example.com,Patna,Bihar,India,EAST,Small Business,2023-10-26
+1073,Rohan Kapoor,customer1073@example.com,Mumbai,Maharashtra,India,WEST,Home Office,2023-11-12
+1074,Kiran Kapoor,customer1074@example.com,Patna,Bihar,India,EAST,Consumer,2023-11-27
+1075,Aarav Rao,customer1075@example.com,Bhubaneswar,Odisha,India,EAST,Corporate,2023-12-20
+1076,Ananya Nair,customer1076@example.com,Pune,Maharashtra,India,WEST,Small Business,2023-04-18
+1077,Ananya Sharma,customer1077@example.com,Kolkata,West Bengal,India,EAST,Consumer,2023-05-14
+1078,Rohan Rao,customer1078@example.com,Bhopal,Madhya Pradesh,India,CENTRAL,Small Business,2023-11-04
+1079,Aarav Rao,customer1079@example.com,Kochi,Kerala,India,SOUTH,Small Business,2023-03-07
+1080,Kavya Iyer,customer1080@example.com,Coimbatore,Tamil Nadu,India,SOUTH,Corporate,2023-07-26

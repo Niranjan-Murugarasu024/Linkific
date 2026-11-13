@@ -1,0 +1,31 @@
+product_id,sku,product_name,category,brand,unit_cost,list_price,is_active,updated_at
+2001,SKU-2001,Sports Product 01,Sports,BluePeak,11082.88,18890.50,true,2024-02-01
+2002,SKU-2002,Sports Product 02,Sports,Orbit,5852.58,9013.62,false,2024-01-31
+2003,SKU-2003,Electronics Product 03,Electronics,BluePeak,9777.51,12828.52,true,2023-08-04
+2004,SKU-2004,Sports Product 04,Sports,Orbit,5517.94,7312.89,true,2023-09-10
+2005,SKU-2005,Office Product 05,Office Supplies,Northstar,10980.31,14162.21,true,2024-01-04
+2006,SKU-2006,Sports Product 06,Sports,Nova,16717.84,26440.50,true,2024-03-23
+2007,SKU-2007,Office Product 07,Office Supplies,BluePeak,7579.82,9211.10,true,2023-10-07
+2008,SKU-2008,Clothing Product 08,Clothing,BluePeak,13785.74,18564.42,true,2023-07-21
+2009,SKU-2009,Sports Product 09,Sports,BluePeak,10737.65,14726.51,true,2024-02-01
+2010,SKU-2010,Clothing Product 10,Clothing,Northstar,12057.95,15418.89,true,2023-10-04
+2011,SKU-2011,Sports Product 11,Sports,BluePeak,9509.33,16049.22,true,2023-06-05
+2012,SKU-2012,Sports Product 12,Sports,Northstar,17324.00,29283.12,true,2023-10-25
+2013,SKU-2013,Office Product 13,Office Supplies,Aster,4458.68,6717.72,true,2024-03-01
+2014,SKU-2014,Sports Product 14,Sports,Vertex,11701.35,16646.52,true,2023-07-25
+2015,SKU-2015,Electronics Product 15,Electronics,Aster,5556.53,10106.47,false,2023-11-11
+2016,SKU-2016,Electronics Product 16,Electronics,Vertex,12520.58,16868.62,true,2023-08-29
+2017,SKU-2017,Electronics Product 17,Electronics,Orbit,8846.59,15222.62,true,2023-10-08
+2018,SKU-2018,Office Product 18,Office Supplies,Aster,6636.51,10240.87,true,2023-12-20
+2019,SKU-2019,Office Product 19,Office Supplies,BluePeak,2918.84,5206.54,true,2023-10-22
+2020,SKU-2020,Home Product 20,Home & Kitchen,Aster,9548.46,13780.51,true,2023-06-09
+2021,SKU-2021,Office Product 21,Office Supplies,Nova,15815.25,21795.10,true,2024-01-28
+2022,SKU-2022,Office Product 22,Office Supplies,Northstar,12852.44,22310.59,true,2023-11-19
+2023,SKU-2023,Office Product 23,Office Supplies,Orbit,9050.01,11985.56,true,2024-01-22
+2024,SKU-2024,Clothing Product 24,Clothing,Aster,9749.41,16444.31,true,2023-12-08
+2025,SKU-2025,Home Product 25,Home & Kitchen,Nova,7236.66,11446.80,true,2023-06-05
+2026,SKU-2026,Office Product 26,Office Supplies,Aster,1149.08,1512.84,true,2024-01-03
+2027,SKU-2027,Sports Product 27,Sports,Aster,16117.81,20776.68,true,2023-10-18
+2028,SKU-2028,Clothing Product 28,Clothing,Aster,10278.51,16650.58,false,2023-09-03
+2029,SKU-2029,Electronics Product 29,Electronics,Vertex,13387.36,19406.89,true,2023-06-04
+2030,SKU-2030,Electronics Product 30,Electronics,Aster,6750.00,8696.64,true,2023-08-18
