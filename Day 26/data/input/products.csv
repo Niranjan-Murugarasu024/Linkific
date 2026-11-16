@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_cost
+P0001,Wireless Mouse 1,Accessories,433.5
+P0002,Mechanical Keyboard 1,Accessories,337.0
+P0003,USB-C Cable 1,Accessories,150.5
+P0004,Laptop Stand 1,Accessories,1504.0
+P0005,Bluetooth Speaker 1,Accessories,1047.5
+P0006,Webcam 1,Peripherals,931.0
+P0007,Headset 1,Audio,1250.0
+P0008,SSD 1TB 1,Storage,2813.5
+P0009,Portable HDD 1,Storage,2427.0
+P0010,27-inch Monitor 1,Displays,960.5
+P0011,4K Monitor 1,Displays,1374.0
+P0012,Wi-Fi Router 1,Networking,1817.5
+P0013,Printer 1,Office,6481.0
+P0014,Docking Station 1,Office,5200.0
+P0015,Gaming Mouse 1,Gaming,853.5
+P0016,Mechanical Gaming Keyboard 1,Gaming,1527.0
+P0017,USB Microphone 1,Audio,1030.5
+P0018,Laptop Sleeve 1,Accessories,574.0
+P0019,USB Flash Drive 1,Storage,277.5
+P0020,Graphics Tablet 1,Peripherals,4281.0
+P0021,Wireless Mouse 2,Accessories,420.0
+P0022,Mechanical Keyboard 2,Accessories,323.5
+P0023,USB-C Cable 2,Accessories,137.0
+P0024,Laptop Stand 2,Accessories,1490.5
+P0025,Bluetooth Speaker 2,Accessories,1034.0
+P0026,Webcam 2,Peripherals,917.5
+P0027,Headset 2,Audio,1331.0
+P0028,SSD 1TB 2,Storage,2800.0
+P0029,Portable HDD 2,Storage,2413.5
+P0030,27-inch Monitor 2,Displays,947.0
+P0031,4K Monitor 2,Displays,1360.5
+P0032,Wi-Fi Router 2,Networking,1804.0
+P0033,Printer 2,Office,6467.5
+P0034,Docking Station 2,Office,5281.0
+P0035,Gaming Mouse 2,Gaming,840.0
+P0036,Mechanical Gaming Keyboard 2,Gaming,1513.5
+P0037,USB Microphone 2,Audio,1017.0
+P0038,Laptop Sleeve 2,Accessories,560.5
+P0039,USB Flash Drive 2,Storage,264.0
+P0040,Graphics Tablet 2,Peripherals,4267.5
