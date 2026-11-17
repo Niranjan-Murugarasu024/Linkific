@@ -1,0 +1,4 @@
+expected_status,actual_status,count
+DUPLICATE,DUPLICATE,2000
+REJECT,REJECT,1414
+VALID,VALID,196586

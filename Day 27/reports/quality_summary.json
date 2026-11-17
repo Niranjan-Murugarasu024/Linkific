@@ -1,0 +1,56 @@
+{
+  "raw_rows": 200000,
+  "valid_rows": 196586,
+  "rejected_rows": 1414,
+  "duplicate_rows": 2000,
+  "reconciled_rows": 200000,
+  "late_arrival_rows": 2027,
+  "false_rejections": 0,
+  "false_acceptances": 0,
+  "manifest_misclassifications": 0,
+  "foreign_key_violations": 0,
+  "rejection_reason_breakdown": [
+    {
+      "rejection_reason": "INVALID_DISCOUNT|ORDER_AMOUNT_MISMATCH",
+      "count": 207
+    },
+    {
+      "rejection_reason": "ORDER_AMOUNT_MISMATCH",
+      "count": 204
+    },
+    {
+      "rejection_reason": "INVALID_ORDER_TIMESTAMP",
+      "count": 203
+    },
+    {
+      "rejection_reason": "INVALID_UNIT_PRICE|ORDER_AMOUNT_MISMATCH",
+      "count": 202
+    },
+    {
+      "rejection_reason": "INVALID_QUANTITY|ORDER_AMOUNT_MISMATCH",
+      "count": 201
+    },
+    {
+      "rejection_reason": "PRODUCT_NOT_FOUND",
+      "count": 199
+    },
+    {
+      "rejection_reason": "CUSTOMER_NOT_FOUND",
+      "count": 198
+    }
+  ],
+  "tests": {
+    "raw_row_count_matches_target": true,
+    "manifest_reconciles_to_raw": true,
+    "valid_rejected_duplicate_reconciliation": true,
+    "all_source_rows_classified_once": true,
+    "no_duplicate_order_ids_in_silver": true,
+    "no_null_order_ids_in_silver": true,
+    "no_null_customer_ids_in_silver": true,
+    "no_null_product_ids_in_silver": true,
+    "no_foreign_key_violations_in_silver": true,
+    "zero_false_rejections": true,
+    "zero_false_acceptances": true,
+    "zero_manifest_misclassifications": true
+  }
+}

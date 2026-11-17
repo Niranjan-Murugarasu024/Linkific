@@ -1,0 +1,18 @@
+{
+  "project_name": "Day 27 - Databricks Pipeline Testing",
+  "seed": 27,
+  "orders": 200000,
+  "customers": 25000,
+  "products": 5000,
+  "regions": 20,
+  "duplicate_records": 2000,
+  "batch_count": 4,
+  "batch_size": 50000,
+  "input_file_names": {
+    "orders": "orders.csv",
+    "customers": "customers.csv",
+    "products": "products.csv",
+    "regions": "regions.csv",
+    "expected_manifest": "expected_manifest.csv"
+  }
+}

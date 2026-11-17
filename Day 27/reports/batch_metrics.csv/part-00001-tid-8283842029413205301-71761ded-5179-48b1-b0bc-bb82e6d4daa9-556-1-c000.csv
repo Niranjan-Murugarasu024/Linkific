@@ -1,0 +1,2 @@
+batch_id,duplicate_rows,duration_seconds,new_rows,raw_rows,rejected_rows,status,valid_rows
+BATCH_2,0,16.31,50000,50000,357,PROCESSED,49643

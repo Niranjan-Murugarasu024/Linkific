@@ -1,0 +1,26 @@
+{
+  "seed": 27,
+  "orders_raw_records": 200000,
+  "unique_order_events_before_duplicate_injection": 198000,
+  "duplicate_source_records": 2000,
+  "expected_valid_source_records": 196586,
+  "expected_rejected_source_records": 1414,
+  "expected_duplicate_source_records": 2000,
+  "customers": 25000,
+  "products": 5000,
+  "regions": 20,
+  "batches": {
+    "BATCH_1": 50000,
+    "BATCH_2": 50000,
+    "BATCH_3": 50000,
+    "BATCH_4": 50000
+  },
+  "files": {
+    "orders": 200000,
+    "customers": 25000,
+    "products": 5000,
+    "regions": 20,
+    "expected_manifest": 200000
+  },
+  "generated_at_utc": "2026-11-17T04:11:16Z"
+}

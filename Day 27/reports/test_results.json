@@ -1,0 +1,121 @@
+{
+  "project": "Day 27 - Databricks Large-Volume Pipeline Testing",
+  "quality": {
+    "raw_rows": 200000,
+    "valid_rows": 196586,
+    "rejected_rows": 1414,
+    "duplicate_rows": 2000,
+    "reconciled_rows": 200000,
+    "late_arrival_rows": 2027,
+    "false_rejections": 0,
+    "false_acceptances": 0,
+    "manifest_misclassifications": 0,
+    "foreign_key_violations": 0,
+    "rejection_reason_breakdown": [
+      {
+        "rejection_reason": "INVALID_DISCOUNT|ORDER_AMOUNT_MISMATCH",
+        "count": 207
+      },
+      {
+        "rejection_reason": "ORDER_AMOUNT_MISMATCH",
+        "count": 204
+      },
+      {
+        "rejection_reason": "INVALID_ORDER_TIMESTAMP",
+        "count": 203
+      },
+      {
+        "rejection_reason": "INVALID_UNIT_PRICE|ORDER_AMOUNT_MISMATCH",
+        "count": 202
+      },
+      {
+        "rejection_reason": "INVALID_QUANTITY|ORDER_AMOUNT_MISMATCH",
+        "count": 201
+      },
+      {
+        "rejection_reason": "PRODUCT_NOT_FOUND",
+        "count": 199
+      },
+      {
+        "rejection_reason": "CUSTOMER_NOT_FOUND",
+        "count": 198
+      }
+    ],
+    "tests": {
+      "raw_row_count_matches_target": true,
+      "manifest_reconciles_to_raw": true,
+      "valid_rejected_duplicate_reconciliation": true,
+      "all_source_rows_classified_once": true,
+      "no_duplicate_order_ids_in_silver": true,
+      "no_null_order_ids_in_silver": true,
+      "no_null_customer_ids_in_silver": true,
+      "no_null_product_ids_in_silver": true,
+      "no_foreign_key_violations_in_silver": true,
+      "zero_false_rejections": true,
+      "zero_false_acceptances": true,
+      "zero_manifest_misclassifications": true
+    }
+  },
+  "replay_idempotency": {
+    "passed": true,
+    "new_rows_on_replay": 0,
+    "before_counts": {
+      "silver": 196586,
+      "quarantine": 1414,
+      "duplicates": 2000
+    },
+    "after_counts": {
+      "silver": 196586,
+      "quarantine": 1414,
+      "duplicates": 2000
+    }
+  },
+  "delta_merge_update_test": {
+    "passed": true,
+    "updated_rows": 100,
+    "row_count_before": 196586,
+    "row_count_after": 196586
+  },
+  "batch_metrics": [
+    {
+      "batch_id": "BATCH_1",
+      "raw_rows": 50000,
+      "new_rows": 50000,
+      "valid_rows": 49645,
+      "rejected_rows": 355,
+      "duplicate_rows": 0,
+      "duration_seconds": 13.889,
+      "status": "PROCESSED"
+    },
+    {
+      "batch_id": "BATCH_2",
+      "raw_rows": 50000,
+      "new_rows": 50000,
+      "valid_rows": 49643,
+      "rejected_rows": 357,
+      "duplicate_rows": 0,
+      "duration_seconds": 16.31,
+      "status": "PROCESSED"
+    },
+    {
+      "batch_id": "BATCH_3",
+      "raw_rows": 50000,
+      "new_rows": 50000,
+      "valid_rows": 49640,
+      "rejected_rows": 360,
+      "duplicate_rows": 0,
+      "duration_seconds": 15.283,
+      "status": "PROCESSED"
+    },
+    {
+      "batch_id": "BATCH_4",
+      "raw_rows": 50000,
+      "new_rows": 50000,
+      "valid_rows": 47658,
+      "rejected_rows": 342,
+      "duplicate_rows": 2000,
+      "duration_seconds": 17.449,
+      "status": "PROCESSED"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "raw_orders": 200000,
+  "batch_count": 4,
+  "batch_size_target": 50000,
+  "bronze_ingestion_seconds": 10.614,
+  "incremental_processing_seconds": 62.933,
+  "incremental_pipeline_throughput_records_per_second": 3178.0,
+  "baseline_region_query": {
+    "runs_seconds": [
+      0.6874,
+      0.6356,
+      0.6701
+    ],
+    "median_seconds": 0.6701
+  },
+  "optimization_action": "OPTIMIZE with ZORDER BY (region_id, order_date)",
+  "optimization_seconds": 4.208,
+  "optimized_region_query": {
+    "runs_seconds": [
+      0.6991,
+      0.5822,
+      0.5866
+    ],
+    "median_seconds": 0.5866
+  },
+  "query_time_change_percent_positive_means_faster": 12.46,
+  "optimization_error_if_any": null,
+  "compute_master": "not exposed by this compute type",
+  "spark_version": "4.2.0"
+}
