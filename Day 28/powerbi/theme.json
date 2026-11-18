@@ -1,0 +1,16 @@
+{
+  "name": "E-Commerce BI - Professional",
+  "dataColors": [
+    "#2563EB",
+    "#0F766E",
+    "#F59E0B",
+    "#7C3AED",
+    "#DB2777",
+    "#0891B2",
+    "#64748B",
+    "#65A30D"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#172033",
+  "tableAccent": "#2563EB"
+}
