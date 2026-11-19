@@ -20,18 +20,22 @@ ORDER BY table_name;
 -- This reads PostgreSQL metadata; it avoids rescanning fact rows to re-prove
 -- the primary key and foreign keys already enforced by the database.
 SELECT
-    conrelid::regclass AS table_name,
-    conname AS constraint_name,
-    CASE contype
+    table_namespace.nspname || '.' || table_rel.relname AS table_name,
+    constraint_info.conname AS constraint_name,
+    CASE constraint_info.contype
         WHEN 'p' THEN 'PRIMARY KEY'
         WHEN 'f' THEN 'FOREIGN KEY'
         WHEN 'u' THEN 'UNIQUE'
-        ELSE contype::text
+        ELSE constraint_info.contype::text
     END AS constraint_type,
-    pg_get_constraintdef(oid) AS definition
-FROM pg_constraint
-WHERE connamespace = 'day24_gold'::regnamespace
-ORDER BY conrelid::regclass::text, conname;
+    pg_get_constraintdef(constraint_info.oid) AS definition
+FROM pg_constraint constraint_info
+JOIN pg_class table_rel
+    ON table_rel.oid = constraint_info.conrelid
+JOIN pg_namespace table_namespace
+    ON table_namespace.oid = table_rel.relnamespace
+WHERE table_namespace.nspname = 'day24_gold'
+ORDER BY table_rel.relname, constraint_info.conname;
 
 -- 4. Check fact measures, arithmetic, foreign-key lookups, and report totals
 -- in one fact-table pass. Dimension primary-key indexes support the joins.
